@@ -1,0 +1,10 @@
+Variable, Type, Segment, Expectation, Comment
+UID,string,,,Used to indentify unique machines
+Machine Type,string,machine,High,May assume we are looking at different types of machines.
+Air temperature [K],float,environment,Medium,Together with process temp may assume correlated to some type of errors.
+Process temperature [K],float,process,High,Correlated with air temperature and machine
+Rotational speed [rpm],float,machine,Medium,Specification of machine
+Torque [Nm],float,machine,Medium,Specification of machine.
+Tool wear [min],int,process,High,May assume that tool wear affects machine performance and stricly increases over time.
+Target,int,process,Low,Unknown variable with some mapping to Failure Type
+Failure Type,string,,Target,

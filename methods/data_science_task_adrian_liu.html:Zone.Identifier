@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=2
+ReferrerUrl=http://localhost:8888/lab/tree/data_science_task_adrian_liu.ipynb
+HostUrl=http://localhost:8888/nbconvert/html/data_science_task_adrian_liu.ipynb?download=true
