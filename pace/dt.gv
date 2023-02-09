@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<dow &le; 4.5<br/>squared_error = 0.021<br/>samples = 292<br/>value = [[0.228]<br/>[0.258]<br/>[0.253]<br/>[0.259]]>, fillcolor="#ffffff"] ;
+1 [label=<dow &le; 0.5<br/>squared_error = 0.02<br/>samples = 209<br/>value = [[0.272]<br/>[0.247]<br/>[0.218]<br/>[0.261]]>, fillcolor="#fcf0e8"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<month &le; 17.5<br/>squared_error = 0.018<br/>samples = 41<br/>value = [[0.2]<br/>[0.245]<br/>[0.299]<br/>[0.255]]>, fillcolor="#f9e0cf"] ;
+1 -> 2 ;
+3 [label=<squared_error = 0.014<br/>samples = 24<br/>value = [[0.188]<br/>[0.203]<br/>[0.324]<br/>[0.285]]>, fillcolor="#f3c5a3"] ;
+2 -> 3 ;
+4 [label=<squared_error = 0.02<br/>samples = 17<br/>value = [[0.218]<br/>[0.305]<br/>[0.265]<br/>[0.212]]>, fillcolor="#fcf0e8"] ;
+2 -> 4 ;
+5 [label=<doy &le; 9.5<br/>squared_error = 0.019<br/>samples = 168<br/>value = [[0.29]<br/>[0.248]<br/>[0.198]<br/>[0.262]]>, fillcolor="#fbede2"] ;
+1 -> 5 ;
+6 [label=<squared_error = 0.019<br/>samples = 6<br/>value = [[0.123]<br/>[0.124]<br/>[0.339]<br/>[0.414]]>, fillcolor="#fae8db"] ;
+5 -> 6 ;
+7 [label=<squared_error = 0.018<br/>samples = 162<br/>value = [[0.296]<br/>[0.252]<br/>[0.193]<br/>[0.256]]>, fillcolor="#fae6d8"] ;
+5 -> 7 ;
+8 [label=<doy &le; 61.5<br/>squared_error = 0.019<br/>samples = 83<br/>value = [[0.118]<br/>[0.287]<br/>[0.34]<br/>[0.255]]>, fillcolor="#fbebdf"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label=<doy &le; 23.0<br/>squared_error = 0.011<br/>samples = 17<br/>value = [[0.172]<br/>[0.453]<br/>[0.189]<br/>[0.185]]>, fillcolor="#eda877"] ;
+8 -> 9 ;
+10 [label=<squared_error = 0.006<br/>samples = 6<br/>value = [[0.247]<br/>[0.35]<br/>[0.147]<br/>[0.256]]>, fillcolor="#e58139"] ;
+9 -> 10 ;
+11 [label=<squared_error = 0.008<br/>samples = 11<br/>value = [[0.131]<br/>[0.51]<br/>[0.212]<br/>[0.146]]>, fillcolor="#e9975b"] ;
+9 -> 11 ;
+12 [label=<doy &le; 198.0<br/>squared_error = 0.016<br/>samples = 66<br/>value = [[0.104]<br/>[0.244]<br/>[0.379]<br/>[0.273]]>, fillcolor="#f7d6bf"] ;
+8 -> 12 ;
+13 [label=<squared_error = 0.013<br/>samples = 39<br/>value = [[0.094]<br/>[0.192]<br/>[0.388]<br/>[0.326]]>, fillcolor="#f2bf9b"] ;
+12 -> 13 ;
+14 [label=<squared_error = 0.015<br/>samples = 27<br/>value = [[0.119]<br/>[0.319]<br/>[0.366]<br/>[0.196]]>, fillcolor="#f5cfb3"] ;
+12 -> 14 ;
+}

@@ -1,0 +1,4301 @@
+,Price,Reservation date,Room type,Hotel name
+0,27.9,2023-10-18,,Hotel C
+1,25.7,2023-10-18,Twin room,Hotel C
+2,184.0,2023-10-18,Studio,Hotel D
+3,44.9,2023-10-18,Single room,
+4,35.0,2023-10-18,Female dorm,Hostel A
+5,32.0,2023-10-18,Male dorm,Hostel A
+6,38.7,2023-10-18,,
+7,35.6,2023-10-18,Twin room,
+8,32.4,2023-10-18,Single room,Hotel C
+9,28.5,2023-10-18,Large dorm,Hostel B
+10,184.0,2023-10-17,Studio,Hotel D
+11,26.8,2023-10-17,,Hotel C
+12,38.7,2023-10-17,,
+13,32.0,2023-10-17,Male dorm,Hostel A
+14,35.0,2023-10-17,Female dorm,Hostel A
+15,31.1,2023-10-17,Single room,Hotel C
+16,24.7,2023-10-17,Twin room,Hotel C
+17,35.6,2023-10-17,Twin room,
+18,44.9,2023-10-17,Single room,
+19,28.8,2023-10-17,Large dorm,Hostel B
+20,23.8,2023-10-16,Twin room,Hotel C
+21,42.8,2023-10-16,Single room,
+22,35.0,2023-10-16,Female dorm,Hostel A
+23,30.0,2023-10-16,Single room,Hotel C
+24,32.0,2023-10-16,Male dorm,Hostel A
+25,36.9,2023-10-16,,
+26,28.0,2023-10-16,Large dorm,Hostel B
+27,25.9,2023-10-16,,Hotel C
+28,33.9,2023-10-16,Twin room,
+29,184.0,2023-10-16,Studio,Hotel D
+30,30.0,2023-10-15,Single room,Hotel C
+31,36.9,2023-10-15,,
+32,23.8,2023-10-15,Twin room,Hotel C
+33,25.9,2023-10-15,,Hotel C
+34,33.9,2023-10-15,Twin room,
+35,32.0,2023-10-15,Male dorm,Hostel A
+36,29.3,2023-10-15,Large dorm,Hostel B
+37,42.8,2023-10-15,Single room,
+38,184.0,2023-10-15,Studio,Hotel D
+39,35.0,2023-10-15,Female dorm,Hostel A
+40,282.0,2023-10-14,Studio,Hotel D
+41,37.0,2023-10-14,Single room,Hotel C
+42,53.0,2023-10-14,Single room,
+43,73.75,2023-10-14,Female dorm,Hostel A
+44,31.9,2023-10-14,,Hotel C
+45,29.3,2023-10-14,Twin room,Hotel C
+46,45.7,2023-10-14,,
+47,42.0,2023-10-14,Twin room,
+48,63.0,2023-10-14,Male dorm,Hostel A
+49,38.6,2023-10-14,Large dorm,Hostel B
+50,55.0,2023-10-13,Female dorm,Hostel A
+51,238.0,2023-10-13,Studio,Hotel D
+52,29.3,2023-10-13,Twin room,Hotel C
+53,48.0,2023-10-13,Male dorm,Hostel A
+54,38.5,2023-10-13,Large dorm,Hostel B
+55,53.0,2023-10-13,Single room,
+56,45.7,2023-10-13,,
+57,31.9,2023-10-13,,Hotel C
+58,42.0,2023-10-13,Twin room,
+59,37.0,2023-10-13,Single room,Hotel C
+60,29.2,2023-10-12,Large dorm,Hostel B
+61,38.8,2023-10-12,Twin room,
+62,34.0,2023-10-12,Male dorm,Hostel A
+63,28.7,2023-10-12,,Hotel C
+64,33.3,2023-10-12,Single room,Hotel C
+65,26.4,2023-10-12,Twin room,Hotel C
+66,184.0,2023-10-12,Studio,Hotel D
+67,49.0,2023-10-12,Single room,
+68,42.2,2023-10-12,,
+69,37.5,2023-10-12,Female dorm,Hostel A
+70,35.6,2023-10-11,Twin room,
+71,32.4,2023-10-11,Single room,Hotel C
+72,32.0,2023-10-11,Male dorm,Hostel A
+73,27.9,2023-10-11,,Hotel C
+74,29.0,2023-10-11,Large dorm,Hostel B
+75,184.0,2023-10-11,Studio,Hotel D
+76,25.7,2023-10-11,Twin room,Hotel C
+77,38.7,2023-10-11,,
+78,44.9,2023-10-11,Single room,
+79,35.0,2023-10-11,Female dorm,Hostel A
+80,42.0,2023-10-10,Male dorm,Hostel A
+81,24.7,2023-10-10,Twin room,Hotel C
+82,31.1,2023-10-10,Single room,Hotel C
+83,38.7,2023-10-10,,
+84,47.5,2023-10-10,Female dorm,Hostel A
+85,184.0,2023-10-10,Studio,Hotel D
+86,26.8,2023-10-10,,Hotel C
+87,28.8,2023-10-10,Large dorm,Hostel B
+88,44.9,2023-10-10,Single room,
+89,35.6,2023-10-10,Twin room,
+90,36.9,2023-10-09,,
+91,23.8,2023-10-09,Twin room,Hotel C
+92,42.0,2023-10-09,Male dorm,Hostel A
+93,33.9,2023-10-09,Twin room,
+94,30.0,2023-10-09,Single room,Hotel C
+95,28.0,2023-10-09,Large dorm,Hostel B
+96,184.0,2023-10-09,Studio,Hotel D
+97,47.5,2023-10-09,Female dorm,Hostel A
+98,42.8,2023-10-09,Single room,
+99,25.9,2023-10-09,,Hotel C
+100,184.0,2023-10-08,Studio,Hotel D
+101,55.0,2023-10-08,Female dorm,Hostel A
+102,36.9,2023-10-08,,
+103,30.0,2023-10-08,Single room,Hotel C
+104,25.9,2023-10-08,,Hotel C
+105,23.8,2023-10-08,Twin room,Hotel C
+106,42.8,2023-10-08,Single room,
+107,48.0,2023-10-08,Male dorm,Hostel A
+108,29.3,2023-10-08,Large dorm,Hostel B
+109,33.9,2023-10-08,Twin room,
+110,38.6,2023-10-07,Large dorm,Hostel B
+111,42.0,2023-10-07,Twin room,
+112,29.3,2023-10-07,Twin room,Hotel C
+113,53.0,2023-10-07,Single room,
+114,93.0,2023-10-07,Male dorm,Hostel A
+115,282.0,2023-10-07,Studio,Hotel D
+116,111.25,2023-10-07,Female dorm,Hostel A
+117,37.0,2023-10-07,Single room,Hotel C
+118,45.7,2023-10-07,,
+119,31.9,2023-10-07,,Hotel C
+120,48.0,2023-10-06,Male dorm,Hostel A
+121,31.9,2023-10-06,,Hotel C
+122,37.0,2023-10-06,Single room,Hotel C
+123,29.3,2023-10-06,Twin room,Hotel C
+124,45.7,2023-10-06,,
+125,55.0,2023-10-06,Female dorm,Hostel A
+126,42.0,2023-10-06,Twin room,
+127,38.5,2023-10-06,Large dorm,Hostel B
+128,53.0,2023-10-06,Single room,
+129,238.0,2023-10-06,Studio,Hotel D
+130,34.0,2023-10-05,Male dorm,Hostel A
+131,42.2,2023-10-05,,
+132,26.4,2023-10-05,Twin room,Hotel C
+133,29.2,2023-10-05,Large dorm,Hostel B
+134,37.5,2023-10-05,Female dorm,Hostel A
+135,28.7,2023-10-05,,Hotel C
+136,184.0,2023-10-05,Studio,Hotel D
+137,33.3,2023-10-05,Single room,Hotel C
+138,49.0,2023-10-05,Single room,
+139,38.8,2023-10-05,Twin room,
+140,38.7,2023-10-04,,
+141,32.4,2023-10-04,Single room,Hotel C
+142,32.0,2023-10-04,Male dorm,Hostel A
+143,184.0,2023-10-04,Studio,Hotel D
+144,29.0,2023-10-04,Large dorm,Hostel B
+145,35.6,2023-10-04,Twin room,
+146,35.0,2023-10-04,Female dorm,Hostel A
+147,27.9,2023-10-04,,Hotel C
+148,25.7,2023-10-04,Twin room,Hotel C
+149,44.9,2023-10-04,Single room,
+150,32.0,2023-10-03,Male dorm,Hostel A
+151,24.7,2023-10-03,Twin room,Hotel C
+152,35.0,2023-10-03,Female dorm,Hostel A
+153,31.1,2023-10-03,Single room,Hotel C
+154,28.8,2023-10-03,Large dorm,Hostel B
+155,38.7,2023-10-03,,
+156,44.9,2023-10-03,Single room,
+157,26.8,2023-10-03,,Hotel C
+158,35.6,2023-10-03,Twin room,
+159,184.0,2023-10-03,Studio,Hotel D
+160,25.9,2023-10-02,,Hotel C
+161,184.0,2023-10-02,Studio,Hotel D
+162,32.0,2023-10-02,Male dorm,Hostel A
+163,42.8,2023-10-02,Single room,
+164,35.0,2023-10-02,Female dorm,Hostel A
+165,33.9,2023-10-02,Twin room,
+166,28.0,2023-10-02,Large dorm,Hostel B
+167,36.9,2023-10-02,,
+168,23.8,2023-10-02,Twin room,Hotel C
+169,30.0,2023-10-02,Single room,Hotel C
+170,29.3,2023-10-01,Large dorm,Hostel B
+171,30.0,2023-10-01,Single room,Hotel C
+172,23.8,2023-10-01,Twin room,Hotel C
+173,184.0,2023-10-01,Studio,Hotel D
+174,42.8,2023-10-01,Single room,
+175,33.9,2023-10-01,Twin room,
+176,25.9,2023-10-01,,Hotel C
+177,32.0,2023-10-01,Male dorm,Hostel A
+178,36.9,2023-10-01,,
+179,35.0,2023-10-01,Female dorm,Hostel A
+180,45.7,2023-09-30,,
+181,42.0,2023-09-30,Twin room,
+182,40.0,2023-09-30,Large dorm,Hostel B
+183,300.0,2023-09-30,Studio,Hotel D
+184,63.0,2023-09-30,Male dorm,Hostel A
+185,34.7,2023-09-30,,Hotel C
+186,31.9,2023-09-30,Twin room,Hotel C
+187,53.0,2023-09-30,Single room,
+188,73.75,2023-09-30,Female dorm,Hostel A
+189,40.3,2023-09-30,Single room,Hotel C
+190,34.7,2023-09-29,,Hotel C
+191,42.0,2023-09-29,Twin room,
+192,48.0,2023-09-29,Male dorm,Hostel A
+193,55.0,2023-09-29,Female dorm,Hostel A
+194,31.9,2023-09-29,Twin room,Hotel C
+195,45.7,2023-09-29,,
+196,40.0,2023-09-29,Large dorm,Hostel B
+197,53.0,2023-09-29,Single room,
+198,270.0,2023-09-29,Studio,Hotel D
+199,40.3,2023-09-29,Single room,Hotel C
+200,49.0,2023-09-28,Single room,
+201,32.6,2023-09-28,,Hotel C
+202,36.0,2023-09-28,Male dorm,Hostel A
+203,35.9,2023-09-28,Large dorm,Hostel B
+204,42.2,2023-09-28,,
+205,37.8,2023-09-28,Single room,Hotel C
+206,38.8,2023-09-28,Twin room,
+207,40.0,2023-09-28,Female dorm,Hostel A
+208,206.0,2023-09-28,Studio,Hotel D
+209,30.0,2023-09-28,Twin room,Hotel C
+210,199.0,2023-09-27,Studio,Hotel D
+211,34.6,2023-09-27,Large dorm,Hostel B
+212,38.7,2023-09-27,,
+213,30.3,2023-09-27,,Hotel C
+214,35.1,2023-09-27,Single room,Hotel C
+215,44.9,2023-09-27,Single room,
+216,34.0,2023-09-27,Male dorm,Hostel A
+217,35.6,2023-09-27,Twin room,
+218,27.9,2023-09-27,Twin room,Hotel C
+219,37.5,2023-09-27,Female dorm,Hostel A
+220,34.0,2023-09-26,Male dorm,Hostel A
+221,44.9,2023-09-26,Single room,
+222,27.9,2023-09-26,Twin room,Hotel C
+223,190.0,2023-09-26,Studio,Hotel D
+224,35.6,2023-09-26,Twin room,
+225,30.3,2023-09-26,,Hotel C
+226,35.3,2023-09-26,Large dorm,Hostel B
+227,35.1,2023-09-26,Single room,Hotel C
+228,37.5,2023-09-26,Female dorm,Hostel A
+229,38.7,2023-09-26,,
+230,37.5,2023-09-25,Female dorm,Hostel A
+231,42.8,2023-09-25,Single room,
+232,33.9,2023-09-25,Twin room,
+233,36.9,2023-09-25,,
+234,29.2,2023-09-25,,Hotel C
+235,26.9,2023-09-25,Twin room,Hotel C
+236,34.0,2023-09-25,Male dorm,Hostel A
+237,35.0,2023-09-25,Large dorm,Hostel B
+238,187.0,2023-09-25,Studio,Hotel D
+239,33.9,2023-09-25,Single room,Hotel C
+240,33.9,2023-09-24,Single room,Hotel C
+241,26.9,2023-09-24,Twin room,Hotel C
+242,42.8,2023-09-24,Single room,
+243,36.4,2023-09-24,Large dorm,Hostel B
+244,36.9,2023-09-24,,
+245,32.5,2023-09-24,Female dorm,Hostel A
+246,189.0,2023-09-24,Studio,Hotel D
+247,29.2,2023-09-24,,Hotel C
+248,30.0,2023-09-24,Male dorm,Hostel A
+249,33.9,2023-09-24,Twin room,
+250,45.7,2023-09-23,,
+251,31.9,2023-09-23,Twin room,Hotel C
+252,73.75,2023-09-23,Female dorm,Hostel A
+253,63.0,2023-09-23,Male dorm,Hostel A
+254,42.0,2023-09-23,Twin room,
+255,300.0,2023-09-23,Studio,Hotel D
+256,34.7,2023-09-23,,Hotel C
+257,40.0,2023-09-23,Large dorm,Hostel B
+258,53.0,2023-09-23,Single room,
+259,40.3,2023-09-23,Single room,Hotel C
+260,42.0,2023-09-22,Twin room,
+261,40.0,2023-09-22,Large dorm,Hostel B
+262,45.7,2023-09-22,,
+263,48.0,2023-09-22,Male dorm,Hostel A
+264,40.3,2023-09-22,Single room,Hotel C
+265,53.0,2023-09-22,Single room,
+266,34.7,2023-09-22,,Hotel C
+267,31.9,2023-09-22,Twin room,Hotel C
+268,55.0,2023-09-22,Female dorm,Hostel A
+269,269.0,2023-09-22,Studio,Hotel D
+270,202.0,2023-09-21,Studio,Hotel D
+271,30.0,2023-09-21,Twin room,Hotel C
+272,49.0,2023-09-21,Single room,
+273,42.2,2023-09-21,,
+274,32.6,2023-09-21,,Hotel C
+275,38.8,2023-09-21,Twin room,
+276,36.0,2023-09-21,Male dorm,Hostel A
+277,37.8,2023-09-21,Single room,Hotel C
+278,40.0,2023-09-21,Female dorm,Hostel A
+279,36.7,2023-09-21,Large dorm,Hostel B
+280,35.6,2023-09-20,Twin room,
+281,37.5,2023-09-20,Female dorm,Hostel A
+282,27.9,2023-09-20,Twin room,Hotel C
+283,199.0,2023-09-20,Studio,Hotel D
+284,34.0,2023-09-20,Male dorm,Hostel A
+285,38.7,2023-09-20,,
+286,35.1,2023-09-20,Single room,Hotel C
+287,44.9,2023-09-20,Single room,
+288,30.3,2023-09-20,,Hotel C
+289,35.5,2023-09-20,Large dorm,Hostel B
+290,35.6,2023-09-19,Twin room,
+291,37.5,2023-09-19,Female dorm,Hostel A
+292,34.0,2023-09-19,Male dorm,Hostel A
+293,44.9,2023-09-19,Single room,
+294,38.7,2023-09-19,,
+295,30.3,2023-09-19,,Hotel C
+296,27.9,2023-09-19,Twin room,Hotel C
+297,190.0,2023-09-19,Studio,Hotel D
+298,34.9,2023-09-19,Large dorm,Hostel B
+299,35.1,2023-09-19,Single room,Hotel C
+300,33.9,2023-09-18,Twin room,
+301,33.9,2023-09-18,Single room,Hotel C
+302,34.5,2023-09-18,Large dorm,Hostel B
+303,37.5,2023-09-18,Female dorm,Hostel A
+304,42.8,2023-09-18,Single room,
+305,29.2,2023-09-18,,Hotel C
+306,36.9,2023-09-18,,
+307,34.0,2023-09-18,Male dorm,Hostel A
+308,26.9,2023-09-18,Twin room,Hotel C
+309,184.0,2023-09-18,Studio,Hotel D
+310,29.2,2023-09-17,,Hotel C
+311,192.0,2023-09-17,Studio,Hotel D
+312,33.9,2023-09-17,Twin room,
+313,30.0,2023-09-17,Male dorm,Hostel A
+314,36.2,2023-09-17,Large dorm,Hostel B
+315,36.9,2023-09-17,,
+316,33.9,2023-09-17,Single room,Hotel C
+317,42.8,2023-09-17,Single room,
+318,32.5,2023-09-17,Female dorm,Hostel A
+319,26.9,2023-09-17,Twin room,Hotel C
+320,53.0,2023-09-16,Single room,
+321,34.7,2023-09-16,,Hotel C
+322,40.0,2023-09-16,Large dorm,Hostel B
+323,45.7,2023-09-16,,
+324,63.0,2023-09-16,Male dorm,Hostel A
+325,42.0,2023-09-16,Twin room,
+326,73.75,2023-09-16,Female dorm,Hostel A
+327,300.0,2023-09-16,Studio,Hotel D
+328,31.9,2023-09-16,Twin room,Hotel C
+329,40.3,2023-09-16,Single room,Hotel C
+330,269.0,2023-09-15,Studio,Hotel D
+331,55.0,2023-09-15,Female dorm,Hostel A
+332,40.0,2023-09-15,Large dorm,Hostel B
+333,48.0,2023-09-15,Male dorm,Hostel A
+334,53.0,2023-09-15,Single room,
+335,40.3,2023-09-15,Single room,Hotel C
+336,45.7,2023-09-15,,
+337,42.0,2023-09-15,Twin room,
+338,31.9,2023-09-15,Twin room,Hotel C
+339,34.7,2023-09-15,,Hotel C
+340,42.2,2023-09-14,,
+341,30.0,2023-09-14,Twin room,Hotel C
+342,198.0,2023-09-14,Studio,Hotel D
+343,49.0,2023-09-14,Single room,
+344,345.0,2023-09-14,Luxury suite,Hotel B
+345,325.0,2023-09-14,Family room,Hotel B
+346,36.2,2023-09-14,Large dorm,Hostel B
+347,40.0,2023-09-14,Female dorm,Hostel A
+348,37.8,2023-09-14,Single room,Hotel C
+349,36.0,2023-09-14,Male dorm,Hostel A
+350,32.6,2023-09-14,,Hotel C
+351,38.8,2023-09-14,Twin room,
+352,34.0,2023-09-13,Male dorm,Hostel A
+353,35.6,2023-09-13,Twin room,
+354,30.3,2023-09-13,,Hotel C
+355,196.0,2023-09-13,Studio,Hotel D
+356,37.5,2023-09-13,Female dorm,Hostel A
+357,44.9,2023-09-13,Single room,
+358,38.7,2023-09-13,,
+359,325.0,2023-09-13,Family room,Hotel B
+360,35.1,2023-09-13,Single room,Hotel C
+361,345.0,2023-09-13,Luxury suite,Hotel B
+362,35.4,2023-09-13,Large dorm,Hostel B
+363,27.9,2023-09-13,Twin room,Hotel C
+364,27.9,2023-09-12,Twin room,Hotel C
+365,35.1,2023-09-12,Single room,Hotel C
+366,37.5,2023-09-12,Female dorm,Hostel A
+367,30.3,2023-09-12,,Hotel C
+368,44.9,2023-09-12,Single room,
+369,325.0,2023-09-12,Family room,Hotel B
+370,35.6,2023-09-12,Twin room,
+371,38.7,2023-09-12,,
+372,34.0,2023-09-12,Male dorm,Hostel A
+373,184.0,2023-09-12,Studio,Hotel D
+374,345.0,2023-09-12,Luxury suite,Hotel B
+375,34.7,2023-09-12,Large dorm,Hostel B
+376,184.0,2023-09-11,Studio,Hotel D
+377,33.9,2023-09-11,Twin room,
+378,345.0,2023-09-11,Luxury suite,Hotel B
+379,33.9,2023-09-11,Single room,Hotel C
+380,42.8,2023-09-11,Single room,
+381,26.9,2023-09-11,Twin room,Hotel C
+382,37.5,2023-09-11,Female dorm,Hostel A
+383,325.0,2023-09-11,Family room,Hotel B
+384,34.0,2023-09-11,Male dorm,Hostel A
+385,29.2,2023-09-11,,Hotel C
+386,34.1,2023-09-11,Large dorm,Hostel B
+387,36.9,2023-09-11,,
+388,29.2,2023-09-10,,Hotel C
+389,324.0,2023-09-10,Family room,Hotel B
+390,42.8,2023-09-10,Single room,
+391,26.9,2023-09-10,Twin room,Hotel C
+392,33.9,2023-09-10,Single room,Hotel C
+393,344.0,2023-09-10,Luxury suite,Hotel B
+394,30.0,2023-09-10,Male dorm,Hostel A
+395,188.0,2023-09-10,Studio,Hotel D
+396,33.9,2023-09-10,Twin room,
+397,32.5,2023-09-10,Female dorm,Hostel A
+398,35.9,2023-09-10,Large dorm,Hostel B
+399,36.9,2023-09-10,,
+400,40.3,2023-09-09,Single room,Hotel C
+401,344.0,2023-09-09,Luxury suite,Hotel B
+402,73.75,2023-09-09,Female dorm,Hostel A
+403,31.9,2023-09-09,Twin room,Hotel C
+404,324.0,2023-09-09,Family room,Hotel B
+405,63.0,2023-09-09,Male dorm,Hostel A
+406,39.3,2023-09-09,Twin room,
+407,300.0,2023-09-09,Studio,Hotel D
+408,40.0,2023-09-09,Large dorm,Hostel B
+409,34.7,2023-09-09,,Hotel C
+410,42.7,2023-09-09,,
+411,49.5,2023-09-09,Single room,
+412,344.0,2023-09-08,Luxury suite,Hotel B
+413,324.0,2023-09-08,Family room,Hotel B
+414,49.5,2023-09-08,Single room,
+415,55.0,2023-09-08,Female dorm,Hostel A
+416,264.0,2023-09-08,Studio,Hotel D
+417,40.3,2023-09-08,Single room,Hotel C
+418,34.7,2023-09-08,,Hotel C
+419,42.7,2023-09-08,,
+420,39.3,2023-09-08,Twin room,
+421,40.0,2023-09-08,Large dorm,Hostel B
+422,31.9,2023-09-08,Twin room,Hotel C
+423,48.0,2023-09-08,Male dorm,Hostel A
+424,344.0,2023-09-07,Luxury suite,Hotel B
+425,30.0,2023-09-07,Twin room,Hotel C
+426,45.7,2023-09-07,Single room,
+427,37.8,2023-09-07,Single room,Hotel C
+428,32.6,2023-09-07,,Hotel C
+429,36.0,2023-09-07,Male dorm,Hostel A
+430,35.9,2023-09-07,Large dorm,Hostel B
+431,324.0,2023-09-07,Family room,Hotel B
+432,198.0,2023-09-07,Studio,Hotel D
+433,36.2,2023-09-07,Twin room,
+434,39.4,2023-09-07,,
+435,40.0,2023-09-07,Female dorm,Hostel A
+436,37.5,2023-09-06,Female dorm,Hostel A
+437,35.4,2023-09-06,Large dorm,Hostel B
+438,196.0,2023-09-06,Studio,Hotel D
+439,33.2,2023-09-06,Twin room,
+440,344.0,2023-09-06,Luxury suite,Hotel B
+441,36.1,2023-09-06,,
+442,30.3,2023-09-06,,Hotel C
+443,27.9,2023-09-06,Twin room,Hotel C
+444,34.0,2023-09-06,Male dorm,Hostel A
+445,35.1,2023-09-06,Single room,Hotel C
+446,324.0,2023-09-06,Family room,Hotel B
+447,41.9,2023-09-06,Single room,
+448,34.8,2023-09-05,Large dorm,Hostel B
+449,30.3,2023-09-05,,Hotel C
+450,344.0,2023-09-05,Luxury suite,Hotel B
+451,35.1,2023-09-05,Single room,Hotel C
+452,37.5,2023-09-05,Female dorm,Hostel A
+453,324.0,2023-09-05,Family room,Hotel B
+454,34.0,2023-09-05,Male dorm,Hostel A
+455,27.9,2023-09-05,Twin room,Hotel C
+456,36.1,2023-09-05,,
+457,33.2,2023-09-05,Twin room,
+458,184.0,2023-09-05,Studio,Hotel D
+459,41.9,2023-09-05,Single room,
+460,37.5,2023-09-04,Female dorm,Hostel A
+461,184.0,2023-09-04,Studio,Hotel D
+462,343.0,2023-09-04,Luxury suite,Hotel B
+463,34.5,2023-09-04,,
+464,31.7,2023-09-04,Twin room,
+465,29.2,2023-09-04,,Hotel C
+466,34.1,2023-09-04,Large dorm,Hostel B
+467,34.0,2023-09-04,Male dorm,Hostel A
+468,40.0,2023-09-04,Single room,
+469,33.9,2023-09-04,Single room,Hotel C
+470,26.9,2023-09-04,Twin room,Hotel C
+471,323.0,2023-09-04,Family room,Hotel B
+472,34.5,2023-09-03,,
+473,35.9,2023-09-03,Large dorm,Hostel B
+474,31.7,2023-09-03,Twin room,
+475,33.9,2023-09-03,Single room,Hotel C
+476,40.0,2023-09-03,Single room,
+477,30.0,2023-09-03,Male dorm,Hostel A
+478,26.9,2023-09-03,Twin room,Hotel C
+479,32.5,2023-09-03,Female dorm,Hostel A
+480,188.0,2023-09-03,Studio,Hotel D
+481,29.2,2023-09-03,,Hotel C
+482,343.0,2023-09-03,Luxury suite,Hotel B
+483,323.0,2023-09-03,Family room,Hotel B
+484,37.8,2023-09-02,Large dorm,Hostel B
+485,39.3,2023-09-02,Twin room,
+486,343.0,2023-09-02,Luxury suite,Hotel B
+487,73.75,2023-09-02,Female dorm,Hostel A
+488,42.7,2023-09-02,,
+489,63.0,2023-09-02,Male dorm,Hostel A
+490,49.5,2023-09-02,Single room,
+491,31.9,2023-09-02,Twin room,Hotel C
+492,300.0,2023-09-02,Studio,Hotel D
+493,34.7,2023-09-02,,Hotel C
+494,323.0,2023-09-02,Family room,Hotel B
+495,40.3,2023-09-02,Single room,Hotel C
+496,55.0,2023-09-01,Female dorm,Hostel A
+497,40.0,2023-09-01,Large dorm,Hostel B
+498,323.0,2023-09-01,Family room,Hotel B
+499,48.0,2023-09-01,Male dorm,Hostel A
+500,31.9,2023-09-01,Twin room,Hotel C
+501,34.7,2023-09-01,,Hotel C
+502,42.7,2023-09-01,,
+503,39.3,2023-09-01,Twin room,
+504,260.0,2023-09-01,Studio,Hotel D
+505,343.0,2023-09-01,Luxury suite,Hotel B
+506,49.5,2023-09-01,Single room,
+507,40.3,2023-09-01,Single room,Hotel C
+508,45.7,2023-08-31,Single room,
+509,40.0,2023-08-31,Female dorm,Hostel A
+510,36.0,2023-08-31,Male dorm,Hostel A
+511,189.0,2023-08-31,Studio,Hotel D
+512,39.4,2023-08-31,,
+513,37.8,2023-08-31,Single room,Hotel C
+514,32.6,2023-08-31,,Hotel C
+515,37.4,2023-08-31,Large dorm,Hostel B
+516,36.2,2023-08-31,Twin room,
+517,30.0,2023-08-31,Twin room,Hotel C
+518,323.0,2023-08-31,Family room,Hotel B
+519,343.0,2023-08-31,Luxury suite,Hotel B
+520,342.0,2023-08-30,Luxury suite,Hotel B
+521,33.2,2023-08-30,Twin room,
+522,32.9,2023-08-30,,Hotel C
+523,41.9,2023-08-30,Single room,
+524,30.3,2023-08-30,Twin room,Hotel C
+525,36.1,2023-08-30,,
+526,34.0,2023-08-30,Male dorm,Hostel A
+527,188.0,2023-08-30,Studio,Hotel D
+528,38.2,2023-08-30,Single room,Hotel C
+529,36.4,2023-08-30,Large dorm,Hostel B
+530,37.5,2023-08-30,Female dorm,Hostel A
+531,322.0,2023-08-30,Family room,Hotel B
+532,34.0,2023-08-29,Male dorm,Hostel A
+533,36.4,2023-08-29,Large dorm,Hostel B
+534,322.0,2023-08-29,Family room,Hotel B
+535,30.3,2023-08-29,Twin room,Hotel C
+536,38.2,2023-08-29,Single room,Hotel C
+537,37.5,2023-08-29,Female dorm,Hostel A
+538,41.9,2023-08-29,Single room,
+539,36.1,2023-08-29,,
+540,342.0,2023-08-29,Luxury suite,Hotel B
+541,32.9,2023-08-29,,Hotel C
+542,33.2,2023-08-29,Twin room,
+543,184.0,2023-08-29,Studio,Hotel D
+544,28.9,2023-08-28,Large dorm,Hostel B
+545,31.8,2023-08-28,,Hotel C
+546,36.9,2023-08-28,Single room,Hotel C
+547,184.0,2023-08-28,Studio,Hotel D
+548,278.0,2023-08-28,Luxury suite,Hotel B
+549,34.5,2023-08-28,,
+550,48.0,2023-08-28,Male dorm,Hostel A
+551,29.3,2023-08-28,Twin room,Hotel C
+552,258.0,2023-08-28,Family room,Hotel B
+553,55.0,2023-08-28,Female dorm,Hostel A
+554,31.7,2023-08-28,Twin room,
+555,40.0,2023-08-28,Single room,
+556,36.4,2023-08-27,Large dorm,Hostel B
+557,40.0,2023-08-27,Single room,
+558,246.0,2023-08-27,Family room,Hotel B
+559,31.7,2023-08-27,Twin room,
+560,300.0,2023-08-27,Studio,Hotel D
+561,36.9,2023-08-27,Single room,Hotel C
+562,63.0,2023-08-27,Male dorm,Hostel A
+563,73.75,2023-08-27,Female dorm,Hostel A
+564,29.3,2023-08-27,Twin room,Hotel C
+565,266.0,2023-08-27,Luxury suite,Hotel B
+566,31.8,2023-08-27,,Hotel C
+567,34.5,2023-08-27,,
+568,29.6,2023-08-26,,Hotel C
+569,34.3,2023-08-26,Single room,Hotel C
+570,49.5,2023-08-26,Single room,
+571,39.3,2023-08-26,Twin room,
+572,86.25,2023-08-26,Female dorm,Hostel A
+573,73.0,2023-08-26,Male dorm,Hostel A
+574,321.0,2023-08-26,Family room,Hotel B
+575,300.0,2023-08-26,Studio,Hotel D
+576,40.0,2023-08-26,Large dorm,Hostel B
+577,341.0,2023-08-26,Luxury suite,Hotel B
+578,27.2,2023-08-26,Twin room,Hotel C
+579,42.7,2023-08-26,,
+580,55.0,2023-08-25,Female dorm,Hostel A
+581,48.0,2023-08-25,Male dorm,Hostel A
+582,39.3,2023-08-25,Twin room,
+583,29.6,2023-08-25,,Hotel C
+584,27.2,2023-08-25,Twin room,Hotel C
+585,40.0,2023-08-25,Large dorm,Hostel B
+586,42.7,2023-08-25,,
+587,34.3,2023-08-25,Single room,Hotel C
+588,321.0,2023-08-25,Family room,Hotel B
+589,49.5,2023-08-25,Single room,
+590,300.0,2023-08-25,Studio,Hotel D
+591,341.0,2023-08-25,Luxury suite,Hotel B
+592,37.4,2023-08-24,Large dorm,Hostel B
+593,36.0,2023-08-24,Male dorm,Hostel A
+594,36.2,2023-08-24,Twin room,
+595,300.0,2023-08-24,Studio,Hotel D
+596,40.0,2023-08-24,Female dorm,Hostel A
+597,39.4,2023-08-24,,
+598,27.7,2023-08-24,,Hotel C
+599,341.0,2023-08-24,Luxury suite,Hotel B
+600,45.7,2023-08-24,Single room,
+601,321.0,2023-08-24,Family room,Hotel B
+602,32.1,2023-08-24,Single room,Hotel C
+603,25.5,2023-08-24,Twin room,Hotel C
+604,34.0,2023-08-23,Male dorm,Hostel A
+605,36.4,2023-08-23,Large dorm,Hostel B
+606,184.0,2023-08-23,Studio,Hotel D
+607,30.0,2023-08-23,Single room,Hotel C
+608,33.2,2023-08-23,Twin room,
+609,321.0,2023-08-23,Family room,Hotel B
+610,341.0,2023-08-23,Luxury suite,Hotel B
+611,25.9,2023-08-23,,Hotel C
+612,41.9,2023-08-23,Single room,
+613,36.1,2023-08-23,,
+614,23.8,2023-08-23,Twin room,Hotel C
+615,37.5,2023-08-23,Female dorm,Hostel A
+616,25.9,2023-08-22,,Hotel C
+617,341.0,2023-08-22,Luxury suite,Hotel B
+618,41.9,2023-08-22,Single room,
+619,30.0,2023-08-22,Single room,Hotel C
+620,34.0,2023-08-22,Male dorm,Hostel A
+621,33.2,2023-08-22,Twin room,
+622,37.5,2023-08-22,Female dorm,Hostel A
+623,321.0,2023-08-22,Family room,Hotel B
+624,35.8,2023-08-22,Large dorm,Hostel B
+625,184.0,2023-08-22,Studio,Hotel D
+626,36.1,2023-08-22,,
+627,23.8,2023-08-22,Twin room,Hotel C
+628,40.0,2023-08-21,Single room,
+629,29.3,2023-08-21,Twin room,Hotel C
+630,37.5,2023-08-21,Female dorm,Hostel A
+631,31.7,2023-08-21,Twin room,
+632,31.8,2023-08-21,,Hotel C
+633,35.8,2023-08-21,Large dorm,Hostel B
+634,36.9,2023-08-21,Single room,Hotel C
+635,34.0,2023-08-21,Male dorm,Hostel A
+636,340.0,2023-08-21,Luxury suite,Hotel B
+637,320.0,2023-08-21,Family room,Hotel B
+638,184.0,2023-08-21,Studio,Hotel D
+639,34.5,2023-08-21,,
+640,40.0,2023-08-20,Single room,
+641,37.2,2023-08-20,Large dorm,Hostel B
+642,31.8,2023-08-20,,Hotel C
+643,34.5,2023-08-20,,
+644,32.5,2023-08-20,Female dorm,Hostel A
+645,29.3,2023-08-20,Twin room,Hotel C
+646,184.0,2023-08-20,Studio,Hotel D
+647,320.0,2023-08-20,Family room,Hotel B
+648,36.9,2023-08-20,Single room,Hotel C
+649,340.0,2023-08-20,Luxury suite,Hotel B
+650,31.7,2023-08-20,Twin room,
+651,30.0,2023-08-20,Male dorm,Hostel A
+652,49.5,2023-08-19,Single room,
+653,34.3,2023-08-19,Single room,Hotel C
+654,340.0,2023-08-19,Luxury suite,Hotel B
+655,73.75,2023-08-19,Female dorm,Hostel A
+656,27.2,2023-08-19,Twin room,Hotel C
+657,39.3,2023-08-19,Twin room,
+658,42.7,2023-08-19,,
+659,291.0,2023-08-19,Studio,Hotel D
+660,63.0,2023-08-19,Male dorm,Hostel A
+661,320.0,2023-08-19,Family room,Hotel B
+662,29.6,2023-08-19,,Hotel C
+663,40.0,2023-08-19,Large dorm,Hostel B
+664,49.5,2023-08-18,Single room,
+665,243.0,2023-08-18,Studio,Hotel D
+666,40.0,2023-08-18,Large dorm,Hostel B
+667,39.3,2023-08-18,Twin room,
+668,320.0,2023-08-18,Family room,Hotel B
+669,29.6,2023-08-18,,Hotel C
+670,55.0,2023-08-18,Female dorm,Hostel A
+671,340.0,2023-08-18,Luxury suite,Hotel B
+672,34.3,2023-08-18,Single room,Hotel C
+673,27.2,2023-08-18,Twin room,Hotel C
+674,48.0,2023-08-18,Male dorm,Hostel A
+675,42.7,2023-08-18,,
+676,27.7,2023-08-17,,Hotel C
+677,36.0,2023-08-17,Male dorm,Hostel A
+678,188.0,2023-08-17,Studio,Hotel D
+679,40.0,2023-08-17,Female dorm,Hostel A
+680,32.1,2023-08-17,Single room,Hotel C
+681,36.2,2023-08-17,Twin room,
+682,25.5,2023-08-17,Twin room,Hotel C
+683,340.0,2023-08-17,Luxury suite,Hotel B
+684,45.7,2023-08-17,Single room,
+685,39.4,2023-08-17,,
+686,37.4,2023-08-17,Large dorm,Hostel B
+687,320.0,2023-08-17,Family room,Hotel B
+688,321.0,2023-08-16,Family room,Hotel B
+689,23.8,2023-08-16,Twin room,Hotel C
+690,37.5,2023-08-16,Female dorm,Hostel A
+691,25.9,2023-08-16,,Hotel C
+692,33.2,2023-08-16,Twin room,
+693,41.9,2023-08-16,Single room,
+694,341.0,2023-08-16,Luxury suite,Hotel B
+695,34.0,2023-08-16,Male dorm,Hostel A
+696,30.0,2023-08-16,Single room,Hotel C
+697,36.1,2023-08-16,,
+698,36.4,2023-08-16,Large dorm,Hostel B
+699,184.0,2023-08-16,Studio,Hotel D
+700,41.9,2023-08-15,Single room,
+701,36.1,2023-08-15,,
+702,184.0,2023-08-15,Studio,Hotel D
+703,34.0,2023-08-15,Male dorm,Hostel A
+704,35.8,2023-08-15,Large dorm,Hostel B
+705,37.5,2023-08-15,Female dorm,Hostel A
+706,33.2,2023-08-15,Twin room,
+707,23.8,2023-08-15,Twin room,Hotel C
+708,25.9,2023-08-15,,Hotel C
+709,321.0,2023-08-15,Family room,Hotel B
+710,341.0,2023-08-15,Luxury suite,Hotel B
+711,30.0,2023-08-15,Single room,Hotel C
+712,31.8,2023-08-14,,Hotel C
+713,34.5,2023-08-14,,
+714,184.0,2023-08-14,Studio,Hotel D
+715,320.0,2023-08-14,Family room,Hotel B
+716,29.3,2023-08-14,Twin room,Hotel C
+717,35.3,2023-08-14,Large dorm,Hostel B
+718,40.0,2023-08-14,Single room,
+719,36.9,2023-08-14,Single room,Hotel C
+720,31.7,2023-08-14,Twin room,
+721,340.0,2023-08-14,Luxury suite,Hotel B
+722,37.5,2023-08-14,Female dorm,Hostel A
+723,34.0,2023-08-14,Male dorm,Hostel A
+724,30.0,2023-08-13,Male dorm,Hostel A
+725,34.5,2023-08-13,,
+726,320.0,2023-08-13,Family room,Hotel B
+727,36.9,2023-08-13,Single room,Hotel C
+728,29.3,2023-08-13,Twin room,Hotel C
+729,31.7,2023-08-13,Twin room,
+730,40.0,2023-08-13,Single room,
+731,31.8,2023-08-13,,Hotel C
+732,184.0,2023-08-13,Studio,Hotel D
+733,32.5,2023-08-13,Female dorm,Hostel A
+734,37.2,2023-08-13,Large dorm,Hostel B
+735,340.0,2023-08-13,Luxury suite,Hotel B
+736,63.0,2023-08-12,Male dorm,Hostel A
+737,27.9,2023-08-12,Twin room,Hotel C
+738,52.6,2023-08-12,,
+739,320.0,2023-08-12,Family room,Hotel B
+740,291.0,2023-08-12,Studio,Hotel D
+741,35.1,2023-08-12,Single room,Hotel C
+742,61.0,2023-08-12,Single room,
+743,73.75,2023-08-12,Female dorm,Hostel A
+744,30.3,2023-08-12,,Hotel C
+745,340.0,2023-08-12,Luxury suite,Hotel B
+746,40.0,2023-08-12,Large dorm,Hostel B
+747,48.4,2023-08-12,Twin room,
+748,40.0,2023-08-11,Large dorm,Hostel B
+749,48.0,2023-08-11,Male dorm,Hostel A
+750,320.0,2023-08-11,Family room,Hotel B
+751,27.9,2023-08-11,Twin room,Hotel C
+752,35.1,2023-08-11,Single room,Hotel C
+753,46.6,2023-08-11,Twin room,
+754,50.7,2023-08-11,,
+755,55.0,2023-08-11,Female dorm,Hostel A
+756,30.3,2023-08-11,,Hotel C
+757,340.0,2023-08-11,Luxury suite,Hotel B
+758,58.8,2023-08-11,Single room,
+759,242.0,2023-08-11,Studio,Hotel D
+760,321.0,2023-08-10,Family room,Hotel B
+761,45.6,2023-08-10,,
+762,188.0,2023-08-10,Studio,Hotel D
+763,32.8,2023-08-10,Single room,Hotel C
+764,42.0,2023-08-10,Twin room,
+765,52.9,2023-08-10,Single room,
+766,341.0,2023-08-10,Luxury suite,Hotel B
+767,40.0,2023-08-10,Female dorm,Hostel A
+768,28.3,2023-08-10,,Hotel C
+769,37.4,2023-08-10,Large dorm,Hostel B
+770,26.0,2023-08-10,Twin room,Hotel C
+771,36.0,2023-08-10,Male dorm,Hostel A
+772,340.0,2023-08-09,Luxury suite,Hotel B
+773,34.0,2023-08-09,Male dorm,Hostel A
+774,320.0,2023-08-09,Family room,Hotel B
+775,36.4,2023-08-09,Large dorm,Hostel B
+776,26.5,2023-08-09,,Hotel C
+777,30.7,2023-08-09,Single room,Hotel C
+778,37.5,2023-08-09,Female dorm,Hostel A
+779,184.0,2023-08-09,Studio,Hotel D
+780,49.8,2023-08-09,Single room,
+781,24.4,2023-08-09,Twin room,Hotel C
+782,39.5,2023-08-09,Twin room,
+783,42.9,2023-08-09,,
+784,24.4,2023-08-08,Twin room,Hotel C
+785,184.0,2023-08-08,Studio,Hotel D
+786,37.5,2023-08-08,Female dorm,Hostel A
+787,49.4,2023-08-08,Single room,
+788,34.0,2023-08-08,Male dorm,Hostel A
+789,26.5,2023-08-08,,Hotel C
+790,320.0,2023-08-08,Family room,Hotel B
+791,30.7,2023-08-08,Single room,Hotel C
+792,42.6,2023-08-08,,
+793,39.2,2023-08-08,Twin room,
+794,340.0,2023-08-08,Luxury suite,Hotel B
+795,35.8,2023-08-08,Large dorm,Hostel B
+796,38.9,2023-08-07,,
+797,34.0,2023-08-07,Male dorm,Hostel A
+798,35.3,2023-08-07,Large dorm,Hostel B
+799,289.0,2023-08-07,Luxury suite,Hotel B
+800,36.9,2023-08-07,Single room,Hotel C
+801,37.5,2023-08-07,Female dorm,Hostel A
+802,35.8,2023-08-07,Twin room,
+803,45.1,2023-08-07,Single room,
+804,31.8,2023-08-07,,Hotel C
+805,269.0,2023-08-07,Family room,Hotel B
+806,184.0,2023-08-07,Studio,Hotel D
+807,29.3,2023-08-07,Twin room,Hotel C
+808,289.0,2023-08-06,Luxury suite,Hotel B
+809,29.3,2023-08-06,Twin room,Hotel C
+810,36.9,2023-08-06,Single room,Hotel C
+811,184.0,2023-08-06,Studio,Hotel D
+812,35.2,2023-08-06,Twin room,
+813,37.2,2023-08-06,Large dorm,Hostel B
+814,31.8,2023-08-06,,Hotel C
+815,32.5,2023-08-06,Female dorm,Hostel A
+816,269.0,2023-08-06,Family room,Hotel B
+817,44.4,2023-08-06,Single room,
+818,38.3,2023-08-06,,
+819,30.0,2023-08-06,Male dorm,Hostel A
+820,27.2,2023-08-05,Twin room,Hotel C
+821,36.7,2023-08-05,Twin room,
+822,39.9,2023-08-05,,
+823,34.3,2023-08-05,Single room,Hotel C
+824,40.0,2023-08-05,Large dorm,Hostel B
+825,46.3,2023-08-05,Single room,
+826,269.0,2023-08-05,Family room,Hotel B
+827,73.75,2023-08-05,Female dorm,Hostel A
+828,63.0,2023-08-05,Male dorm,Hostel A
+829,29.6,2023-08-05,,Hotel C
+830,289.0,2023-08-05,Luxury suite,Hotel B
+831,291.0,2023-08-05,Studio,Hotel D
+832,55.0,2023-08-04,Female dorm,Hostel A
+833,46.3,2023-08-04,Single room,
+834,40.0,2023-08-04,Large dorm,Hostel B
+835,34.3,2023-08-04,Single room,Hotel C
+836,36.7,2023-08-04,Twin room,
+837,27.2,2023-08-04,Twin room,Hotel C
+838,242.0,2023-08-04,Studio,Hotel D
+839,39.9,2023-08-04,,
+840,269.0,2023-08-04,Family room,Hotel B
+841,289.0,2023-08-04,Luxury suite,Hotel B
+842,29.6,2023-08-04,,Hotel C
+843,48.0,2023-08-04,Male dorm,Hostel A
+844,36.9,2023-08-03,,
+845,38.0,2023-08-03,Male dorm,Hostel A
+846,32.1,2023-08-03,Single room,Hotel C
+847,289.0,2023-08-03,Luxury suite,Hotel B
+848,27.7,2023-08-03,,Hotel C
+849,37.4,2023-08-03,Large dorm,Hostel B
+850,42.8,2023-08-03,Single room,
+851,269.0,2023-08-03,Family room,Hotel B
+852,33.9,2023-08-03,Twin room,
+853,42.5,2023-08-03,Female dorm,Hostel A
+854,188.0,2023-08-03,Studio,Hotel D
+855,25.5,2023-08-03,Twin room,Hotel C
+856,41.8,2023-08-02,,
+857,25.9,2023-08-02,,Hotel C
+858,30.0,2023-08-02,Single room,Hotel C
+859,38.0,2023-08-02,Male dorm,Hostel A
+860,36.4,2023-08-02,Large dorm,Hostel B
+861,289.0,2023-08-02,Luxury suite,Hotel B
+862,269.0,2023-08-02,Family room,Hotel B
+863,48.5,2023-08-02,Single room,
+864,184.0,2023-08-02,Studio,Hotel D
+865,23.8,2023-08-02,Twin room,Hotel C
+866,42.5,2023-08-02,Female dorm,Hostel A
+867,38.5,2023-08-02,Twin room,
+868,48.5,2023-08-01,Single room,
+869,269.0,2023-08-01,Family room,Hotel B
+870,30.0,2023-08-01,Single room,Hotel C
+871,38.0,2023-08-01,Male dorm,Hostel A
+872,41.8,2023-08-01,,
+873,289.0,2023-08-01,Luxury suite,Hotel B
+874,42.5,2023-08-01,Female dorm,Hostel A
+875,25.9,2023-08-01,,Hotel C
+876,38.5,2023-08-01,Twin room,
+877,35.8,2023-08-01,Large dorm,Hostel B
+878,184.0,2023-08-01,Studio,Hotel D
+879,23.8,2023-08-01,Twin room,Hotel C
+880,1250.0,2023-07-31,Female dorm,Hostel A
+881,189.0,2023-07-31,Studio,Hotel D
+882,29.3,2023-07-31,Twin room,Hotel C
+883,37.6,2023-07-31,Large dorm,Hostel B
+884,37.5,2023-07-31,Twin room,
+885,1000.0,2023-07-31,Male dorm,Hostel A
+886,269.0,2023-07-31,Family room,Hotel B
+887,31.8,2023-07-31,,Hotel C
+888,47.3,2023-07-31,Single room,
+889,36.9,2023-07-31,Single room,Hotel C
+890,289.0,2023-07-31,Luxury suite,Hotel B
+891,40.8,2023-07-31,,
+892,1000.0,2023-07-30,Male dorm,Hostel A
+893,39.2,2023-07-30,Large dorm,Hostel B
+894,39.9,2023-07-30,,
+895,31.8,2023-07-30,,Hotel C
+896,36.7,2023-07-30,Twin room,
+897,269.0,2023-07-30,Family room,Hotel B
+898,191.0,2023-07-30,Studio,Hotel D
+899,46.3,2023-07-30,Single room,
+900,1250.0,2023-07-30,Female dorm,Hostel A
+901,29.3,2023-07-30,Twin room,Hotel C
+902,289.0,2023-07-30,Luxury suite,Hotel B
+903,36.9,2023-07-30,Single room,Hotel C
+904,84.0,2023-07-29,Male dorm,Hostel A
+905,29.6,2023-07-29,,Hotel C
+906,36.7,2023-07-29,Twin room,
+907,289.0,2023-07-29,Luxury suite,Hotel B
+908,39.9,2023-07-29,,
+909,300.0,2023-07-29,Studio,Hotel D
+910,46.3,2023-07-29,Single room,
+911,100.0,2023-07-29,Female dorm,Hostel A
+912,40.0,2023-07-29,Large dorm,Hostel B
+913,27.2,2023-07-29,Twin room,Hotel C
+914,34.3,2023-07-29,Single room,Hotel C
+915,269.0,2023-07-29,Family room,Hotel B
+916,46.3,2023-07-28,Single room,
+917,39.9,2023-07-28,,
+918,36.7,2023-07-28,Twin room,
+919,84.0,2023-07-28,Male dorm,Hostel A
+920,34.3,2023-07-28,Single room,Hotel C
+921,29.6,2023-07-28,,Hotel C
+922,289.0,2023-07-28,Luxury suite,Hotel B
+923,264.0,2023-07-28,Studio,Hotel D
+924,40.0,2023-07-28,Large dorm,Hostel B
+925,269.0,2023-07-28,Family room,Hotel B
+926,100.0,2023-07-28,Female dorm,Hostel A
+927,27.2,2023-07-28,Twin room,Hotel C
+928,27.7,2023-07-27,,Hotel C
+929,25.5,2023-07-27,Twin room,Hotel C
+930,62.5,2023-07-27,Female dorm,Hostel A
+931,289.0,2023-07-27,Luxury suite,Hotel B
+932,33.9,2023-07-27,Twin room,
+933,36.9,2023-07-27,,
+934,42.8,2023-07-27,Single room,
+935,203.0,2023-07-27,Studio,Hotel D
+936,39.2,2023-07-27,Large dorm,Hostel B
+937,54.0,2023-07-27,Male dorm,Hostel A
+938,32.1,2023-07-27,Single room,Hotel C
+939,269.0,2023-07-27,Family room,Hotel B
+940,44.2,2023-07-26,,
+941,30.0,2023-07-26,Single room,Hotel C
+942,269.0,2023-07-26,Family room,Hotel B
+943,197.0,2023-07-26,Studio,Hotel D
+944,23.8,2023-07-26,Twin room,Hotel C
+945,38.4,2023-07-26,Large dorm,Hostel B
+946,62.5,2023-07-26,Female dorm,Hostel A
+947,25.9,2023-07-26,,Hotel C
+948,289.0,2023-07-26,Luxury suite,Hotel B
+949,40.7,2023-07-26,Twin room,
+950,51.3,2023-07-26,Single room,
+951,54.0,2023-07-26,Male dorm,Hostel A
+952,269.0,2023-07-25,Family room,Hotel B
+953,62.5,2023-07-25,Female dorm,Hostel A
+954,38.4,2023-07-25,Large dorm,Hostel B
+955,23.8,2023-07-25,Twin room,Hotel C
+956,188.0,2023-07-25,Studio,Hotel D
+957,25.9,2023-07-25,,Hotel C
+958,50.6,2023-07-25,Single room,
+959,289.0,2023-07-25,Luxury suite,Hotel B
+960,40.1,2023-07-25,Twin room,
+961,54.0,2023-07-25,Male dorm,Hostel A
+962,43.6,2023-07-25,,
+963,30.0,2023-07-25,Single room,Hotel C
+964,37.6,2023-07-24,Twin room,
+965,40.9,2023-07-24,,
+966,31.8,2023-07-24,,Hotel C
+967,36.9,2023-07-24,Single room,Hotel C
+968,62.5,2023-07-24,Female dorm,Hostel A
+969,29.3,2023-07-24,Twin room,Hotel C
+970,54.0,2023-07-24,Male dorm,Hostel A
+971,289.0,2023-07-24,Luxury suite,Hotel B
+972,37.6,2023-07-24,Large dorm,Hostel B
+973,269.0,2023-07-24,Family room,Hotel B
+974,188.0,2023-07-24,Studio,Hotel D
+975,47.4,2023-07-24,Single room,
+976,289.0,2023-07-23,Luxury suite,Hotel B
+977,39.2,2023-07-23,Large dorm,Hostel B
+978,36.7,2023-07-23,Twin room,
+979,62.5,2023-07-23,Female dorm,Hostel A
+980,57.6,2023-07-23,,Hotel C
+981,46.3,2023-07-23,Single room,
+982,189.0,2023-07-23,Studio,Hotel D
+983,53.0,2023-07-23,Twin room,Hotel C
+984,54.0,2023-07-23,Male dorm,Hostel A
+985,269.0,2023-07-23,Family room,Hotel B
+986,39.9,2023-07-23,,
+987,66.8,2023-07-23,Single room,Hotel C
+988,300.0,2023-07-22,Studio,Hotel D
+989,53.2,2023-07-22,Single room,Hotel C
+990,42.2,2023-07-22,Twin room,Hotel C
+991,39.9,2023-07-22,,
+992,100.0,2023-07-22,Female dorm,Hostel A
+993,46.3,2023-07-22,Single room,
+994,84.0,2023-07-22,Male dorm,Hostel A
+995,289.0,2023-07-22,Luxury suite,Hotel B
+996,40.0,2023-07-22,Large dorm,Hostel B
+997,36.7,2023-07-22,Twin room,
+998,45.9,2023-07-22,,Hotel C
+999,269.0,2023-07-22,Family room,Hotel B
+1000,264.0,2023-07-21,Studio,Hotel D
+1001,42.2,2023-07-21,Twin room,Hotel C
+1002,46.3,2023-07-21,Single room,
+1003,36.7,2023-07-21,Twin room,
+1004,45.9,2023-07-21,,Hotel C
+1005,40.0,2023-07-21,Large dorm,Hostel B
+1006,269.0,2023-07-21,Family room,Hotel B
+1007,53.2,2023-07-21,Single room,Hotel C
+1008,289.0,2023-07-21,Luxury suite,Hotel B
+1009,39.9,2023-07-21,,
+1010,84.0,2023-07-21,Male dorm,Hostel A
+1011,100.0,2023-07-21,Female dorm,Hostel A
+1012,269.0,2023-07-20,Family room,Hotel B
+1013,33.9,2023-07-20,Twin room,
+1014,62.5,2023-07-20,Female dorm,Hostel A
+1015,42.8,2023-07-20,Single room,
+1016,36.9,2023-07-20,,
+1017,39.2,2023-07-20,Large dorm,Hostel B
+1018,199.0,2023-07-20,Studio,Hotel D
+1019,40.2,2023-07-20,Twin room,Hotel C
+1020,54.0,2023-07-20,Male dorm,Hostel A
+1021,50.7,2023-07-20,Single room,Hotel C
+1022,289.0,2023-07-20,Luxury suite,Hotel B
+1023,43.7,2023-07-20,,Hotel C
+1024,30.0,2023-07-19,Single room,Hotel C
+1025,269.0,2023-07-19,Family room,Hotel B
+1026,50.7,2023-07-19,Single room,
+1027,197.0,2023-07-19,Studio,Hotel D
+1028,43.7,2023-07-19,,
+1029,54.0,2023-07-19,Male dorm,Hostel A
+1030,40.2,2023-07-19,Twin room,
+1031,289.0,2023-07-19,Luxury suite,Hotel B
+1032,25.9,2023-07-19,,Hotel C
+1033,38.4,2023-07-19,Large dorm,Hostel B
+1034,23.8,2023-07-19,Twin room,Hotel C
+1035,62.5,2023-07-19,Female dorm,Hostel A
+1036,189.0,2023-07-18,Studio,Hotel D
+1037,43.1,2023-07-18,,
+1038,38.4,2023-07-18,Large dorm,Hostel B
+1039,25.9,2023-07-18,,Hotel C
+1040,269.0,2023-07-18,Family room,Hotel B
+1041,23.8,2023-07-18,Twin room,Hotel C
+1042,30.0,2023-07-18,Single room,Hotel C
+1043,54.0,2023-07-18,Male dorm,Hostel A
+1044,289.0,2023-07-18,Luxury suite,Hotel B
+1045,39.7,2023-07-18,Twin room,
+1046,50.0,2023-07-18,Single room,
+1047,62.5,2023-07-18,Female dorm,Hostel A
+1048,37.6,2023-07-17,Large dorm,Hostel B
+1049,29.3,2023-07-17,Twin room,Hotel C
+1050,54.0,2023-07-17,Male dorm,Hostel A
+1051,62.5,2023-07-17,Female dorm,Hostel A
+1052,189.0,2023-07-17,Studio,Hotel D
+1053,269.0,2023-07-17,Family room,Hotel B
+1054,46.3,2023-07-17,Single room,
+1055,36.9,2023-07-17,Single room,Hotel C
+1056,31.8,2023-07-17,,Hotel C
+1057,36.7,2023-07-17,Twin room,
+1058,39.9,2023-07-17,,
+1059,289.0,2023-07-17,Luxury suite,Hotel B
+1060,62.5,2023-07-16,Female dorm,Hostel A
+1061,54.0,2023-07-16,Male dorm,Hostel A
+1062,190.0,2023-07-16,Studio,Hotel D
+1063,31.8,2023-07-16,,Hotel C
+1064,46.3,2023-07-16,Single room,
+1065,39.2,2023-07-16,Large dorm,Hostel B
+1066,29.3,2023-07-16,Twin room,Hotel C
+1067,36.9,2023-07-16,Single room,Hotel C
+1068,269.0,2023-07-16,Family room,Hotel B
+1069,36.7,2023-07-16,Twin room,
+1070,39.9,2023-07-16,,
+1071,289.0,2023-07-16,Luxury suite,Hotel B
+1072,39.9,2023-07-15,,
+1073,36.7,2023-07-15,Twin room,
+1074,34.3,2023-07-15,Single room,Hotel C
+1075,27.2,2023-07-15,Twin room,Hotel C
+1076,300.0,2023-07-15,Studio,Hotel D
+1077,84.0,2023-07-15,Male dorm,Hostel A
+1078,269.0,2023-07-15,Family room,Hotel B
+1079,29.6,2023-07-15,,Hotel C
+1080,46.3,2023-07-15,Single room,
+1081,289.0,2023-07-15,Luxury suite,Hotel B
+1082,100.0,2023-07-15,Female dorm,Hostel A
+1083,40.0,2023-07-15,Large dorm,Hostel B
+1084,34.3,2023-07-14,Single room,Hotel C
+1085,36.7,2023-07-14,Twin room,
+1086,29.6,2023-07-14,,Hotel C
+1087,289.0,2023-07-14,Luxury suite,Hotel B
+1088,40.0,2023-07-14,Large dorm,Hostel B
+1089,27.2,2023-07-14,Twin room,Hotel C
+1090,269.0,2023-07-14,Family room,Hotel B
+1091,266.0,2023-07-14,Studio,Hotel D
+1092,46.3,2023-07-14,Single room,
+1093,100.0,2023-07-14,Female dorm,Hostel A
+1094,39.9,2023-07-14,,
+1095,84.0,2023-07-14,Male dorm,Hostel A
+1096,42.8,2023-07-13,Single room,
+1097,32.1,2023-07-13,Single room,Hotel C
+1098,27.7,2023-07-13,,Hotel C
+1099,269.0,2023-07-13,Family room,Hotel B
+1100,54.0,2023-07-13,Male dorm,Hostel A
+1101,203.0,2023-07-13,Studio,Hotel D
+1102,25.5,2023-07-13,Twin room,Hotel C
+1103,39.2,2023-07-13,Large dorm,Hostel B
+1104,62.5,2023-07-13,Female dorm,Hostel A
+1105,33.9,2023-07-13,Twin room,
+1106,36.9,2023-07-13,,
+1107,289.0,2023-07-13,Luxury suite,Hotel B
+1108,289.0,2023-07-12,Luxury suite,Hotel B
+1109,269.0,2023-07-12,Family room,Hotel B
+1110,196.0,2023-07-12,Studio,Hotel D
+1111,30.0,2023-07-12,Single room,Hotel C
+1112,54.0,2023-07-12,Male dorm,Hostel A
+1113,23.8,2023-07-12,Twin room,Hotel C
+1114,43.6,2023-07-12,,
+1115,62.5,2023-07-12,Female dorm,Hostel A
+1116,50.6,2023-07-12,Single room,
+1117,40.1,2023-07-12,Twin room,
+1118,38.4,2023-07-12,Large dorm,Hostel B
+1119,25.9,2023-07-12,,Hotel C
+1120,269.0,2023-07-11,Family room,Hotel B
+1121,38.4,2023-07-11,Large dorm,Hostel B
+1122,289.0,2023-07-11,Luxury suite,Hotel B
+1123,43.3,2023-07-11,,
+1124,50.2,2023-07-11,Single room,
+1125,25.9,2023-07-11,,Hotel C
+1126,23.8,2023-07-11,Twin room,Hotel C
+1127,30.0,2023-07-11,Single room,Hotel C
+1128,62.5,2023-07-11,Female dorm,Hostel A
+1129,54.0,2023-07-11,Male dorm,Hostel A
+1130,187.0,2023-07-11,Studio,Hotel D
+1131,39.8,2023-07-11,Twin room,
+1132,54.0,2023-07-10,Male dorm,Hostel A
+1133,289.0,2023-07-10,Luxury suite,Hotel B
+1134,29.3,2023-07-10,Twin room,Hotel C
+1135,189.0,2023-07-10,Studio,Hotel D
+1136,46.3,2023-07-10,Single room,
+1137,37.6,2023-07-10,Large dorm,Hostel B
+1138,269.0,2023-07-10,Family room,Hotel B
+1139,39.9,2023-07-10,,
+1140,31.8,2023-07-10,,Hotel C
+1141,62.5,2023-07-10,Female dorm,Hostel A
+1142,36.7,2023-07-10,Twin room,
+1143,36.9,2023-07-10,Single room,Hotel C
+1144,46.3,2023-07-09,Single room,
+1145,39.2,2023-07-09,Large dorm,Hostel B
+1146,54.0,2023-07-09,Male dorm,Hostel A
+1147,36.7,2023-07-09,Twin room,
+1148,289.0,2023-07-09,Luxury suite,Hotel B
+1149,31.8,2023-07-09,,Hotel C
+1150,36.9,2023-07-09,Single room,Hotel C
+1151,269.0,2023-07-09,Family room,Hotel B
+1152,29.3,2023-07-09,Twin room,Hotel C
+1153,190.0,2023-07-09,Studio,Hotel D
+1154,62.5,2023-07-09,Female dorm,Hostel A
+1155,39.9,2023-07-09,,
+1156,29.6,2023-07-08,,Hotel C
+1157,300.0,2023-07-08,Studio,Hotel D
+1158,84.0,2023-07-08,Male dorm,Hostel A
+1159,46.3,2023-07-08,Single room,
+1160,39.9,2023-07-08,,
+1161,36.7,2023-07-08,Twin room,
+1162,309.0,2023-07-08,Family room,Hotel B
+1163,100.0,2023-07-08,Female dorm,Hostel A
+1164,329.0,2023-07-08,Luxury suite,Hotel B
+1165,34.3,2023-07-08,Single room,Hotel C
+1166,40.0,2023-07-08,Large dorm,Hostel B
+1167,27.2,2023-07-08,Twin room,Hotel C
+1168,100.0,2023-07-07,Female dorm,Hostel A
+1169,27.2,2023-07-07,Twin room,Hotel C
+1170,34.3,2023-07-07,Single room,Hotel C
+1171,355.0,2023-07-07,Family room,Hotel B
+1172,84.0,2023-07-07,Male dorm,Hostel A
+1173,39.9,2023-07-07,,
+1174,46.3,2023-07-07,Single room,
+1175,40.0,2023-07-07,Large dorm,Hostel B
+1176,29.6,2023-07-07,,Hotel C
+1177,36.7,2023-07-07,Twin room,
+1178,266.0,2023-07-07,Studio,Hotel D
+1179,375.0,2023-07-07,Luxury suite,Hotel B
+1180,345.0,2023-07-06,Family room,Hotel B
+1181,25.5,2023-07-06,Twin room,Hotel C
+1182,42.8,2023-07-06,Single room,
+1183,62.5,2023-07-06,Female dorm,Hostel A
+1184,54.0,2023-07-06,Male dorm,Hostel A
+1185,39.2,2023-07-06,Large dorm,Hostel B
+1186,32.1,2023-07-06,Single room,Hotel C
+1187,365.0,2023-07-06,Luxury suite,Hotel B
+1188,203.0,2023-07-06,Studio,Hotel D
+1189,36.9,2023-07-06,,
+1190,27.7,2023-07-06,,Hotel C
+1191,33.9,2023-07-06,Twin room,
+1192,62.5,2023-07-05,Female dorm,Hostel A
+1193,347.0,2023-07-05,Luxury suite,Hotel B
+1194,23.8,2023-07-05,Twin room,Hotel C
+1195,54.0,2023-07-05,Male dorm,Hostel A
+1196,196.0,2023-07-05,Studio,Hotel D
+1197,39.9,2023-07-05,Twin room,
+1198,43.4,2023-07-05,,
+1199,50.3,2023-07-05,Single room,
+1200,38.4,2023-07-05,Large dorm,Hostel B
+1201,30.0,2023-07-05,Single room,Hotel C
+1202,25.9,2023-07-05,,Hotel C
+1203,327.0,2023-07-05,Family room,Hotel B
+1204,54.0,2023-07-04,Male dorm,Hostel A
+1205,345.0,2023-07-04,Luxury suite,Hotel B
+1206,25.9,2023-07-04,,Hotel C
+1207,187.0,2023-07-04,Studio,Hotel D
+1208,42.7,2023-07-04,,
+1209,325.0,2023-07-04,Family room,Hotel B
+1210,23.8,2023-07-04,Twin room,Hotel C
+1211,30.0,2023-07-04,Single room,Hotel C
+1212,49.5,2023-07-04,Single room,
+1213,62.5,2023-07-04,Female dorm,Hostel A
+1214,38.4,2023-07-04,Large dorm,Hostel B
+1215,39.3,2023-07-04,Twin room,
+1216,31.8,2023-07-03,,Hotel C
+1217,29.3,2023-07-03,Twin room,Hotel C
+1218,39.9,2023-07-03,,
+1219,189.0,2023-07-03,Studio,Hotel D
+1220,46.3,2023-07-03,Single room,
+1221,344.0,2023-07-03,Luxury suite,Hotel B
+1222,37.6,2023-07-03,Large dorm,Hostel B
+1223,324.0,2023-07-03,Family room,Hotel B
+1224,36.9,2023-07-03,Single room,Hotel C
+1225,54.0,2023-07-03,Male dorm,Hostel A
+1226,36.7,2023-07-03,Twin room,
+1227,62.5,2023-07-03,Female dorm,Hostel A
+1228,341.0,2023-07-02,Luxury suite,Hotel B
+1229,36.7,2023-07-02,Twin room,
+1230,39.2,2023-07-02,Large dorm,Hostel B
+1231,321.0,2023-07-02,Family room,Hotel B
+1232,190.0,2023-07-02,Studio,Hotel D
+1233,46.3,2023-07-02,Single room,
+1234,39.9,2023-07-02,,
+1235,31.8,2023-07-02,,Hotel C
+1236,29.3,2023-07-02,Twin room,Hotel C
+1237,54.0,2023-07-02,Male dorm,Hostel A
+1238,62.5,2023-07-02,Female dorm,Hostel A
+1239,36.9,2023-07-02,Single room,Hotel C
+1240,300.0,2023-07-01,Studio,Hotel D
+1241,46.3,2023-07-01,Single room,
+1242,340.0,2023-07-01,Luxury suite,Hotel B
+1243,29.6,2023-07-01,,Hotel C
+1244,27.2,2023-07-01,Twin room,Hotel C
+1245,36.7,2023-07-01,Twin room,
+1246,39.9,2023-07-01,,
+1247,34.3,2023-07-01,Single room,Hotel C
+1248,40.0,2023-07-01,Large dorm,Hostel B
+1249,84.0,2023-07-01,Male dorm,Hostel A
+1250,100.0,2023-07-01,Female dorm,Hostel A
+1251,320.0,2023-07-01,Family room,Hotel B
+1252,29.6,2023-06-30,,Hotel C
+1253,320.0,2023-06-30,Family room,Hotel B
+1254,54.0,2023-06-30,Male dorm,Hostel A
+1255,340.0,2023-06-30,Luxury suite,Hotel B
+1256,62.5,2023-06-30,Female dorm,Hostel A
+1257,36.7,2023-06-30,Twin room,
+1258,46.3,2023-06-30,Single room,
+1259,259.0,2023-06-30,Studio,Hotel D
+1260,40.0,2023-06-30,Large dorm,Hostel B
+1261,27.2,2023-06-30,Twin room,Hotel C
+1262,39.9,2023-06-30,,
+1263,34.3,2023-06-30,Single room,Hotel C
+1264,37.8,2023-06-29,Single room,Hotel C
+1265,38.0,2023-06-29,Male dorm,Hostel A
+1266,36.9,2023-06-29,,
+1267,340.0,2023-06-29,Luxury suite,Hotel B
+1268,195.0,2023-06-29,Studio,Hotel D
+1269,32.6,2023-06-29,,Hotel C
+1270,42.5,2023-06-29,Female dorm,Hostel A
+1271,33.9,2023-06-29,Twin room,
+1272,320.0,2023-06-29,Family room,Hotel B
+1273,42.8,2023-06-29,Single room,
+1274,35.2,2023-06-29,Large dorm,Hostel B
+1275,30.0,2023-06-29,Twin room,Hotel C
+1276,320.0,2023-06-28,Family room,Hotel B
+1277,27.9,2023-06-28,Twin room,Hotel C
+1278,48.5,2023-06-28,Single room,
+1279,41.8,2023-06-28,,
+1280,35.1,2023-06-28,Single room,Hotel C
+1281,38.5,2023-06-28,Twin room,
+1282,42.5,2023-06-28,Female dorm,Hostel A
+1283,340.0,2023-06-28,Luxury suite,Hotel B
+1284,30.3,2023-06-28,,Hotel C
+1285,190.0,2023-06-28,Studio,Hotel D
+1286,34.1,2023-06-28,Large dorm,Hostel B
+1287,38.0,2023-06-28,Male dorm,Hostel A
+1288,47.4,2023-06-27,Single room,
+1289,35.1,2023-06-27,Single room,Hotel C
+1290,38.0,2023-06-27,Male dorm,Hostel A
+1291,33.9,2023-06-27,Large dorm,Hostel B
+1292,42.5,2023-06-27,Female dorm,Hostel A
+1293,37.6,2023-06-27,Twin room,
+1294,339.0,2023-06-27,Luxury suite,Hotel B
+1295,319.0,2023-06-27,Family room,Hotel B
+1296,187.0,2023-06-27,Studio,Hotel D
+1297,27.9,2023-06-27,Twin room,Hotel C
+1298,30.3,2023-06-27,,Hotel C
+1299,40.9,2023-06-27,,
+1300,38.0,2023-06-26,Male dorm,Hostel A
+1301,184.0,2023-06-26,Studio,Hotel D
+1302,26.9,2023-06-26,Twin room,Hotel C
+1303,35.1,2023-06-26,Twin room,
+1304,33.3,2023-06-26,Large dorm,Hostel B
+1305,44.3,2023-06-26,Single room,
+1306,320.0,2023-06-26,Family room,Hotel B
+1307,38.2,2023-06-26,,
+1308,33.9,2023-06-26,Single room,Hotel C
+1309,29.2,2023-06-26,,Hotel C
+1310,42.5,2023-06-26,Female dorm,Hostel A
+1311,340.0,2023-06-26,Luxury suite,Hotel B
+1312,35.2,2023-06-25,Twin room,
+1313,44.4,2023-06-25,Single room,
+1314,35.0,2023-06-25,Large dorm,Hostel B
+1315,33.9,2023-06-25,Single room,Hotel C
+1316,340.0,2023-06-25,Luxury suite,Hotel B
+1317,187.0,2023-06-25,Studio,Hotel D
+1318,38.0,2023-06-25,Male dorm,Hostel A
+1319,26.9,2023-06-25,Twin room,Hotel C
+1320,42.5,2023-06-25,Female dorm,Hostel A
+1321,38.3,2023-06-25,,
+1322,29.2,2023-06-25,,Hotel C
+1323,320.0,2023-06-25,Family room,Hotel B
+1324,330.0,2023-06-24,Family room,Hotel B
+1325,38.3,2023-06-24,Twin room,
+1326,46.0,2023-06-24,Male dorm,Hostel A
+1327,41.6,2023-06-24,,
+1328,40.0,2023-06-24,Large dorm,Hostel B
+1329,300.0,2023-06-24,Studio,Hotel D
+1330,52.5,2023-06-24,Female dorm,Hostel A
+1331,25.0,2023-06-24,Twin room,Hotel C
+1332,27.2,2023-06-24,,Hotel C
+1333,350.0,2023-06-24,Luxury suite,Hotel B
+1334,31.6,2023-06-24,Single room,Hotel C
+1335,48.3,2023-06-24,Single room,
+1336,25.0,2023-06-23,Twin room,Hotel C
+1337,259.0,2023-06-23,Studio,Hotel D
+1338,46.0,2023-06-23,Male dorm,Hostel A
+1339,27.2,2023-06-23,,Hotel C
+1340,326.0,2023-06-23,Family room,Hotel B
+1341,346.0,2023-06-23,Luxury suite,Hotel B
+1342,46.3,2023-06-23,Single room,
+1343,31.6,2023-06-23,Single room,Hotel C
+1344,40.0,2023-06-23,Large dorm,Hostel B
+1345,39.9,2023-06-23,,
+1346,36.7,2023-06-23,Twin room,
+1347,52.5,2023-06-23,Female dorm,Hostel A
+1348,35.2,2023-06-22,Large dorm,Hostel B
+1349,37.7,2023-06-22,,
+1350,29.6,2023-06-22,Single room,Hotel C
+1351,323.0,2023-06-22,Family room,Hotel B
+1352,23.5,2023-06-22,Twin room,Hotel C
+1353,43.7,2023-06-22,Single room,
+1354,34.7,2023-06-22,Twin room,
+1355,343.0,2023-06-22,Luxury suite,Hotel B
+1356,42.5,2023-06-22,Female dorm,Hostel A
+1357,195.0,2023-06-22,Studio,Hotel D
+1358,38.0,2023-06-22,Male dorm,Hostel A
+1359,25.5,2023-06-22,,Hotel C
+1360,343.0,2023-06-21,Luxury suite,Hotel B
+1361,38.0,2023-06-21,Male dorm,Hostel A
+1362,34.5,2023-06-21,,
+1363,23.7,2023-06-21,,Hotel C
+1364,42.5,2023-06-21,Female dorm,Hostel A
+1365,40.0,2023-06-21,Single room,
+1366,21.8,2023-06-21,Twin room,Hotel C
+1367,27.5,2023-06-21,Single room,Hotel C
+1368,31.7,2023-06-21,Twin room,
+1369,190.0,2023-06-21,Studio,Hotel D
+1370,323.0,2023-06-21,Family room,Hotel B
+1371,34.2,2023-06-21,Large dorm,Hostel B
+1372,21.8,2023-06-20,Twin room,Hotel C
+1373,324.0,2023-06-20,Family room,Hotel B
+1374,33.8,2023-06-20,Large dorm,Hostel B
+1375,42.5,2023-06-20,Female dorm,Hostel A
+1376,36.8,2023-06-20,Twin room,
+1377,27.5,2023-06-20,Single room,Hotel C
+1378,187.0,2023-06-20,Studio,Hotel D
+1379,46.4,2023-06-20,Single room,
+1380,40.0,2023-06-20,,
+1381,38.0,2023-06-20,Male dorm,Hostel A
+1382,344.0,2023-06-20,Luxury suite,Hotel B
+1383,23.7,2023-06-20,,Hotel C
+1384,323.0,2023-06-19,Family room,Hotel B
+1385,38.0,2023-06-19,Male dorm,Hostel A
+1386,35.2,2023-06-19,Twin room,
+1387,343.0,2023-06-19,Luxury suite,Hotel B
+1388,42.5,2023-06-19,Female dorm,Hostel A
+1389,184.0,2023-06-19,Studio,Hotel D
+1390,44.4,2023-06-19,Single room,
+1391,38.3,2023-06-19,,
+1392,33.9,2023-06-19,Single room,Hotel C
+1393,33.6,2023-06-19,Large dorm,Hostel B
+1394,29.2,2023-06-19,,Hotel C
+1395,26.9,2023-06-19,Twin room,Hotel C
+1396,344.0,2023-06-18,Luxury suite,Hotel B
+1397,33.9,2023-06-18,Single room,Hotel C
+1398,44.4,2023-06-18,Single room,
+1399,324.0,2023-06-18,Family room,Hotel B
+1400,38.0,2023-06-18,Male dorm,Hostel A
+1401,42.5,2023-06-18,Female dorm,Hostel A
+1402,38.3,2023-06-18,,
+1403,26.9,2023-06-18,Twin room,Hotel C
+1404,35.2,2023-06-18,Twin room,
+1405,34.5,2023-06-18,Large dorm,Hostel B
+1406,29.2,2023-06-18,,Hotel C
+1407,187.0,2023-06-18,Studio,Hotel D
+1408,300.0,2023-06-17,Studio,Hotel D
+1409,52.5,2023-06-17,Female dorm,Hostel A
+1410,27.2,2023-06-17,,Hotel C
+1411,37.5,2023-06-17,Twin room,
+1412,31.6,2023-06-17,Single room,Hotel C
+1413,25.0,2023-06-17,Twin room,Hotel C
+1414,40.0,2023-06-17,Large dorm,Hostel B
+1415,322.0,2023-06-17,Family room,Hotel B
+1416,47.3,2023-06-17,Single room,
+1417,40.8,2023-06-17,,
+1418,46.0,2023-06-17,Male dorm,Hostel A
+1419,342.0,2023-06-17,Luxury suite,Hotel B
+1420,47.6,2023-06-16,Single room,
+1421,344.0,2023-06-16,Luxury suite,Hotel B
+1422,37.7,2023-06-16,Twin room,
+1423,41.0,2023-06-16,,
+1424,25.0,2023-06-16,Twin room,Hotel C
+1425,324.0,2023-06-16,Family room,Hotel B
+1426,40.0,2023-06-16,Large dorm,Hostel B
+1427,27.2,2023-06-16,,Hotel C
+1428,259.0,2023-06-16,Studio,Hotel D
+1429,31.6,2023-06-16,Single room,Hotel C
+1430,52.5,2023-06-16,Female dorm,Hostel A
+1431,46.0,2023-06-16,Male dorm,Hostel A
+1432,42.5,2023-06-15,Female dorm,Hostel A
+1433,37.8,2023-06-15,,
+1434,326.0,2023-06-15,Family room,Hotel B
+1435,35.4,2023-06-15,Large dorm,Hostel B
+1436,195.0,2023-06-15,Studio,Hotel D
+1437,346.0,2023-06-15,Luxury suite,Hotel B
+1438,23.5,2023-06-15,Twin room,Hotel C
+1439,38.0,2023-06-15,Male dorm,Hostel A
+1440,43.8,2023-06-15,Single room,
+1441,25.5,2023-06-15,,Hotel C
+1442,29.6,2023-06-15,Single room,Hotel C
+1443,34.8,2023-06-15,Twin room,
+1444,21.8,2023-06-14,Twin room,Hotel C
+1445,23.7,2023-06-14,,Hotel C
+1446,34.6,2023-06-14,Large dorm,Hostel B
+1447,325.0,2023-06-14,Family room,Hotel B
+1448,41.8,2023-06-14,,
+1449,38.0,2023-06-14,Male dorm,Hostel A
+1450,190.0,2023-06-14,Studio,Hotel D
+1451,42.5,2023-06-14,Female dorm,Hostel A
+1452,38.5,2023-06-14,Twin room,
+1453,48.5,2023-06-14,Single room,
+1454,345.0,2023-06-14,Luxury suite,Hotel B
+1455,27.5,2023-06-14,Single room,Hotel C
+1456,27.5,2023-06-13,Single room,Hotel C
+1457,37.7,2023-06-13,Twin room,
+1458,38.0,2023-06-13,Male dorm,Hostel A
+1459,187.0,2023-06-13,Studio,Hotel D
+1460,41.0,2023-06-13,,
+1461,21.8,2023-06-13,Twin room,Hotel C
+1462,343.0,2023-06-13,Luxury suite,Hotel B
+1463,34.1,2023-06-13,Large dorm,Hostel B
+1464,47.6,2023-06-13,Single room,
+1465,23.7,2023-06-13,,Hotel C
+1466,42.5,2023-06-13,Female dorm,Hostel A
+1467,323.0,2023-06-13,Family room,Hotel B
+1468,33.7,2023-06-12,Large dorm,Hostel B
+1469,44.4,2023-06-12,Single room,
+1470,33.9,2023-06-12,Single room,Hotel C
+1471,26.9,2023-06-12,Twin room,Hotel C
+1472,38.3,2023-06-12,,
+1473,342.0,2023-06-12,Luxury suite,Hotel B
+1474,29.2,2023-06-12,,Hotel C
+1475,322.0,2023-06-12,Family room,Hotel B
+1476,42.5,2023-06-12,Female dorm,Hostel A
+1477,35.2,2023-06-12,Twin room,
+1478,184.0,2023-06-12,Studio,Hotel D
+1479,38.0,2023-06-12,Male dorm,Hostel A
+1480,34.5,2023-06-11,Large dorm,Hostel B
+1481,43.5,2023-06-11,Single room,
+1482,187.0,2023-06-11,Studio,Hotel D
+1483,322.0,2023-06-11,Family room,Hotel B
+1484,37.5,2023-06-11,,
+1485,26.9,2023-06-11,Twin room,Hotel C
+1486,34.5,2023-06-11,Twin room,
+1487,342.0,2023-06-11,Luxury suite,Hotel B
+1488,29.2,2023-06-11,,Hotel C
+1489,42.5,2023-06-11,Female dorm,Hostel A
+1490,33.9,2023-06-11,Single room,Hotel C
+1491,38.0,2023-06-11,Male dorm,Hostel A
+1492,39.9,2023-06-10,,
+1493,36.7,2023-06-10,Twin room,
+1494,25.0,2023-06-10,Twin room,Hotel C
+1495,40.0,2023-06-10,Large dorm,Hostel B
+1496,341.0,2023-06-10,Luxury suite,Hotel B
+1497,52.5,2023-06-10,Female dorm,Hostel A
+1498,46.3,2023-06-10,Single room,
+1499,46.0,2023-06-10,Male dorm,Hostel A
+1500,300.0,2023-06-10,Studio,Hotel D
+1501,31.6,2023-06-10,Single room,Hotel C
+1502,321.0,2023-06-10,Family room,Hotel B
+1503,27.2,2023-06-10,,Hotel C
+1504,258.0,2023-06-09,Studio,Hotel D
+1505,52.5,2023-06-09,Female dorm,Hostel A
+1506,46.3,2023-06-09,Single room,
+1507,25.0,2023-06-09,Twin room,Hotel C
+1508,40.0,2023-06-09,Large dorm,Hostel B
+1509,342.0,2023-06-09,Luxury suite,Hotel B
+1510,322.0,2023-06-09,Family room,Hotel B
+1511,31.6,2023-06-09,Single room,Hotel C
+1512,46.0,2023-06-09,Male dorm,Hostel A
+1513,36.7,2023-06-09,Twin room,
+1514,27.2,2023-06-09,,Hotel C
+1515,39.9,2023-06-09,,
+1516,42.5,2023-06-08,Female dorm,Hostel A
+1517,342.0,2023-06-08,Luxury suite,Hotel B
+1518,29.6,2023-06-08,Single room,Hotel C
+1519,23.5,2023-06-08,Twin room,Hotel C
+1520,42.8,2023-06-08,Single room,
+1521,38.0,2023-06-08,Male dorm,Hostel A
+1522,36.9,2023-06-08,,
+1523,193.0,2023-06-08,Studio,Hotel D
+1524,25.5,2023-06-08,,Hotel C
+1525,33.9,2023-06-08,Twin room,
+1526,35.3,2023-06-08,Large dorm,Hostel B
+1527,322.0,2023-06-08,Family room,Hotel B
+1528,325.0,2023-06-07,Family room,Hotel B
+1529,38.0,2023-06-07,Male dorm,Hostel A
+1530,42.5,2023-06-07,Female dorm,Hostel A
+1531,21.8,2023-06-07,Twin room,Hotel C
+1532,33.8,2023-06-07,,
+1533,189.0,2023-06-07,Studio,Hotel D
+1534,27.5,2023-06-07,Single room,Hotel C
+1535,31.1,2023-06-07,Twin room,
+1536,23.7,2023-06-07,,Hotel C
+1537,34.1,2023-06-07,Large dorm,Hostel B
+1538,345.0,2023-06-07,Luxury suite,Hotel B
+1539,39.2,2023-06-07,Single room,
+1540,328.0,2023-06-06,Family room,Hotel B
+1541,34.1,2023-06-06,Large dorm,Hostel B
+1542,40.2,2023-06-06,,
+1543,21.8,2023-06-06,Twin room,Hotel C
+1544,23.7,2023-06-06,,Hotel C
+1545,188.0,2023-06-06,Studio,Hotel D
+1546,38.0,2023-06-06,Male dorm,Hostel A
+1547,348.0,2023-06-06,Luxury suite,Hotel B
+1548,27.5,2023-06-06,Single room,Hotel C
+1549,46.6,2023-06-06,Single room,
+1550,37.0,2023-06-06,Twin room,
+1551,42.5,2023-06-06,Female dorm,Hostel A
+1552,26.9,2023-06-05,Twin room,Hotel C
+1553,349.0,2023-06-05,Luxury suite,Hotel B
+1554,33.2,2023-06-05,Large dorm,Hostel B
+1555,35.1,2023-06-05,Twin room,
+1556,44.2,2023-06-05,Single room,
+1557,184.0,2023-06-05,Studio,Hotel D
+1558,38.0,2023-06-05,Male dorm,Hostel A
+1559,33.9,2023-06-05,Single room,Hotel C
+1560,38.1,2023-06-05,,
+1561,29.2,2023-06-05,,Hotel C
+1562,329.0,2023-06-05,Family room,Hotel B
+1563,42.5,2023-06-05,Female dorm,Hostel A
+1564,344.0,2023-06-04,Luxury suite,Hotel B
+1565,185.0,2023-06-04,Studio,Hotel D
+1566,34.4,2023-06-04,Twin room,
+1567,324.0,2023-06-04,Family room,Hotel B
+1568,43.4,2023-06-04,Single room,
+1569,42.5,2023-06-04,Female dorm,Hostel A
+1570,33.9,2023-06-04,Single room,Hotel C
+1571,38.0,2023-06-04,Male dorm,Hostel A
+1572,29.2,2023-06-04,,Hotel C
+1573,34.4,2023-06-04,Large dorm,Hostel B
+1574,26.9,2023-06-04,Twin room,Hotel C
+1575,37.4,2023-06-04,,
+1576,324.0,2023-06-03,Family room,Hotel B
+1577,28.0,2023-06-03,,Hotel C
+1578,46.3,2023-06-03,Single room,
+1579,39.9,2023-06-03,,
+1580,36.7,2023-06-03,Twin room,
+1581,32.5,2023-06-03,Single room,Hotel C
+1582,46.0,2023-06-03,Male dorm,Hostel A
+1583,25.8,2023-06-03,Twin room,Hotel C
+1584,344.0,2023-06-03,Luxury suite,Hotel B
+1585,52.5,2023-06-03,Female dorm,Hostel A
+1586,300.0,2023-06-03,Studio,Hotel D
+1587,40.0,2023-06-03,Large dorm,Hostel B
+1588,28.0,2023-06-02,,Hotel C
+1589,52.5,2023-06-02,Female dorm,Hostel A
+1590,324.0,2023-06-02,Family room,Hotel B
+1591,32.5,2023-06-02,Single room,Hotel C
+1592,258.0,2023-06-02,Studio,Hotel D
+1593,40.0,2023-06-02,Large dorm,Hostel B
+1594,46.0,2023-06-02,Male dorm,Hostel A
+1595,36.7,2023-06-02,Twin room,
+1596,39.9,2023-06-02,,
+1597,46.3,2023-06-02,Single room,
+1598,25.8,2023-06-02,Twin room,Hotel C
+1599,344.0,2023-06-02,Luxury suite,Hotel B
+1600,323.0,2023-06-01,Family room,Hotel B
+1601,42.5,2023-06-01,Female dorm,Hostel A
+1602,343.0,2023-06-01,Luxury suite,Hotel B
+1603,42.8,2023-06-01,Single room,
+1604,38.0,2023-06-01,Male dorm,Hostel A
+1605,33.9,2023-06-01,Twin room,
+1606,36.9,2023-06-01,,
+1607,193.0,2023-06-01,Studio,Hotel D
+1608,35.1,2023-06-01,Large dorm,Hostel B
+1609,25.5,2023-06-01,,Hotel C
+1610,29.6,2023-06-01,Single room,Hotel C
+1611,23.5,2023-06-01,Twin room,Hotel C
+1612,317.0,2023-05-31,Family room,Hotel B
+1613,34.6,2023-05-31,Twin room,
+1614,37.6,2023-05-31,,
+1615,21.8,2023-05-31,Twin room,Hotel C
+1616,41.13,2023-05-31,Male dorm,Hostel A
+1617,23.7,2023-05-31,,Hotel C
+1618,28.0,2023-05-31,Large dorm,Hostel B
+1619,27.5,2023-05-31,Single room,Hotel C
+1620,192.0,2023-05-31,Studio,Hotel D
+1621,337.0,2023-05-31,Luxury suite,Hotel B
+1622,43.6,2023-05-31,Single room,
+1623,46.41,2023-05-31,Female dorm,Hostel A
+1624,41.49,2023-05-30,Male dorm,Hostel A
+1625,21.8,2023-05-30,Twin room,Hotel C
+1626,46.86,2023-05-30,Female dorm,Hostel A
+1627,317.0,2023-05-30,Family room,Hotel B
+1628,189.0,2023-05-30,Studio,Hotel D
+1629,337.0,2023-05-30,Luxury suite,Hotel B
+1630,28.0,2023-05-30,Large dorm,Hostel B
+1631,37.8,2023-05-30,,
+1632,34.8,2023-05-30,Twin room,
+1633,27.5,2023-05-30,Single room,Hotel C
+1634,43.8,2023-05-30,Single room,
+1635,23.7,2023-05-30,,Hotel C
+1636,40.3,2023-05-29,Twin room,
+1637,42.49,2023-05-29,Male dorm,Hostel A
+1638,261.0,2023-05-29,Luxury suite,Hotel B
+1639,182.0,2023-05-29,Studio,Hotel D
+1640,241.0,2023-05-29,Family room,Hotel B
+1641,48.11,2023-05-29,Female dorm,Hostel A
+1642,28.0,2023-05-29,Large dorm,Hostel B
+1643,28.6,2023-05-29,,Hotel C
+1644,50.8,2023-05-29,Single room,
+1645,43.8,2023-05-29,,
+1646,26.3,2023-05-29,Twin room,Hotel C
+1647,33.2,2023-05-29,Single room,Hotel C
+1648,25.6,2023-05-28,Twin room,Hotel C
+1649,32.2,2023-05-28,Single room,Hotel C
+1650,65.8,2023-05-28,Female dorm,Hostel A
+1651,220.0,2023-05-28,Studio,Hotel D
+1652,42.5,2023-05-28,Single room,
+1653,33.7,2023-05-28,Twin room,
+1654,36.6,2023-05-28,,
+1655,257.0,2023-05-28,Family room,Hotel B
+1656,28.0,2023-05-28,Large dorm,Hostel B
+1657,27.8,2023-05-28,,Hotel C
+1658,277.0,2023-05-28,Luxury suite,Hotel B
+1659,56.64,2023-05-28,Male dorm,Hostel A
+1660,40.0,2023-05-27,,
+1661,36.8,2023-05-27,Twin room,
+1662,39.0,2023-05-27,Large dorm,Hostel B
+1663,220.0,2023-05-27,Studio,Hotel D
+1664,324.0,2023-05-27,Family room,Hotel B
+1665,62.97,2023-05-27,Male dorm,Hostel A
+1666,344.0,2023-05-27,Luxury suite,Hotel B
+1667,73.71,2023-05-27,Female dorm,Hostel A
+1668,38.5,2023-05-27,Single room,Hotel C
+1669,30.5,2023-05-27,Twin room,Hotel C
+1670,33.2,2023-05-27,,Hotel C
+1671,46.4,2023-05-27,Single room,
+1672,220.0,2023-05-26,Studio,Hotel D
+1673,32.5,2023-05-26,,Hotel C
+1674,39.0,2023-05-26,Large dorm,Hostel B
+1675,323.0,2023-05-26,Family room,Hotel B
+1676,37.7,2023-05-26,Single room,Hotel C
+1677,29.9,2023-05-26,Twin room,Hotel C
+1678,46.4,2023-05-26,Single room,
+1679,58.0,2023-05-26,Male dorm,Hostel A
+1680,40.0,2023-05-26,,
+1681,67.5,2023-05-26,Female dorm,Hostel A
+1682,36.8,2023-05-26,Twin room,
+1683,343.0,2023-05-26,Luxury suite,Hotel B
+1684,30.0,2023-05-25,Large dorm,Hostel B
+1685,29.6,2023-05-25,Single room,Hotel C
+1686,321.0,2023-05-25,Family room,Hotel B
+1687,36.9,2023-05-25,,
+1688,25.5,2023-05-25,,Hotel C
+1689,33.9,2023-05-25,Twin room,
+1690,50.0,2023-05-25,Female dorm,Hostel A
+1691,44.0,2023-05-25,Male dorm,Hostel A
+1692,42.8,2023-05-25,Single room,
+1693,199.0,2023-05-25,Studio,Hotel D
+1694,23.5,2023-05-25,Twin room,Hotel C
+1695,341.0,2023-05-25,Luxury suite,Hotel B
+1696,34.7,2023-05-24,Twin room,
+1697,43.7,2023-05-24,Single room,
+1698,27.5,2023-05-24,Single room,Hotel C
+1699,37.7,2023-05-24,,
+1700,50.0,2023-05-24,Female dorm,Hostel A
+1701,28.0,2023-05-24,Large dorm,Hostel B
+1702,192.0,2023-05-24,Studio,Hotel D
+1703,21.8,2023-05-24,Twin room,Hotel C
+1704,344.0,2023-05-24,Luxury suite,Hotel B
+1705,324.0,2023-05-24,Family room,Hotel B
+1706,44.0,2023-05-24,Male dorm,Hostel A
+1707,23.7,2023-05-24,,Hotel C
+1708,189.0,2023-05-23,Studio,Hotel D
+1709,50.0,2023-05-23,Female dorm,Hostel A
+1710,43.8,2023-05-23,Single room,
+1711,27.5,2023-05-23,Single room,Hotel C
+1712,44.0,2023-05-23,Male dorm,Hostel A
+1713,346.0,2023-05-23,Luxury suite,Hotel B
+1714,23.7,2023-05-23,,Hotel C
+1715,326.0,2023-05-23,Family room,Hotel B
+1716,37.8,2023-05-23,,
+1717,34.8,2023-05-23,Twin room,
+1718,21.8,2023-05-23,Twin room,Hotel C
+1719,28.0,2023-05-23,Large dorm,Hostel B
+1720,323.0,2023-05-22,Family room,Hotel B
+1721,186.0,2023-05-22,Studio,Hotel D
+1722,29.2,2023-05-22,,Hotel C
+1723,33.9,2023-05-22,Single room,Hotel C
+1724,50.0,2023-05-22,Female dorm,Hostel A
+1725,36.0,2023-05-22,,
+1726,33.1,2023-05-22,Twin room,
+1727,28.0,2023-05-22,Large dorm,Hostel B
+1728,41.8,2023-05-22,Single room,
+1729,44.0,2023-05-22,Male dorm,Hostel A
+1730,26.9,2023-05-22,Twin room,Hotel C
+1731,343.0,2023-05-22,Luxury suite,Hotel B
+1732,32.8,2023-05-21,Twin room,
+1733,33.9,2023-05-21,Single room,Hotel C
+1734,53.0,2023-05-21,Male dorm,Hostel A
+1735,29.2,2023-05-21,,Hotel C
+1736,337.0,2023-05-21,Luxury suite,Hotel B
+1737,61.25,2023-05-21,Female dorm,Hostel A
+1738,26.9,2023-05-21,Twin room,Hotel C
+1739,220.0,2023-05-21,Studio,Hotel D
+1740,28.0,2023-05-21,Large dorm,Hostel B
+1741,317.0,2023-05-21,Family room,Hotel B
+1742,41.4,2023-05-21,Single room,
+1743,35.7,2023-05-21,,
+1744,27.2,2023-05-20,,Hotel C
+1745,39.0,2023-05-20,Large dorm,Hostel B
+1746,36.7,2023-05-20,Twin room,
+1747,46.3,2023-05-20,Single room,
+1748,31.6,2023-05-20,Single room,Hotel C
+1749,63.0,2023-05-20,Male dorm,Hostel A
+1750,317.0,2023-05-20,Family room,Hotel B
+1751,39.9,2023-05-20,,
+1752,73.75,2023-05-20,Female dorm,Hostel A
+1753,220.0,2023-05-20,Studio,Hotel D
+1754,337.0,2023-05-20,Luxury suite,Hotel B
+1755,25.0,2023-05-20,Twin room,Hotel C
+1756,46.3,2023-05-19,Single room,
+1757,31.6,2023-05-19,Single room,Hotel C
+1758,27.2,2023-05-19,,Hotel C
+1759,36.7,2023-05-19,Twin room,
+1760,39.9,2023-05-19,,
+1761,336.0,2023-05-19,Luxury suite,Hotel B
+1762,316.0,2023-05-19,Family room,Hotel B
+1763,73.75,2023-05-19,Female dorm,Hostel A
+1764,63.0,2023-05-19,Male dorm,Hostel A
+1765,220.0,2023-05-19,Studio,Hotel D
+1766,25.0,2023-05-19,Twin room,Hotel C
+1767,39.0,2023-05-19,Large dorm,Hostel B
+1768,42.8,2023-05-18,Single room,
+1769,61.25,2023-05-18,Female dorm,Hostel A
+1770,316.0,2023-05-18,Family room,Hotel B
+1771,33.9,2023-05-18,Twin room,
+1772,23.5,2023-05-18,Twin room,Hotel C
+1773,30.0,2023-05-18,Large dorm,Hostel B
+1774,53.0,2023-05-18,Male dorm,Hostel A
+1775,36.9,2023-05-18,,
+1776,25.5,2023-05-18,,Hotel C
+1777,336.0,2023-05-18,Luxury suite,Hotel B
+1778,220.0,2023-05-18,Studio,Hotel D
+1779,29.6,2023-05-18,Single room,Hotel C
+1780,336.0,2023-05-17,Luxury suite,Hotel B
+1781,42.89,2023-05-17,Male dorm,Hostel A
+1782,48.61,2023-05-17,Female dorm,Hostel A
+1783,316.0,2023-05-17,Family room,Hotel B
+1784,34.8,2023-05-17,Twin room,
+1785,28.0,2023-05-17,Large dorm,Hostel B
+1786,182.0,2023-05-17,Studio,Hotel D
+1787,27.5,2023-05-17,Single room,Hotel C
+1788,21.8,2023-05-17,Twin room,Hotel C
+1789,37.8,2023-05-17,,
+1790,23.7,2023-05-17,,Hotel C
+1791,43.8,2023-05-17,Single room,
+1792,34.3,2023-05-16,Twin room,
+1793,309.0,2023-05-16,Family room,Hotel B
+1794,37.3,2023-05-16,,
+1795,42.5,2023-05-16,Female dorm,Hostel A
+1796,23.7,2023-05-16,,Hotel C
+1797,38.0,2023-05-16,Male dorm,Hostel A
+1798,28.0,2023-05-16,Large dorm,Hostel B
+1799,21.8,2023-05-16,Twin room,Hotel C
+1800,189.0,2023-05-16,Studio,Hotel D
+1801,43.3,2023-05-16,Single room,
+1802,27.5,2023-05-16,Single room,Hotel C
+1803,329.0,2023-05-16,Luxury suite,Hotel B
+1804,33.9,2023-05-15,Single room,Hotel C
+1805,42.5,2023-05-15,Female dorm,Hostel A
+1806,26.9,2023-05-15,Twin room,Hotel C
+1807,28.0,2023-05-15,Large dorm,Hostel B
+1808,38.0,2023-05-15,Male dorm,Hostel A
+1809,186.0,2023-05-15,Studio,Hotel D
+1810,29.2,2023-05-15,,Hotel C
+1811,40.9,2023-05-15,Single room,
+1812,32.5,2023-05-15,Twin room,
+1813,35.3,2023-05-15,,
+1814,329.0,2023-05-15,Luxury suite,Hotel B
+1815,309.0,2023-05-15,Family room,Hotel B
+1816,28.0,2023-05-14,Large dorm,Hostel B
+1817,32.4,2023-05-14,Twin room,
+1818,38.0,2023-05-14,Male dorm,Hostel A
+1819,42.5,2023-05-14,Female dorm,Hostel A
+1820,26.9,2023-05-14,Twin room,Hotel C
+1821,40.8,2023-05-14,Single room,
+1822,336.0,2023-05-14,Luxury suite,Hotel B
+1823,187.0,2023-05-14,Studio,Hotel D
+1824,35.2,2023-05-14,,
+1825,29.2,2023-05-14,,Hotel C
+1826,33.9,2023-05-14,Single room,Hotel C
+1827,316.0,2023-05-14,Family room,Hotel B
+1828,31.6,2023-05-13,Single room,Hotel C
+1829,73.75,2023-05-13,Female dorm,Hostel A
+1830,39.9,2023-05-13,,
+1831,36.7,2023-05-13,Twin room,
+1832,63.0,2023-05-13,Male dorm,Hostel A
+1833,300.0,2023-05-13,Studio,Hotel D
+1834,25.0,2023-05-13,Twin room,Hotel C
+1835,336.0,2023-05-13,Luxury suite,Hotel B
+1836,46.3,2023-05-13,Single room,
+1837,39.0,2023-05-13,Large dorm,Hostel B
+1838,27.2,2023-05-13,,Hotel C
+1839,316.0,2023-05-13,Family room,Hotel B
+1840,39.0,2023-05-12,Large dorm,Hostel B
+1841,61.25,2023-05-12,Female dorm,Hostel A
+1842,337.0,2023-05-12,Luxury suite,Hotel B
+1843,31.6,2023-05-12,Single room,Hotel C
+1844,25.0,2023-05-12,Twin room,Hotel C
+1845,39.9,2023-05-12,,
+1846,317.0,2023-05-12,Family room,Hotel B
+1847,46.3,2023-05-12,Single room,
+1848,36.7,2023-05-12,Twin room,
+1849,27.2,2023-05-12,,Hotel C
+1850,262.0,2023-05-12,Studio,Hotel D
+1851,53.0,2023-05-12,Male dorm,Hostel A
+1852,30.0,2023-05-11,Large dorm,Hostel B
+1853,38.0,2023-05-11,Male dorm,Hostel A
+1854,316.0,2023-05-11,Family room,Hotel B
+1855,23.5,2023-05-11,Twin room,Hotel C
+1856,29.6,2023-05-11,Single room,Hotel C
+1857,199.0,2023-05-11,Studio,Hotel D
+1858,25.5,2023-05-11,,Hotel C
+1859,36.9,2023-05-11,,
+1860,42.8,2023-05-11,Single room,
+1861,33.9,2023-05-11,Twin room,
+1862,42.5,2023-05-11,Female dorm,Hostel A
+1863,336.0,2023-05-11,Luxury suite,Hotel B
+1864,34.4,2023-05-10,Twin room,
+1865,38.0,2023-05-10,Male dorm,Hostel A
+1866,42.5,2023-05-10,Female dorm,Hostel A
+1867,37.4,2023-05-10,,
+1868,28.0,2023-05-10,Large dorm,Hostel B
+1869,192.0,2023-05-10,Studio,Hotel D
+1870,27.5,2023-05-10,Single room,Hotel C
+1871,43.4,2023-05-10,Single room,
+1872,337.0,2023-05-10,Luxury suite,Hotel B
+1873,317.0,2023-05-10,Family room,Hotel B
+1874,23.7,2023-05-10,,Hotel C
+1875,21.8,2023-05-10,Twin room,Hotel C
+1876,189.0,2023-05-09,Studio,Hotel D
+1877,27.5,2023-05-09,Single room,Hotel C
+1878,28.0,2023-05-09,Large dorm,Hostel B
+1879,23.7,2023-05-09,,Hotel C
+1880,336.0,2023-05-09,Luxury suite,Hotel B
+1881,316.0,2023-05-09,Family room,Hotel B
+1882,42.5,2023-05-09,Female dorm,Hostel A
+1883,43.4,2023-05-09,Single room,
+1884,34.4,2023-05-09,Twin room,
+1885,21.8,2023-05-09,Twin room,Hotel C
+1886,38.0,2023-05-09,Male dorm,Hostel A
+1887,37.4,2023-05-09,,
+1888,104.0,2023-05-08,Male dorm,Hostel A
+1889,32.8,2023-05-08,Twin room,
+1890,186.0,2023-05-08,Studio,Hotel D
+1891,35.7,2023-05-08,,
+1892,33.9,2023-05-08,Single room,Hotel C
+1893,28.0,2023-05-08,Large dorm,Hostel B
+1894,317.0,2023-05-08,Family room,Hotel B
+1895,29.2,2023-05-08,,Hotel C
+1896,337.0,2023-05-08,Luxury suite,Hotel B
+1897,26.9,2023-05-08,Twin room,Hotel C
+1898,125.0,2023-05-08,Female dorm,Hostel A
+1899,41.4,2023-05-08,Single room,
+1900,318.0,2023-05-07,Family room,Hotel B
+1901,161.25,2023-05-07,Female dorm,Hostel A
+1902,187.0,2023-05-07,Studio,Hotel D
+1903,40.0,2023-05-07,,
+1904,26.9,2023-05-07,Twin room,Hotel C
+1905,36.8,2023-05-07,Twin room,
+1906,33.9,2023-05-07,Single room,Hotel C
+1907,29.2,2023-05-07,,Hotel C
+1908,338.0,2023-05-07,Luxury suite,Hotel B
+1909,133.0,2023-05-07,Male dorm,Hostel A
+1910,33.0,2023-05-07,Large dorm,Hostel B
+1911,46.4,2023-05-07,Single room,
+1912,71.9,2023-05-06,Single room,
+1913,32.6,2023-05-06,Single room,Hotel C
+1914,62.0,2023-05-06,,
+1915,133.0,2023-05-06,Male dorm,Hostel A
+1916,340.0,2023-05-06,Luxury suite,Hotel B
+1917,320.0,2023-05-06,Family room,Hotel B
+1918,25.9,2023-05-06,Twin room,Hotel C
+1919,300.0,2023-05-06,Studio,Hotel D
+1920,161.25,2023-05-06,Female dorm,Hostel A
+1921,28.1,2023-05-06,,Hotel C
+1922,48.0,2023-05-06,Large dorm,Hostel B
+1923,57.0,2023-05-06,Twin room,
+1924,161.25,2023-05-05,Female dorm,Hostel A
+1925,319.0,2023-05-05,Family room,Hotel B
+1926,133.0,2023-05-05,Male dorm,Hostel A
+1927,339.0,2023-05-05,Luxury suite,Hotel B
+1928,215.0,2023-05-05,Studio,Hotel D
+1929,48.0,2023-05-05,Large dorm,Hostel B
+1930,32.6,2023-05-05,Single room,Hotel C
+1931,25.9,2023-05-05,Twin room,Hotel C
+1932,50.6,2023-05-05,Twin room,
+1933,55.0,2023-05-05,,
+1934,63.8,2023-05-05,Single room,
+1935,28.1,2023-05-05,,Hotel C
+1936,336.0,2023-05-04,Luxury suite,Hotel B
+1937,114.0,2023-05-04,Male dorm,Hostel A
+1938,38.6,2023-05-04,Twin room,
+1939,31.0,2023-05-04,Single room,Hotel C
+1940,316.0,2023-05-04,Family room,Hotel B
+1941,42.0,2023-05-04,,
+1942,24.6,2023-05-04,Twin room,Hotel C
+1943,48.7,2023-05-04,Single room,
+1944,182.0,2023-05-04,Studio,Hotel D
+1945,26.7,2023-05-04,,Hotel C
+1946,137.5,2023-05-04,Female dorm,Hostel A
+1947,30.0,2023-05-04,Large dorm,Hostel B
+1948,27.5,2023-05-03,Single room,Hotel C
+1949,28.0,2023-05-03,Large dorm,Hostel B
+1950,104.0,2023-05-03,Male dorm,Hostel A
+1951,35.0,2023-05-03,Twin room,
+1952,192.0,2023-05-03,Studio,Hotel D
+1953,316.0,2023-05-03,Family room,Hotel B
+1954,38.0,2023-05-03,,
+1955,23.7,2023-05-03,,Hotel C
+1956,21.8,2023-05-03,Twin room,Hotel C
+1957,125.0,2023-05-03,Female dorm,Hostel A
+1958,44.1,2023-05-03,Single room,
+1959,336.0,2023-05-03,Luxury suite,Hotel B
+1960,329.0,2023-05-02,Luxury suite,Hotel B
+1961,27.5,2023-05-02,Single room,Hotel C
+1962,309.0,2023-05-02,Family room,Hotel B
+1963,28.0,2023-05-02,Large dorm,Hostel B
+1964,41.62,2023-05-02,Male dorm,Hostel A
+1965,189.0,2023-05-02,Studio,Hotel D
+1966,43.3,2023-05-02,Single room,
+1967,23.7,2023-05-02,,Hotel C
+1968,21.8,2023-05-02,Twin room,Hotel C
+1969,47.03,2023-05-02,Female dorm,Hostel A
+1970,37.3,2023-05-02,,
+1971,34.3,2023-05-02,Twin room,
+1972,329.0,2023-05-01,Luxury suite,Hotel B
+1973,28.0,2023-05-01,Large dorm,Hostel B
+1974,29.2,2023-05-01,,Hotel C
+1975,32.2,2023-05-01,Twin room,
+1976,26.9,2023-05-01,Twin room,Hotel C
+1977,35.0,2023-05-01,,
+1978,309.0,2023-05-01,Family room,Hotel B
+1979,33.9,2023-05-01,Single room,Hotel C
+1980,53.2,2023-05-01,Male dorm,Hostel A
+1981,61.5,2023-05-01,Female dorm,Hostel A
+1982,40.6,2023-05-01,Single room,
+1983,186.0,2023-05-01,Studio,Hotel D
+1984,26.9,2023-04-30,Twin room,Hotel C
+1985,283.0,2023-04-30,Luxury suite,Hotel B
+1986,32.8,2023-04-30,Twin room,
+1987,33.9,2023-04-30,Single room,Hotel C
+1988,41.3,2023-04-30,Single room,
+1989,188.0,2023-04-30,Studio,Hotel D
+1990,263.0,2023-04-30,Family room,Hotel B
+1991,29.2,2023-04-30,,Hotel C
+1992,52.31,2023-04-30,Female dorm,Hostel A
+1993,35.6,2023-04-30,,
+1994,28.0,2023-04-30,Large dorm,Hostel B
+1995,45.85,2023-04-30,Male dorm,Hostel A
+1996,59.93,2023-04-29,Female dorm,Hostel A
+1997,28.3,2023-04-29,,Hotel C
+1998,40.8,2023-04-29,,
+1999,47.3,2023-04-29,Single room,
+2000,37.5,2023-04-29,Twin room,
+2001,263.0,2023-04-29,Family room,Hotel B
+2002,26.0,2023-04-29,Twin room,Hotel C
+2003,283.0,2023-04-29,Luxury suite,Hotel B
+2004,300.0,2023-04-29,Studio,Hotel D
+2005,51.94,2023-04-29,Male dorm,Hostel A
+2006,39.0,2023-04-29,Large dorm,Hostel B
+2007,32.8,2023-04-29,Single room,Hotel C
+2008,50.29,2023-04-28,Male dorm,Hostel A
+2009,39.0,2023-04-28,Large dorm,Hostel B
+2010,57.86,2023-04-28,Female dorm,Hostel A
+2011,27.2,2023-04-28,,Hotel C
+2012,31.6,2023-04-28,Single room,Hotel C
+2013,283.0,2023-04-28,Luxury suite,Hotel B
+2014,40.7,2023-04-28,,
+2015,47.2,2023-04-28,Single room,
+2016,263.0,2023-04-28,Family room,Hotel B
+2017,25.0,2023-04-28,Twin room,Hotel C
+2018,37.4,2023-04-28,Twin room,
+2019,256.0,2023-04-28,Studio,Hotel D
+2020,42.8,2023-04-27,Single room,
+2021,42.4,2023-04-27,Male dorm,Hostel A
+2022,23.5,2023-04-27,Twin room,Hotel C
+2023,29.6,2023-04-27,Single room,Hotel C
+2024,263.0,2023-04-27,Family room,Hotel B
+2025,30.0,2023-04-27,Large dorm,Hostel B
+2026,48.0,2023-04-27,Female dorm,Hostel A
+2027,36.9,2023-04-27,,
+2028,182.0,2023-04-27,Studio,Hotel D
+2029,33.9,2023-04-27,Twin room,
+2030,25.5,2023-04-27,,Hotel C
+2031,283.0,2023-04-27,Luxury suite,Hotel B
+2032,36.9,2023-04-26,,
+2033,42.0,2023-04-26,Male dorm,Hostel A
+2034,28.0,2023-04-26,Large dorm,Hostel B
+2035,23.7,2023-04-26,,Hotel C
+2036,263.0,2023-04-26,Family room,Hotel B
+2037,42.8,2023-04-26,Single room,
+2038,27.5,2023-04-26,Single room,Hotel C
+2039,47.5,2023-04-26,Female dorm,Hostel A
+2040,182.0,2023-04-26,Studio,Hotel D
+2041,283.0,2023-04-26,Luxury suite,Hotel B
+2042,21.8,2023-04-26,Twin room,Hotel C
+2043,33.9,2023-04-26,Twin room,
+2044,47.5,2023-04-25,Female dorm,Hostel A
+2045,27.5,2023-04-25,Single room,Hotel C
+2046,37.0,2023-04-25,,
+2047,23.7,2023-04-25,,Hotel C
+2048,263.0,2023-04-25,Family room,Hotel B
+2049,283.0,2023-04-25,Luxury suite,Hotel B
+2050,34.0,2023-04-25,Twin room,
+2051,28.0,2023-04-25,Large dorm,Hostel B
+2052,21.8,2023-04-25,Twin room,Hotel C
+2053,42.9,2023-04-25,Single room,
+2054,42.0,2023-04-25,Male dorm,Hostel A
+2055,187.0,2023-04-25,Studio,Hotel D
+2056,44.91,2023-04-24,Male dorm,Hostel A
+2057,283.0,2023-04-24,Luxury suite,Hotel B
+2058,33.2,2023-04-24,Single room,Hotel C
+2059,35.7,2023-04-24,,
+2060,26.3,2023-04-24,Twin room,Hotel C
+2061,41.4,2023-04-24,Single room,
+2062,182.0,2023-04-24,Studio,Hotel D
+2063,28.6,2023-04-24,,Hotel C
+2064,263.0,2023-04-24,Family room,Hotel B
+2065,51.14,2023-04-24,Female dorm,Hostel A
+2066,28.0,2023-04-24,Large dorm,Hostel B
+2067,32.8,2023-04-24,Twin room,
+2068,26.3,2023-04-23,Twin room,Hotel C
+2069,188.0,2023-04-23,Studio,Hotel D
+2070,44.5,2023-04-23,Single room,
+2071,28.6,2023-04-23,,Hotel C
+2072,30.0,2023-04-23,Large dorm,Hostel B
+2073,54.0,2023-04-23,Male dorm,Hostel A
+2074,38.4,2023-04-23,,
+2075,33.2,2023-04-23,Single room,Hotel C
+2076,283.0,2023-04-23,Luxury suite,Hotel B
+2077,62.5,2023-04-23,Female dorm,Hostel A
+2078,35.3,2023-04-23,Twin room,
+2079,263.0,2023-04-23,Family room,Hotel B
+2080,78.45,2023-04-22,Female dorm,Hostel A
+2081,66.76,2023-04-22,Male dorm,Hostel A
+2082,263.0,2023-04-22,Family room,Hotel B
+2083,43.2,2023-04-22,,
+2084,31.6,2023-04-22,Single room,Hotel C
+2085,25.0,2023-04-22,Twin room,Hotel C
+2086,45.0,2023-04-22,Large dorm,Hostel B
+2087,27.2,2023-04-22,,Hotel C
+2088,39.7,2023-04-22,Twin room,
+2089,283.0,2023-04-22,Luxury suite,Hotel B
+2090,300.0,2023-04-22,Studio,Hotel D
+2091,50.1,2023-04-22,Single room,
+2092,40.8,2023-04-21,Twin room,
+2093,263.0,2023-04-21,Family room,Hotel B
+2094,31.6,2023-04-21,Single room,Hotel C
+2095,44.4,2023-04-21,,
+2096,283.0,2023-04-21,Luxury suite,Hotel B
+2097,51.5,2023-04-21,Single room,
+2098,53.03,2023-04-21,Male dorm,Hostel A
+2099,27.2,2023-04-21,,Hotel C
+2100,257.0,2023-04-21,Studio,Hotel D
+2101,45.0,2023-04-21,Large dorm,Hostel B
+2102,25.0,2023-04-21,Twin room,Hotel C
+2103,61.29,2023-04-21,Female dorm,Hostel A
+2104,56.25,2023-04-20,Female dorm,Hostel A
+2105,29.6,2023-04-20,Single room,Hotel C
+2106,25.5,2023-04-20,,Hotel C
+2107,49.0,2023-04-20,Male dorm,Hostel A
+2108,30.0,2023-04-20,Large dorm,Hostel B
+2109,23.5,2023-04-20,Twin room,Hotel C
+2110,38.8,2023-04-20,,
+2111,35.7,2023-04-20,Twin room,
+2112,45.0,2023-04-20,Single room,
+2113,194.0,2023-04-20,Studio,Hotel D
+2114,283.0,2023-04-20,Luxury suite,Hotel B
+2115,263.0,2023-04-20,Family room,Hotel B
+2116,36.4,2023-04-19,,
+2117,27.5,2023-04-19,Single room,Hotel C
+2118,28.0,2023-04-19,Large dorm,Hostel B
+2119,21.8,2023-04-19,Twin room,Hotel C
+2120,190.0,2023-04-19,Studio,Hotel D
+2121,23.7,2023-04-19,,Hotel C
+2122,49.0,2023-04-19,Male dorm,Hostel A
+2123,283.0,2023-04-19,Luxury suite,Hotel B
+2124,263.0,2023-04-19,Family room,Hotel B
+2125,56.25,2023-04-19,Female dorm,Hostel A
+2126,33.5,2023-04-19,Twin room,
+2127,42.2,2023-04-19,Single room,
+2128,283.0,2023-04-18,Luxury suite,Hotel B
+2129,185.0,2023-04-18,Studio,Hotel D
+2130,41.72,2023-04-18,Male dorm,Hostel A
+2131,23.7,2023-04-18,,Hotel C
+2132,27.5,2023-04-18,Single room,Hotel C
+2133,47.15,2023-04-18,Female dorm,Hostel A
+2134,263.0,2023-04-18,Family room,Hotel B
+2135,41.1,2023-04-18,Single room,
+2136,32.6,2023-04-18,Twin room,
+2137,28.0,2023-04-18,Large dorm,Hostel B
+2138,35.4,2023-04-18,,
+2139,21.8,2023-04-18,Twin room,Hotel C
+2140,263.0,2023-04-17,Family room,Hotel B
+2141,39.85,2023-04-17,Male dorm,Hostel A
+2142,187.0,2023-04-17,Studio,Hotel D
+2143,28.6,2023-04-17,,Hotel C
+2144,28.0,2023-04-17,Large dorm,Hostel B
+2145,44.81,2023-04-17,Female dorm,Hostel A
+2146,33.2,2023-04-17,Single room,Hotel C
+2147,38.6,2023-04-17,Single room,
+2148,26.3,2023-04-17,Twin room,Hotel C
+2149,33.3,2023-04-17,,
+2150,283.0,2023-04-17,Luxury suite,Hotel B
+2151,30.6,2023-04-17,Twin room,
+2152,33.2,2023-04-16,Single room,Hotel C
+2153,33.1,2023-04-16,,
+2154,30.5,2023-04-16,Twin room,
+2155,229.0,2023-04-16,Family room,Hotel B
+2156,38.4,2023-04-16,Single room,
+2157,26.3,2023-04-16,Twin room,Hotel C
+2158,28.0,2023-04-16,Large dorm,Hostel B
+2159,184.0,2023-04-16,Studio,Hotel D
+2160,249.0,2023-04-16,Luxury suite,Hotel B
+2161,38.0,2023-04-16,Male dorm,Hostel A
+2162,28.6,2023-04-16,,Hotel C
+2163,42.5,2023-04-16,Female dorm,Hostel A
+2164,263.0,2023-04-15,Family room,Hotel B
+2165,39.0,2023-04-15,Large dorm,Hostel B
+2166,25.0,2023-04-15,Twin room,Hotel C
+2167,61.25,2023-04-15,Female dorm,Hostel A
+2168,53.0,2023-04-15,Male dorm,Hostel A
+2169,45.7,2023-04-15,,
+2170,300.0,2023-04-15,Studio,Hotel D
+2171,283.0,2023-04-15,Luxury suite,Hotel B
+2172,27.2,2023-04-15,,Hotel C
+2173,53.0,2023-04-15,Single room,
+2174,42.0,2023-04-15,Twin room,
+2175,31.6,2023-04-15,Single room,Hotel C
+2176,27.2,2023-04-14,,Hotel C
+2177,251.0,2023-04-14,Studio,Hotel D
+2178,44.8,2023-04-14,,
+2179,31.6,2023-04-14,Single room,Hotel C
+2180,52.0,2023-04-14,Single room,
+2181,56.25,2023-04-14,Female dorm,Hostel A
+2182,39.0,2023-04-14,Large dorm,Hostel B
+2183,49.0,2023-04-14,Male dorm,Hostel A
+2184,263.0,2023-04-14,Family room,Hotel B
+2185,283.0,2023-04-14,Luxury suite,Hotel B
+2186,25.0,2023-04-14,Twin room,Hotel C
+2187,41.2,2023-04-14,Twin room,
+2188,29.9,2023-04-13,,Hotel C
+2189,196.0,2023-04-13,Studio,Hotel D
+2190,283.0,2023-04-13,Luxury suite,Hotel B
+2191,27.5,2023-04-13,Twin room,Hotel C
+2192,34.7,2023-04-13,Single room,Hotel C
+2193,44.7,2023-04-13,Single room,
+2194,47.24,2023-04-13,Female dorm,Hostel A
+2195,41.79,2023-04-13,Male dorm,Hostel A
+2196,30.0,2023-04-13,Large dorm,Hostel B
+2197,263.0,2023-04-13,Family room,Hotel B
+2198,38.5,2023-04-13,,
+2199,35.4,2023-04-13,Twin room,
+2200,47.84,2023-04-12,Female dorm,Hostel A
+2201,35.7,2023-04-12,,
+2202,25.7,2023-04-12,Twin room,Hotel C
+2203,27.9,2023-04-12,,Hotel C
+2204,283.0,2023-04-12,Luxury suite,Hotel B
+2205,42.27,2023-04-12,Male dorm,Hostel A
+2206,32.8,2023-04-12,Twin room,
+2207,41.4,2023-04-12,Single room,
+2208,263.0,2023-04-12,Family room,Hotel B
+2209,189.0,2023-04-12,Studio,Hotel D
+2210,32.4,2023-04-12,Single room,Hotel C
+2211,28.0,2023-04-12,Large dorm,Hostel B
+2212,54.0,2023-04-11,Male dorm,Hostel A
+2213,62.5,2023-04-11,Female dorm,Hostel A
+2214,28.0,2023-04-11,Large dorm,Hostel B
+2215,164.0,2023-04-11,Studio,Hotel D
+2216,32.1,2023-04-11,Twin room,
+2217,263.0,2023-04-11,Family room,Hotel B
+2218,31.8,2023-04-11,Single room,Hotel C
+2219,283.0,2023-04-11,Luxury suite,Hotel B
+2220,27.4,2023-04-11,,Hotel C
+2221,34.9,2023-04-11,,
+2222,40.5,2023-04-11,Single room,
+2223,25.2,2023-04-11,Twin room,Hotel C
+2224,25.9,2023-04-10,,Hotel C
+2225,283.0,2023-04-10,Luxury suite,Hotel B
+2226,263.0,2023-04-10,Family room,Hotel B
+2227,163.0,2023-04-10,Studio,Hotel D
+2228,23.8,2023-04-10,Twin room,Hotel C
+2229,30.0,2023-04-10,Large dorm,Hostel B
+2230,62.5,2023-04-10,Female dorm,Hostel A
+2231,30.5,2023-04-10,Twin room,
+2232,33.2,2023-04-10,,
+2233,54.0,2023-04-10,Male dorm,Hostel A
+2234,30.0,2023-04-10,Single room,Hotel C
+2235,38.5,2023-04-10,Single room,
+2236,283.0,2023-04-09,Luxury suite,Hotel B
+2237,39.3,2023-04-09,Single room,
+2238,263.0,2023-04-09,Family room,Hotel B
+2239,30.0,2023-04-09,Large dorm,Hostel B
+2240,33.9,2023-04-09,,
+2241,220.0,2023-04-09,Studio,Hotel D
+2242,25.1,2023-04-09,,Hotel C
+2243,45.0,2023-04-09,Female dorm,Hostel A
+2244,31.2,2023-04-09,Twin room,
+2245,40.0,2023-04-09,Male dorm,Hostel A
+2246,29.1,2023-04-09,Single room,Hotel C
+2247,23.1,2023-04-09,Twin room,Hotel C
+2248,298.0,2023-04-08,Family room,Hotel B
+2249,220.0,2023-04-08,Studio,Hotel D
+2250,40.4,2023-04-08,Twin room,
+2251,43.9,2023-04-08,,
+2252,318.0,2023-04-08,Luxury suite,Hotel B
+2253,47.0,2023-04-08,Large dorm,Hostel B
+2254,50.9,2023-04-08,Single room,
+2255,32.8,2023-04-08,Twin room,Hotel C
+2256,74.04,2023-04-08,Female dorm,Hostel A
+2257,63.23,2023-04-08,Male dorm,Hostel A
+2258,35.7,2023-04-08,,Hotel C
+2259,41.4,2023-04-08,Single room,Hotel C
+2260,27.2,2023-04-07,Twin room,Hotel C
+2261,42.9,2023-04-07,,
+2262,34.3,2023-04-07,Single room,Hotel C
+2263,29.6,2023-04-07,,Hotel C
+2264,283.0,2023-04-07,Luxury suite,Hotel B
+2265,263.0,2023-04-07,Family room,Hotel B
+2266,68.75,2023-04-07,Female dorm,Hostel A
+2267,59.0,2023-04-07,Male dorm,Hostel A
+2268,220.0,2023-04-07,Studio,Hotel D
+2269,49.8,2023-04-07,Single room,
+2270,47.0,2023-04-07,Large dorm,Hostel B
+2271,39.5,2023-04-07,Twin room,
+2272,26.8,2023-04-06,Single room,Hotel C
+2273,30.0,2023-04-06,Large dorm,Hostel B
+2274,263.0,2023-04-06,Family room,Hotel B
+2275,21.3,2023-04-06,Twin room,Hotel C
+2276,23.1,2023-04-06,,Hotel C
+2277,44.9,2023-04-06,Single room,
+2278,56.0,2023-04-06,Male dorm,Hostel A
+2279,38.7,2023-04-06,,
+2280,163.0,2023-04-06,Studio,Hotel D
+2281,283.0,2023-04-06,Luxury suite,Hotel B
+2282,35.6,2023-04-06,Twin room,
+2283,65.0,2023-04-06,Female dorm,Hostel A
+2284,263.0,2023-04-05,Family room,Hotel B
+2285,43.54,2023-04-05,Female dorm,Hostel A
+2286,38.83,2023-04-05,Male dorm,Hostel A
+2287,25.1,2023-04-05,Single room,Hotel C
+2288,28.0,2023-04-05,Large dorm,Hostel B
+2289,36.4,2023-04-05,,
+2290,19.9,2023-04-05,Twin room,Hotel C
+2291,283.0,2023-04-05,Luxury suite,Hotel B
+2292,33.5,2023-04-05,Twin room,
+2293,42.2,2023-04-05,Single room,
+2294,167.0,2023-04-05,Studio,Hotel D
+2295,21.6,2023-04-05,,Hotel C
+2296,283.0,2023-04-04,Luxury suite,Hotel B
+2297,35.5,2023-04-04,,
+2298,19.9,2023-04-04,Twin room,Hotel C
+2299,32.7,2023-04-04,Twin room,
+2300,25.1,2023-04-04,Single room,Hotel C
+2301,41.2,2023-04-04,Single room,
+2302,21.6,2023-04-04,,Hotel C
+2303,38.76,2023-04-04,Male dorm,Hostel A
+2304,164.0,2023-04-04,Studio,Hotel D
+2305,43.45,2023-04-04,Female dorm,Hostel A
+2306,28.0,2023-04-04,Large dorm,Hostel B
+2307,263.0,2023-04-04,Family room,Hotel B
+2308,30.5,2023-04-03,Twin room,
+2309,164.0,2023-04-03,Studio,Hotel D
+2310,38.5,2023-04-03,Single room,
+2311,263.0,2023-04-03,Family room,Hotel B
+2312,28.0,2023-04-03,Large dorm,Hostel B
+2313,30.7,2023-04-03,Single room,Hotel C
+2314,24.4,2023-04-03,Twin room,Hotel C
+2315,39.6,2023-04-03,Male dorm,Hostel A
+2316,26.5,2023-04-03,,Hotel C
+2317,33.2,2023-04-03,,
+2318,283.0,2023-04-03,Luxury suite,Hotel B
+2319,44.5,2023-04-03,Female dorm,Hostel A
+2320,38.57,2023-04-02,Male dorm,Hostel A
+2321,24.8,2023-04-02,Twin room,Hotel C
+2322,217.0,2023-04-02,Family room,Hotel B
+2323,27.0,2023-04-02,,Hotel C
+2324,38.4,2023-04-02,Single room,
+2325,43.21,2023-04-02,Female dorm,Hostel A
+2326,30.5,2023-04-02,Twin room,
+2327,33.1,2023-04-02,,
+2328,237.0,2023-04-02,Luxury suite,Hotel B
+2329,164.0,2023-04-02,Studio,Hotel D
+2330,31.3,2023-04-02,Single room,Hotel C
+2331,32.0,2023-04-02,Large dorm,Hostel B
+2332,329.0,2023-04-01,Luxury suite,Hotel B
+2333,53.0,2023-04-01,Single room,
+2334,28.5,2023-04-01,Single room,Hotel C
+2335,24.6,2023-04-01,,Hotel C
+2336,47.41,2023-04-01,Male dorm,Hostel A
+2337,54.26,2023-04-01,Female dorm,Hostel A
+2338,45.7,2023-04-01,,
+2339,45.0,2023-04-01,Large dorm,Hostel B
+2340,266.0,2023-04-01,Studio,Hotel D
+2341,42.0,2023-04-01,Twin room,
+2342,309.0,2023-04-01,Family room,Hotel B
+2343,22.6,2023-04-01,Twin room,Hotel C
+2344,283.0,2023-03-31,Luxury suite,Hotel B
+2345,22.6,2023-03-31,Twin room,Hotel C
+2346,41.25,2023-03-31,Female dorm,Hostel A
+2347,36.0,2023-03-31,Large dorm,Hostel B
+2348,263.0,2023-03-31,Family room,Hotel B
+2349,46.6,2023-03-31,Single room,
+2350,40.2,2023-03-31,,
+2351,194.0,2023-03-31,Studio,Hotel D
+2352,24.6,2023-03-31,,Hotel C
+2353,28.5,2023-03-31,Single room,Hotel C
+2354,37.0,2023-03-31,Twin room,
+2355,37.0,2023-03-31,Male dorm,Hostel A
+2356,37.9,2023-03-30,,
+2357,164.0,2023-03-30,Studio,Hotel D
+2358,21.3,2023-03-30,Twin room,Hotel C
+2359,47.5,2023-03-30,Female dorm,Hostel A
+2360,34.9,2023-03-30,Twin room,
+2361,26.8,2023-03-30,Single room,Hotel C
+2362,283.0,2023-03-30,Luxury suite,Hotel B
+2363,263.0,2023-03-30,Family room,Hotel B
+2364,29.0,2023-03-30,Large dorm,Hostel B
+2365,42.0,2023-03-30,Male dorm,Hostel A
+2366,44.0,2023-03-30,Single room,
+2367,23.1,2023-03-30,,Hotel C
+2368,318.0,2023-03-29,Luxury suite,Hotel B
+2369,42.0,2023-03-29,Male dorm,Hostel A
+2370,19.9,2023-03-29,Twin room,Hotel C
+2371,40.4,2023-03-29,Single room,
+2372,32.0,2023-03-29,Twin room,
+2373,298.0,2023-03-29,Family room,Hotel B
+2374,27.0,2023-03-29,Large dorm,Hostel B
+2375,21.6,2023-03-29,,Hotel C
+2376,164.0,2023-03-29,Studio,Hotel D
+2377,34.8,2023-03-29,,
+2378,47.5,2023-03-29,Female dorm,Hostel A
+2379,25.1,2023-03-29,Single room,Hotel C
+2380,166.0,2023-03-28,Studio,Hotel D
+2381,47.5,2023-03-28,Female dorm,Hostel A
+2382,42.0,2023-03-28,Male dorm,Hostel A
+2383,21.6,2023-03-28,,Hotel C
+2384,25.1,2023-03-28,Single room,Hotel C
+2385,32.0,2023-03-28,Twin room,
+2386,34.8,2023-03-28,,
+2387,318.0,2023-03-28,Luxury suite,Hotel B
+2388,27.0,2023-03-28,Large dorm,Hostel B
+2389,40.4,2023-03-28,Single room,
+2390,298.0,2023-03-28,Family room,Hotel B
+2391,19.9,2023-03-28,Twin room,Hotel C
+2392,283.0,2023-03-27,Luxury suite,Hotel B
+2393,32.5,2023-03-27,,
+2394,46.0,2023-03-27,Male dorm,Hostel A
+2395,263.0,2023-03-27,Family room,Hotel B
+2396,27.0,2023-03-27,Large dorm,Hostel B
+2397,27.0,2023-03-27,,Hotel C
+2398,31.3,2023-03-27,Single room,Hotel C
+2399,37.7,2023-03-27,Single room,
+2400,29.9,2023-03-27,Twin room,
+2401,24.8,2023-03-27,Twin room,Hotel C
+2402,52.5,2023-03-27,Female dorm,Hostel A
+2403,166.0,2023-03-27,Studio,Hotel D
+2404,29.8,2023-03-26,Twin room,
+2405,217.0,2023-03-26,Family room,Hotel B
+2406,36.89,2023-03-26,Male dorm,Hostel A
+2407,41.11,2023-03-26,Female dorm,Hostel A
+2408,27.0,2023-03-26,,Hotel C
+2409,32.4,2023-03-26,,
+2410,37.6,2023-03-26,Single room,
+2411,164.0,2023-03-26,Studio,Hotel D
+2412,27.0,2023-03-26,Large dorm,Hostel B
+2413,237.0,2023-03-26,Luxury suite,Hotel B
+2414,24.8,2023-03-26,Twin room,Hotel C
+2415,31.3,2023-03-26,Single room,Hotel C
+2416,196.0,2023-03-25,Studio,Hotel D
+2417,24.6,2023-03-25,,Hotel C
+2418,22.6,2023-03-25,Twin room,Hotel C
+2419,28.5,2023-03-25,Single room,Hotel C
+2420,47.3,2023-03-25,Single room,
+2421,37.5,2023-03-25,Twin room,
+2422,329.0,2023-03-25,Luxury suite,Hotel B
+2423,36.0,2023-03-25,Large dorm,Hostel B
+2424,40.8,2023-03-25,,
+2425,309.0,2023-03-25,Family room,Hotel B
+2426,55.0,2023-03-25,Female dorm,Hostel A
+2427,48.0,2023-03-25,Male dorm,Hostel A
+2428,46.4,2023-03-24,Single room,
+2429,24.6,2023-03-24,,Hotel C
+2430,28.5,2023-03-24,Single room,Hotel C
+2431,40.0,2023-03-24,,
+2432,283.0,2023-03-24,Luxury suite,Hotel B
+2433,43.54,2023-03-24,Female dorm,Hostel A
+2434,36.8,2023-03-24,Twin room,
+2435,263.0,2023-03-24,Family room,Hotel B
+2436,38.83,2023-03-24,Male dorm,Hostel A
+2437,191.0,2023-03-24,Studio,Hotel D
+2438,36.0,2023-03-24,Large dorm,Hostel B
+2439,22.6,2023-03-24,Twin room,Hotel C
+2440,31.7,2023-03-23,Twin room,
+2441,26.8,2023-03-23,Single room,Hotel C
+2442,37.5,2023-03-23,Female dorm,Hostel A
+2443,161.0,2023-03-23,Studio,Hotel D
+2444,29.0,2023-03-23,Large dorm,Hostel B
+2445,283.0,2023-03-23,Luxury suite,Hotel B
+2446,40.0,2023-03-23,Single room,
+2447,263.0,2023-03-23,Family room,Hotel B
+2448,21.3,2023-03-23,Twin room,Hotel C
+2449,34.0,2023-03-23,Male dorm,Hostel A
+2450,34.5,2023-03-23,,
+2451,23.1,2023-03-23,,Hotel C
+2452,34.0,2023-03-22,Male dorm,Hostel A
+2453,32.0,2023-03-22,,
+2454,37.1,2023-03-22,Single room,
+2455,298.0,2023-03-22,Family room,Hotel B
+2456,25.1,2023-03-22,Single room,Hotel C
+2457,318.0,2023-03-22,Luxury suite,Hotel B
+2458,21.6,2023-03-22,,Hotel C
+2459,19.9,2023-03-22,Twin room,Hotel C
+2460,29.4,2023-03-22,Twin room,
+2461,37.5,2023-03-22,Female dorm,Hostel A
+2462,161.0,2023-03-22,Studio,Hotel D
+2463,27.0,2023-03-22,Large dorm,Hostel B
+2464,37.5,2023-03-21,Female dorm,Hostel A
+2465,21.6,2023-03-21,,Hotel C
+2466,25.1,2023-03-21,Single room,Hotel C
+2467,36.9,2023-03-21,Single room,
+2468,318.0,2023-03-21,Luxury suite,Hotel B
+2469,298.0,2023-03-21,Family room,Hotel B
+2470,27.0,2023-03-21,Large dorm,Hostel B
+2471,34.0,2023-03-21,Male dorm,Hostel A
+2472,161.0,2023-03-21,Studio,Hotel D
+2473,29.3,2023-03-21,Twin room,
+2474,31.8,2023-03-21,,
+2475,19.9,2023-03-21,Twin room,Hotel C
+2476,35.59,2023-03-20,Male dorm,Hostel A
+2477,27.0,2023-03-20,,Hotel C
+2478,31.3,2023-03-20,Single room,Hotel C
+2479,35.5,2023-03-20,Single room,
+2480,39.49,2023-03-20,Female dorm,Hostel A
+2481,24.8,2023-03-20,Twin room,Hotel C
+2482,30.6,2023-03-20,,
+2483,161.0,2023-03-20,Studio,Hotel D
+2484,283.0,2023-03-20,Luxury suite,Hotel B
+2485,28.2,2023-03-20,Twin room,
+2486,27.0,2023-03-20,Large dorm,Hostel B
+2487,263.0,2023-03-20,Family room,Hotel B
+2488,35.5,2023-03-19,Single room,
+2489,217.0,2023-03-19,Family room,Hotel B
+2490,30.6,2023-03-19,,
+2491,31.3,2023-03-19,Single room,Hotel C
+2492,27.0,2023-03-19,,Hotel C
+2493,160.0,2023-03-19,Studio,Hotel D
+2494,38.91,2023-03-19,Male dorm,Hostel A
+2495,28.2,2023-03-19,Twin room,
+2496,27.0,2023-03-19,Large dorm,Hostel B
+2497,24.8,2023-03-19,Twin room,Hotel C
+2498,43.64,2023-03-19,Female dorm,Hostel A
+2499,237.0,2023-03-19,Luxury suite,Hotel B
+2500,24.6,2023-03-18,,Hotel C
+2501,22.6,2023-03-18,Twin room,Hotel C
+2502,28.5,2023-03-18,Single room,Hotel C
+2503,34.3,2023-03-18,,
+2504,329.0,2023-03-18,Luxury suite,Hotel B
+2505,190.0,2023-03-18,Studio,Hotel D
+2506,55.0,2023-03-18,Female dorm,Hostel A
+2507,31.6,2023-03-18,Twin room,
+2508,309.0,2023-03-18,Family room,Hotel B
+2509,48.0,2023-03-18,Male dorm,Hostel A
+2510,39.8,2023-03-18,Single room,
+2511,36.0,2023-03-18,Large dorm,Hostel B
+2512,52.5,2023-03-17,Female dorm,Hostel A
+2513,190.0,2023-03-17,Studio,Hotel D
+2514,31.6,2023-03-17,Twin room,
+2515,36.0,2023-03-17,Large dorm,Hostel B
+2516,46.0,2023-03-17,Male dorm,Hostel A
+2517,34.3,2023-03-17,,
+2518,22.6,2023-03-17,Twin room,Hotel C
+2519,28.5,2023-03-17,Single room,Hotel C
+2520,263.0,2023-03-17,Family room,Hotel B
+2521,39.8,2023-03-17,Single room,
+2522,24.6,2023-03-17,,Hotel C
+2523,283.0,2023-03-17,Luxury suite,Hotel B
+2524,263.0,2023-03-16,Family room,Hotel B
+2525,36.8,2023-03-16,Single room,
+2526,29.0,2023-03-16,Large dorm,Hostel B
+2527,31.7,2023-03-16,,
+2528,283.0,2023-03-16,Luxury suite,Hotel B
+2529,34.0,2023-03-16,Male dorm,Hostel A
+2530,21.3,2023-03-16,Twin room,Hotel C
+2531,23.1,2023-03-16,,Hotel C
+2532,26.8,2023-03-16,Single room,Hotel C
+2533,37.5,2023-03-16,Female dorm,Hostel A
+2534,29.2,2023-03-16,Twin room,
+2535,161.0,2023-03-16,Studio,Hotel D
+2536,161.0,2023-03-15,Studio,Hotel D
+2537,25.1,2023-03-15,Single room,Hotel C
+2538,275.0,2023-03-15,Family room,Hotel B
+2539,26.8,2023-03-15,Twin room,
+2540,34.0,2023-03-15,Male dorm,Hostel A
+2541,37.5,2023-03-15,Female dorm,Hostel A
+2542,295.0,2023-03-15,Luxury suite,Hotel B
+2543,33.8,2023-03-15,Single room,
+2544,19.9,2023-03-15,Twin room,Hotel C
+2545,21.6,2023-03-15,,Hotel C
+2546,27.0,2023-03-15,Large dorm,Hostel B
+2547,29.1,2023-03-15,,
+2548,161.0,2023-03-14,Studio,Hotel D
+2549,286.0,2023-03-14,Family room,Hotel B
+2550,29.1,2023-03-14,Twin room,
+2551,19.9,2023-03-14,Twin room,Hotel C
+2552,37.5,2023-03-14,Female dorm,Hostel A
+2553,306.0,2023-03-14,Luxury suite,Hotel B
+2554,31.6,2023-03-14,,
+2555,21.6,2023-03-14,,Hotel C
+2556,25.1,2023-03-14,Single room,Hotel C
+2557,27.0,2023-03-14,Large dorm,Hostel B
+2558,34.0,2023-03-14,Male dorm,Hostel A
+2559,36.7,2023-03-14,Single room,
+2560,162.0,2023-03-13,Studio,Hotel D
+2561,30.4,2023-03-13,Twin room,
+2562,34.0,2023-03-13,Male dorm,Hostel A
+2563,27.0,2023-03-13,Large dorm,Hostel B
+2564,33.0,2023-03-13,,
+2565,263.0,2023-03-13,Family room,Hotel B
+2566,24.8,2023-03-13,Twin room,Hotel C
+2567,27.0,2023-03-13,,Hotel C
+2568,31.3,2023-03-13,Single room,Hotel C
+2569,37.5,2023-03-13,Female dorm,Hostel A
+2570,38.3,2023-03-13,Single room,
+2571,283.0,2023-03-13,Luxury suite,Hotel B
+2572,29.3,2023-03-12,Twin room,
+2573,24.8,2023-03-12,Twin room,Hotel C
+2574,36.9,2023-03-12,Single room,
+2575,229.0,2023-03-12,Family room,Hotel B
+2576,39.0,2023-03-12,Male dorm,Hostel A
+2577,31.8,2023-03-12,,
+2578,31.3,2023-03-12,Single room,Hotel C
+2579,27.0,2023-03-12,,Hotel C
+2580,27.0,2023-03-12,Large dorm,Hostel B
+2581,43.75,2023-03-12,Female dorm,Hostel A
+2582,162.0,2023-03-12,Studio,Hotel D
+2583,249.0,2023-03-12,Luxury suite,Hotel B
+2584,318.0,2023-03-11,Luxury suite,Hotel B
+2585,192.0,2023-03-11,Studio,Hotel D
+2586,49.0,2023-03-11,Male dorm,Hostel A
+2587,22.6,2023-03-11,Twin room,Hotel C
+2588,36.5,2023-03-11,,
+2589,42.3,2023-03-11,Single room,
+2590,41.0,2023-03-11,Large dorm,Hostel B
+2591,28.5,2023-03-11,Single room,Hotel C
+2592,24.6,2023-03-11,,Hotel C
+2593,33.6,2023-03-11,Twin room,
+2594,56.25,2023-03-11,Female dorm,Hostel A
+2595,298.0,2023-03-11,Family room,Hotel B
+2596,33.7,2023-03-10,Twin room,
+2597,190.0,2023-03-10,Studio,Hotel D
+2598,36.2,2023-03-10,Single room,Hotel C
+2599,31.2,2023-03-10,,Hotel C
+2600,263.0,2023-03-10,Family room,Hotel B
+2601,42.0,2023-03-10,Male dorm,Hostel A
+2602,28.7,2023-03-10,Twin room,Hotel C
+2603,36.6,2023-03-10,,
+2604,283.0,2023-03-10,Luxury suite,Hotel B
+2605,41.0,2023-03-10,Large dorm,Hostel B
+2606,47.5,2023-03-10,Female dorm,Hostel A
+2607,42.5,2023-03-10,Single room,
+2608,24.7,2023-03-09,Twin room,Hotel C
+2609,26.9,2023-03-09,,Hotel C
+2610,263.0,2023-03-09,Family room,Hotel B
+2611,31.6,2023-03-09,Twin room,
+2612,39.9,2023-03-09,Single room,
+2613,37.5,2023-03-09,Female dorm,Hostel A
+2614,34.4,2023-03-09,,
+2615,31.2,2023-03-09,Single room,Hotel C
+2616,34.0,2023-03-09,Male dorm,Hostel A
+2617,28.6,2023-03-09,Large dorm,Hostel B
+2618,283.0,2023-03-09,Luxury suite,Hotel B
+2619,158.0,2023-03-09,Studio,Hotel D
+2620,27.0,2023-03-08,Large dorm,Hostel B
+2621,26.8,2023-03-08,Twin room,
+2622,29.1,2023-03-08,Single room,Hotel C
+2623,23.1,2023-03-08,Twin room,Hotel C
+2624,29.1,2023-03-08,,
+2625,37.5,2023-03-08,Female dorm,Hostel A
+2626,33.8,2023-03-08,Single room,
+2627,263.0,2023-03-08,Family room,Hotel B
+2628,156.0,2023-03-08,Studio,Hotel D
+2629,283.0,2023-03-08,Luxury suite,Hotel B
+2630,25.1,2023-03-08,,Hotel C
+2631,34.0,2023-03-08,Male dorm,Hostel A
+2632,26.8,2023-03-07,Twin room,
+2633,156.0,2023-03-07,Studio,Hotel D
+2634,29.1,2023-03-07,,
+2635,39.6,2023-03-07,Female dorm,Hostel A
+2636,23.1,2023-03-07,Twin room,Hotel C
+2637,263.0,2023-03-07,Family room,Hotel B
+2638,33.8,2023-03-07,Single room,
+2639,283.0,2023-03-07,Luxury suite,Hotel B
+2640,27.0,2023-03-07,Large dorm,Hostel B
+2641,29.1,2023-03-07,Single room,Hotel C
+2642,35.68,2023-03-07,Male dorm,Hostel A
+2643,25.1,2023-03-07,,Hotel C
+2644,156.0,2023-03-06,Studio,Hotel D
+2645,30.8,2023-03-06,,
+2646,263.0,2023-03-06,Family room,Hotel B
+2647,35.7,2023-03-06,Single room,
+2648,35.97,2023-03-06,Male dorm,Hostel A
+2649,39.96,2023-03-06,Female dorm,Hostel A
+2650,24.2,2023-03-06,,Hotel C
+2651,27.0,2023-03-06,Large dorm,Hostel B
+2652,28.1,2023-03-06,Single room,Hotel C
+2653,28.3,2023-03-06,Twin room,
+2654,22.3,2023-03-06,Twin room,Hotel C
+2655,283.0,2023-03-06,Luxury suite,Hotel B
+2656,27.0,2023-03-05,Large dorm,Hostel B
+2657,30.4,2023-03-05,,
+2658,237.0,2023-03-05,Luxury suite,Hotel B
+2659,28.1,2023-03-05,Single room,Hotel C
+2660,39.75,2023-03-05,Female dorm,Hostel A
+2661,24.2,2023-03-05,,Hotel C
+2662,156.0,2023-03-05,Studio,Hotel D
+2663,28.0,2023-03-05,Twin room,
+2664,22.3,2023-03-05,Twin room,Hotel C
+2665,35.3,2023-03-05,Single room,
+2666,217.0,2023-03-05,Family room,Hotel B
+2667,35.8,2023-03-05,Male dorm,Hostel A
+2668,35.0,2023-03-04,,
+2669,40.6,2023-03-04,Single room,
+2670,46.0,2023-03-04,Male dorm,Hostel A
+2671,21.9,2023-03-04,,Hotel C
+2672,20.1,2023-03-04,Twin room,Hotel C
+2673,298.0,2023-03-04,Family room,Hotel B
+2674,185.0,2023-03-04,Studio,Hotel D
+2675,36.0,2023-03-04,Large dorm,Hostel B
+2676,32.2,2023-03-04,Twin room,
+2677,318.0,2023-03-04,Luxury suite,Hotel B
+2678,52.5,2023-03-04,Female dorm,Hostel A
+2679,25.4,2023-03-04,Single room,Hotel C
+2680,39.8,2023-03-03,Single room,
+2681,185.0,2023-03-03,Studio,Hotel D
+2682,20.1,2023-03-03,Twin room,Hotel C
+2683,21.9,2023-03-03,,Hotel C
+2684,36.0,2023-03-03,Large dorm,Hostel B
+2685,34.3,2023-03-03,,
+2686,25.4,2023-03-03,Single room,Hotel C
+2687,283.0,2023-03-03,Luxury suite,Hotel B
+2688,42.0,2023-03-03,Male dorm,Hostel A
+2689,31.6,2023-03-03,Twin room,
+2690,47.5,2023-03-03,Female dorm,Hostel A
+2691,263.0,2023-03-03,Family room,Hotel B
+2692,37.5,2023-03-02,Female dorm,Hostel A
+2693,40.3,2023-03-02,Single room,
+2694,34.7,2023-03-02,,
+2695,283.0,2023-03-02,Luxury suite,Hotel B
+2696,20.5,2023-03-02,,Hotel C
+2697,18.9,2023-03-02,Twin room,Hotel C
+2698,34.0,2023-03-02,Male dorm,Hostel A
+2699,263.0,2023-03-02,Family room,Hotel B
+2700,31.9,2023-03-02,Twin room,
+2701,28.6,2023-03-02,Large dorm,Hostel B
+2702,156.0,2023-03-02,Studio,Hotel D
+2703,23.8,2023-03-02,Single room,Hotel C
+2704,31.68,2023-03-01,Male dorm,Hostel A
+2705,263.0,2023-03-01,Family room,Hotel B
+2706,31.8,2023-03-01,,
+2707,36.9,2023-03-01,Single room,
+2708,17.6,2023-03-01,Twin room,Hotel C
+2709,22.2,2023-03-01,Single room,Hotel C
+2710,29.3,2023-03-01,Twin room,
+2711,27.0,2023-03-01,Large dorm,Hostel B
+2712,156.0,2023-03-01,Studio,Hotel D
+2713,34.6,2023-03-01,Female dorm,Hostel A
+2714,19.1,2023-03-01,,Hotel C
+2715,283.0,2023-03-01,Luxury suite,Hotel B
+2716,22.0,2023-02-28,Large dorm,Hostel B
+2717,30.0,2023-02-28,Male dorm,Hostel A
+2718,32.5,2023-02-28,Female dorm,Hostel A
+2719,22.2,2023-02-28,Single room,Hotel C
+2720,302.0,2023-02-28,Family room,Hotel B
+2721,19.1,2023-02-28,,Hotel C
+2722,156.0,2023-02-28,Studio,Hotel D
+2723,17.6,2023-02-28,Twin room,Hotel C
+2724,30.1,2023-02-28,,
+2725,322.0,2023-02-28,Luxury suite,Hotel B
+2726,34.9,2023-02-28,Single room,
+2727,27.7,2023-02-28,Twin room,
+2728,302.0,2023-02-27,Family room,Hotel B
+2729,27.0,2023-02-27,Twin room,
+2730,32.5,2023-02-27,Female dorm,Hostel A
+2731,18.4,2023-02-27,,Hotel C
+2732,22.0,2023-02-27,Large dorm,Hostel B
+2733,156.0,2023-02-27,Studio,Hotel D
+2734,21.3,2023-02-27,Single room,Hotel C
+2735,16.9,2023-02-27,Twin room,Hotel C
+2736,29.3,2023-02-27,,
+2737,322.0,2023-02-27,Luxury suite,Hotel B
+2738,30.0,2023-02-27,Male dorm,Hostel A
+2739,34.0,2023-02-27,Single room,
+2740,32.5,2023-02-26,Female dorm,Hostel A
+2741,21.3,2023-02-26,Single room,Hotel C
+2742,22.0,2023-02-26,Large dorm,Hostel B
+2743,33.3,2023-02-26,Single room,
+2744,26.4,2023-02-26,Twin room,
+2745,28.7,2023-02-26,,
+2746,302.0,2023-02-26,Family room,Hotel B
+2747,322.0,2023-02-26,Luxury suite,Hotel B
+2748,156.0,2023-02-26,Studio,Hotel D
+2749,16.9,2023-02-26,Twin room,Hotel C
+2750,30.0,2023-02-26,Male dorm,Hostel A
+2751,18.4,2023-02-26,,Hotel C
+2752,25.4,2023-02-25,Single room,Hotel C
+2753,29.7,2023-02-25,Twin room,
+2754,21.9,2023-02-25,,Hotel C
+2755,37.5,2023-02-25,Single room,
+2756,20.1,2023-02-25,Twin room,Hotel C
+2757,322.0,2023-02-25,Luxury suite,Hotel B
+2758,55.0,2023-02-25,Female dorm,Hostel A
+2759,185.0,2023-02-25,Studio,Hotel D
+2760,302.0,2023-02-25,Family room,Hotel B
+2761,48.0,2023-02-25,Male dorm,Hostel A
+2762,32.3,2023-02-25,,
+2763,33.0,2023-02-25,Large dorm,Hostel B
+2764,302.0,2023-02-24,Family room,Hotel B
+2765,37.5,2023-02-24,Single room,
+2766,322.0,2023-02-24,Luxury suite,Hotel B
+2767,21.9,2023-02-24,,Hotel C
+2768,40.0,2023-02-24,Female dorm,Hostel A
+2769,25.4,2023-02-24,Single room,Hotel C
+2770,20.1,2023-02-24,Twin room,Hotel C
+2771,33.0,2023-02-24,Large dorm,Hostel B
+2772,186.0,2023-02-24,Studio,Hotel D
+2773,32.3,2023-02-24,,
+2774,29.7,2023-02-24,Twin room,
+2775,36.0,2023-02-24,Male dorm,Hostel A
+2776,26.0,2023-02-23,Large dorm,Hostel B
+2777,27.5,2023-02-23,Twin room,
+2778,20.5,2023-02-23,,Hotel C
+2779,18.9,2023-02-23,Twin room,Hotel C
+2780,29.9,2023-02-23,,
+2781,157.0,2023-02-23,Studio,Hotel D
+2782,23.8,2023-02-23,Single room,Hotel C
+2783,32.5,2023-02-23,Female dorm,Hostel A
+2784,322.0,2023-02-23,Luxury suite,Hotel B
+2785,302.0,2023-02-23,Family room,Hotel B
+2786,30.0,2023-02-23,Male dorm,Hostel A
+2787,34.7,2023-02-23,Single room,
+2788,25.2,2023-02-22,Twin room,
+2789,25.0,2023-02-22,Large dorm,Hostel B
+2790,322.0,2023-02-22,Luxury suite,Hotel B
+2791,17.6,2023-02-22,Twin room,Hotel C
+2792,32.5,2023-02-22,Female dorm,Hostel A
+2793,19.1,2023-02-22,,Hotel C
+2794,22.2,2023-02-22,Single room,Hotel C
+2795,30.0,2023-02-22,Male dorm,Hostel A
+2796,27.4,2023-02-22,,
+2797,156.0,2023-02-22,Studio,Hotel D
+2798,31.8,2023-02-22,Single room,
+2799,302.0,2023-02-22,Family room,Hotel B
+2800,31.8,2023-02-21,Single room,
+2801,19.1,2023-02-21,,Hotel C
+2802,25.2,2023-02-21,Twin room,
+2803,17.6,2023-02-21,Twin room,Hotel C
+2804,22.2,2023-02-21,Single room,Hotel C
+2805,156.0,2023-02-21,Studio,Hotel D
+2806,302.0,2023-02-21,Family room,Hotel B
+2807,30.0,2023-02-21,Male dorm,Hostel A
+2808,27.4,2023-02-21,,
+2809,32.5,2023-02-21,Female dorm,Hostel A
+2810,322.0,2023-02-21,Luxury suite,Hotel B
+2811,22.0,2023-02-21,Large dorm,Hostel B
+2812,33.9,2023-02-20,Single room,
+2813,302.0,2023-02-20,Family room,Hotel B
+2814,36.25,2023-02-20,Female dorm,Hostel A
+2815,26.9,2023-02-20,Twin room,
+2816,22.0,2023-02-20,Large dorm,Hostel B
+2817,156.0,2023-02-20,Studio,Hotel D
+2818,16.9,2023-02-20,Twin room,Hotel C
+2819,322.0,2023-02-20,Luxury suite,Hotel B
+2820,29.2,2023-02-20,,
+2821,21.3,2023-02-20,Single room,Hotel C
+2822,18.4,2023-02-20,,Hotel C
+2823,33.0,2023-02-20,Male dorm,Hostel A
+2824,302.0,2023-02-19,Family room,Hotel B
+2825,33.4,2023-02-19,Single room,
+2826,26.5,2023-02-19,Twin room,
+2827,16.9,2023-02-19,Twin room,Hotel C
+2828,22.0,2023-02-19,Large dorm,Hostel B
+2829,33.75,2023-02-19,Female dorm,Hostel A
+2830,21.3,2023-02-19,Single room,Hotel C
+2831,156.0,2023-02-19,Studio,Hotel D
+2832,322.0,2023-02-19,Luxury suite,Hotel B
+2833,18.4,2023-02-19,,Hotel C
+2834,28.8,2023-02-19,,
+2835,31.0,2023-02-19,Male dorm,Hostel A
+2836,302.0,2023-02-18,Family room,Hotel B
+2837,322.0,2023-02-18,Luxury suite,Hotel B
+2838,32.3,2023-02-18,,
+2839,29.7,2023-02-18,Twin room,
+2840,46.0,2023-02-18,Male dorm,Hostel A
+2841,184.0,2023-02-18,Studio,Hotel D
+2842,37.5,2023-02-18,Single room,
+2843,33.0,2023-02-18,Large dorm,Hostel B
+2844,25.4,2023-02-18,Single room,Hotel C
+2845,20.1,2023-02-18,Twin room,Hotel C
+2846,52.5,2023-02-18,Female dorm,Hostel A
+2847,21.9,2023-02-18,,Hotel C
+2848,46.0,2023-02-17,Male dorm,Hostel A
+2849,52.5,2023-02-17,Female dorm,Hostel A
+2850,302.0,2023-02-17,Family room,Hotel B
+2851,21.9,2023-02-17,,Hotel C
+2852,33.0,2023-02-17,Large dorm,Hostel B
+2853,33.3,2023-02-17,,
+2854,38.6,2023-02-17,Single room,
+2855,30.6,2023-02-17,Twin room,
+2856,25.4,2023-02-17,Single room,Hotel C
+2857,184.0,2023-02-17,Studio,Hotel D
+2858,322.0,2023-02-17,Luxury suite,Hotel B
+2859,20.1,2023-02-17,Twin room,Hotel C
+2860,322.0,2023-02-16,Luxury suite,Hotel B
+2861,30.8,2023-02-16,,
+2862,23.8,2023-02-16,Single room,Hotel C
+2863,26.0,2023-02-16,Large dorm,Hostel B
+2864,28.3,2023-02-16,Twin room,
+2865,20.5,2023-02-16,,Hotel C
+2866,302.0,2023-02-16,Family room,Hotel B
+2867,35.7,2023-02-16,Single room,
+2868,47.5,2023-02-16,Female dorm,Hostel A
+2869,42.0,2023-02-16,Male dorm,Hostel A
+2870,155.0,2023-02-16,Studio,Hotel D
+2871,18.9,2023-02-16,Twin room,Hotel C
+2872,22.2,2023-02-15,Single room,Hotel C
+2873,31.8,2023-02-15,Single room,
+2874,27.4,2023-02-15,,
+2875,25.2,2023-02-15,Twin room,
+2876,155.0,2023-02-15,Studio,Hotel D
+2877,25.0,2023-02-15,Large dorm,Hostel B
+2878,322.0,2023-02-15,Luxury suite,Hotel B
+2879,42.0,2023-02-15,Male dorm,Hostel A
+2880,19.1,2023-02-15,,Hotel C
+2881,47.5,2023-02-15,Female dorm,Hostel A
+2882,17.6,2023-02-15,Twin room,Hotel C
+2883,302.0,2023-02-15,Family room,Hotel B
+2884,25.2,2023-02-14,Twin room,
+2885,302.0,2023-02-14,Family room,Hotel B
+2886,35.0,2023-02-14,Female dorm,Hostel A
+2887,22.0,2023-02-14,Large dorm,Hostel B
+2888,153.0,2023-02-14,Studio,Hotel D
+2889,322.0,2023-02-14,Luxury suite,Hotel B
+2890,22.2,2023-02-14,Single room,Hotel C
+2891,19.1,2023-02-14,,Hotel C
+2892,17.6,2023-02-14,Twin room,Hotel C
+2893,27.4,2023-02-14,,
+2894,31.8,2023-02-14,Single room,
+2895,32.0,2023-02-14,Male dorm,Hostel A
+2896,35.0,2023-02-13,Female dorm,Hostel A
+2897,152.0,2023-02-13,Studio,Hotel D
+2898,302.0,2023-02-13,Family room,Hotel B
+2899,21.3,2023-02-13,Single room,Hotel C
+2900,18.4,2023-02-13,,Hotel C
+2901,32.0,2023-02-13,Male dorm,Hostel A
+2902,28.6,2023-02-13,,
+2903,33.2,2023-02-13,Single room,
+2904,322.0,2023-02-13,Luxury suite,Hotel B
+2905,16.9,2023-02-13,Twin room,Hotel C
+2906,26.3,2023-02-13,Twin room,
+2907,22.0,2023-02-13,Large dorm,Hostel B
+2908,18.4,2023-02-12,,Hotel C
+2909,16.9,2023-02-12,Twin room,Hotel C
+2910,33.2,2023-02-12,Single room,
+2911,26.3,2023-02-12,Twin room,
+2912,22.0,2023-02-12,Large dorm,Hostel B
+2913,152.0,2023-02-12,Studio,Hotel D
+2914,28.6,2023-02-12,,
+2915,30.0,2023-02-12,Male dorm,Hostel A
+2916,32.5,2023-02-12,Female dorm,Hostel A
+2917,322.0,2023-02-12,Luxury suite,Hotel B
+2918,302.0,2023-02-12,Family room,Hotel B
+2919,21.3,2023-02-12,Single room,Hotel C
+2920,36.9,2023-02-11,Large dorm,Hostel B
+2921,322.0,2023-02-11,Luxury suite,Hotel B
+2922,20.1,2023-02-11,Twin room,Hotel C
+2923,25.4,2023-02-11,Single room,Hotel C
+2924,53.0,2023-02-11,Male dorm,Hostel A
+2925,29.7,2023-02-11,Twin room,
+2926,32.3,2023-02-11,,
+2927,302.0,2023-02-11,Family room,Hotel B
+2928,61.25,2023-02-11,Female dorm,Hostel A
+2929,181.0,2023-02-11,Studio,Hotel D
+2930,37.5,2023-02-11,Single room,
+2931,21.9,2023-02-11,,Hotel C
+2932,322.0,2023-02-10,Luxury suite,Hotel B
+2933,37.5,2023-02-10,Single room,
+2934,177.0,2023-02-10,Studio,Hotel D
+2935,40.0,2023-02-10,Large dorm,Hostel B
+2936,302.0,2023-02-10,Family room,Hotel B
+2937,20.1,2023-02-10,Twin room,Hotel C
+2938,32.3,2023-02-10,,
+2939,43.0,2023-02-10,Male dorm,Hostel A
+2940,21.9,2023-02-10,,Hotel C
+2941,25.4,2023-02-10,Single room,Hotel C
+2942,29.7,2023-02-10,Twin room,
+2943,48.75,2023-02-10,Female dorm,Hostel A
+2944,30.0,2023-02-09,Male dorm,Hostel A
+2945,23.8,2023-02-09,Single room,Hotel C
+2946,322.0,2023-02-09,Luxury suite,Hotel B
+2947,27.5,2023-02-09,Twin room,
+2948,29.9,2023-02-09,,
+2949,32.5,2023-02-09,Female dorm,Hostel A
+2950,25.5,2023-02-09,Large dorm,Hostel B
+2951,18.9,2023-02-09,Twin room,Hotel C
+2952,130.0,2023-02-09,Studio,Hotel D
+2953,302.0,2023-02-09,Family room,Hotel B
+2954,20.5,2023-02-09,,Hotel C
+2955,34.7,2023-02-09,Single room,
+2956,17.6,2023-02-08,Twin room,Hotel C
+2957,25.2,2023-02-08,Twin room,
+2958,22.2,2023-02-08,Single room,Hotel C
+2959,32.5,2023-02-08,Female dorm,Hostel A
+2960,301.0,2023-02-08,Family room,Hotel B
+2961,30.0,2023-02-08,Male dorm,Hostel A
+2962,27.4,2023-02-08,,
+2963,31.8,2023-02-08,Single room,
+2964,130.0,2023-02-08,Studio,Hotel D
+2965,25.0,2023-02-08,Large dorm,Hostel B
+2966,19.1,2023-02-08,,Hotel C
+2967,321.0,2023-02-08,Luxury suite,Hotel B
+2968,30.0,2023-02-07,Male dorm,Hostel A
+2969,19.1,2023-02-07,,Hotel C
+2970,21.6,2023-02-07,Large dorm,Hostel B
+2971,321.0,2023-02-07,Luxury suite,Hotel B
+2972,32.5,2023-02-07,Female dorm,Hostel A
+2973,301.0,2023-02-07,Family room,Hotel B
+2974,31.8,2023-02-07,Single room,
+2975,130.0,2023-02-07,Studio,Hotel D
+2976,25.2,2023-02-07,Twin room,
+2977,17.6,2023-02-07,Twin room,Hotel C
+2978,27.4,2023-02-07,,
+2979,22.2,2023-02-07,Single room,Hotel C
+2980,130.0,2023-02-06,Studio,Hotel D
+2981,30.0,2023-02-06,Male dorm,Hostel A
+2982,21.6,2023-02-06,Large dorm,Hostel B
+2983,21.3,2023-02-06,Single room,Hotel C
+2984,29.0,2023-02-06,,
+2985,26.7,2023-02-06,Twin room,
+2986,16.9,2023-02-06,Twin room,Hotel C
+2987,302.0,2023-02-06,Family room,Hotel B
+2988,18.4,2023-02-06,,Hotel C
+2989,33.6,2023-02-06,Single room,
+2990,32.5,2023-02-06,Female dorm,Hostel A
+2991,322.0,2023-02-06,Luxury suite,Hotel B
+2992,301.0,2023-02-05,Family room,Hotel B
+2993,130.0,2023-02-05,Studio,Hotel D
+2994,18.4,2023-02-05,,Hotel C
+2995,28.8,2023-02-05,,
+2996,16.9,2023-02-05,Twin room,Hotel C
+2997,21.5,2023-02-05,Large dorm,Hostel B
+2998,321.0,2023-02-05,Luxury suite,Hotel B
+2999,32.5,2023-02-05,Female dorm,Hostel A
+3000,33.4,2023-02-05,Single room,
+3001,30.0,2023-02-05,Male dorm,Hostel A
+3002,21.3,2023-02-05,Single room,Hotel C
+3003,26.5,2023-02-05,Twin room,
+3004,53.0,2023-02-04,Male dorm,Hostel A
+3005,32.3,2023-02-04,,
+3006,302.0,2023-02-04,Family room,Hotel B
+3007,21.9,2023-02-04,,Hotel C
+3008,40.0,2023-02-04,Large dorm,Hostel B
+3009,29.7,2023-02-04,Twin room,
+3010,322.0,2023-02-04,Luxury suite,Hotel B
+3011,25.4,2023-02-04,Single room,Hotel C
+3012,37.5,2023-02-04,Single room,
+3013,61.25,2023-02-04,Female dorm,Hostel A
+3014,180.0,2023-02-04,Studio,Hotel D
+3015,20.1,2023-02-04,Twin room,Hotel C
+3016,180.0,2023-02-03,Studio,Hotel D
+3017,36.0,2023-02-03,Male dorm,Hostel A
+3018,37.5,2023-02-03,Single room,
+3019,21.9,2023-02-03,,Hotel C
+3020,40.0,2023-02-03,Female dorm,Hostel A
+3021,20.1,2023-02-03,Twin room,Hotel C
+3022,40.0,2023-02-03,Large dorm,Hostel B
+3023,301.0,2023-02-03,Family room,Hotel B
+3024,321.0,2023-02-03,Luxury suite,Hotel B
+3025,25.4,2023-02-03,Single room,Hotel C
+3026,29.7,2023-02-03,Twin room,
+3027,32.3,2023-02-03,,
+3028,32.5,2023-02-02,Female dorm,Hostel A
+3029,25.7,2023-02-02,Large dorm,Hostel B
+3030,34.7,2023-02-02,Single room,
+3031,130.0,2023-02-02,Studio,Hotel D
+3032,18.9,2023-02-02,Twin room,Hotel C
+3033,300.0,2023-02-02,Family room,Hotel B
+3034,29.9,2023-02-02,,
+3035,20.5,2023-02-02,,Hotel C
+3036,23.8,2023-02-02,Single room,Hotel C
+3037,320.0,2023-02-02,Luxury suite,Hotel B
+3038,27.5,2023-02-02,Twin room,
+3039,30.0,2023-02-02,Male dorm,Hostel A
+3040,32.5,2023-02-01,Female dorm,Hostel A
+3041,25.2,2023-02-01,Twin room,
+3042,17.6,2023-02-01,Twin room,Hotel C
+3043,31.8,2023-02-01,Single room,
+3044,27.4,2023-02-01,,
+3045,320.0,2023-02-01,Luxury suite,Hotel B
+3046,19.1,2023-02-01,,Hotel C
+3047,30.0,2023-02-01,Male dorm,Hostel A
+3048,300.0,2023-02-01,Family room,Hotel B
+3049,130.0,2023-02-01,Studio,Hotel D
+3050,25.0,2023-02-01,Large dorm,Hostel B
+3051,22.2,2023-02-01,Single room,Hotel C
+3052,31.8,2023-01-31,Single room,
+3053,17.6,2023-01-31,Twin room,Hotel C
+3054,276.0,2023-01-31,Family room,Hotel B
+3055,25.2,2023-01-31,Twin room,
+3056,22.2,2023-01-31,Single room,Hotel C
+3057,32.5,2023-01-31,Female dorm,Hostel A
+3058,23.0,2023-01-31,Large dorm,Hostel B
+3059,30.0,2023-01-31,Male dorm,Hostel A
+3060,130.0,2023-01-31,Studio,Hotel D
+3061,19.1,2023-01-31,,Hotel C
+3062,27.4,2023-01-31,,
+3063,296.0,2023-01-31,Luxury suite,Hotel B
+3064,21.3,2023-01-30,Single room,Hotel C
+3065,28.6,2023-01-30,,
+3066,26.3,2023-01-30,Twin room,
+3067,270.0,2023-01-30,Luxury suite,Hotel B
+3068,22.9,2023-01-30,Large dorm,Hostel B
+3069,32.5,2023-01-30,Female dorm,Hostel A
+3070,33.2,2023-01-30,Single room,
+3071,130.0,2023-01-30,Studio,Hotel D
+3072,18.4,2023-01-30,,Hotel C
+3073,16.9,2023-01-30,Twin room,Hotel C
+3074,250.0,2023-01-30,Family room,Hotel B
+3075,30.0,2023-01-30,Male dorm,Hostel A
+3076,33.3,2023-01-29,Single room,
+3077,18.4,2023-01-29,,Hotel C
+3078,32.5,2023-01-29,Female dorm,Hostel A
+3079,223.0,2023-01-29,Family room,Hotel B
+3080,130.0,2023-01-29,Studio,Hotel D
+3081,243.0,2023-01-29,Luxury suite,Hotel B
+3082,21.3,2023-01-29,Single room,Hotel C
+3083,30.0,2023-01-29,Male dorm,Hostel A
+3084,16.9,2023-01-29,Twin room,Hotel C
+3085,23.0,2023-01-29,Large dorm,Hostel B
+3086,26.4,2023-01-29,Twin room,
+3087,28.7,2023-01-29,,
+3088,32.3,2023-01-28,,
+3089,25.4,2023-01-28,Single room,Hotel C
+3090,34.0,2023-01-28,Large dorm,Hostel B
+3091,270.0,2023-01-28,Luxury suite,Hotel B
+3092,20.1,2023-01-28,Twin room,Hotel C
+3093,44.0,2023-01-28,Male dorm,Hostel A
+3094,21.9,2023-01-28,,Hotel C
+3095,37.5,2023-01-28,Single room,
+3096,182.0,2023-01-28,Studio,Hotel D
+3097,250.0,2023-01-28,Family room,Hotel B
+3098,29.7,2023-01-28,Twin room,
+3099,50.0,2023-01-28,Female dorm,Hostel A
+3100,20.1,2023-01-27,Twin room,Hotel C
+3101,21.9,2023-01-27,,Hotel C
+3102,270.0,2023-01-27,Luxury suite,Hotel B
+3103,50.0,2023-01-27,Female dorm,Hostel A
+3104,217.0,2023-01-27,Studio,Hotel D
+3105,44.0,2023-01-27,Male dorm,Hostel A
+3106,250.0,2023-01-27,Family room,Hotel B
+3107,29.7,2023-01-27,Twin room,
+3108,34.0,2023-01-27,Large dorm,Hostel B
+3109,32.3,2023-01-27,,
+3110,25.4,2023-01-27,Single room,Hotel C
+3111,37.5,2023-01-27,Single room,
+3112,34.7,2023-01-26,Single room,
+3113,296.0,2023-01-26,Luxury suite,Hotel B
+3114,27.5,2023-01-26,Twin room,
+3115,18.9,2023-01-26,Twin room,Hotel C
+3116,23.8,2023-01-26,Single room,Hotel C
+3117,30.0,2023-01-26,Male dorm,Hostel A
+3118,20.5,2023-01-26,,Hotel C
+3119,130.0,2023-01-26,Studio,Hotel D
+3120,25.9,2023-01-26,Large dorm,Hostel B
+3121,29.9,2023-01-26,,
+3122,276.0,2023-01-26,Family room,Hotel B
+3123,32.5,2023-01-26,Female dorm,Hostel A
+3124,19.1,2023-01-25,,Hotel C
+3125,25.2,2023-01-25,Twin room,
+3126,30.0,2023-01-25,Male dorm,Hostel A
+3127,32.5,2023-01-25,Female dorm,Hostel A
+3128,17.6,2023-01-25,Twin room,Hotel C
+3129,314.0,2023-01-25,Luxury suite,Hotel B
+3130,25.0,2023-01-25,Large dorm,Hostel B
+3131,130.0,2023-01-25,Studio,Hotel D
+3132,27.4,2023-01-25,,
+3133,22.2,2023-01-25,Single room,Hotel C
+3134,294.0,2023-01-25,Family room,Hotel B
+3135,31.8,2023-01-25,Single room,
+3136,19.1,2023-01-24,,Hotel C
+3137,17.6,2023-01-24,Twin room,Hotel C
+3138,131.0,2023-01-24,Studio,Hotel D
+3139,23.0,2023-01-24,Large dorm,Hostel B
+3140,263.0,2023-01-24,Family room,Hotel B
+3141,22.2,2023-01-24,Single room,Hotel C
+3142,27.4,2023-01-24,,
+3143,31.8,2023-01-24,Single room,
+3144,32.5,2023-01-24,Female dorm,Hostel A
+3145,25.2,2023-01-24,Twin room,
+3146,30.0,2023-01-24,Male dorm,Hostel A
+3147,283.0,2023-01-24,Luxury suite,Hotel B
+3148,21.3,2023-01-23,Single room,Hotel C
+3149,18.4,2023-01-23,,Hotel C
+3150,131.0,2023-01-23,Studio,Hotel D
+3151,283.0,2023-01-23,Luxury suite,Hotel B
+3152,32.0,2023-01-23,Single room,
+3153,32.5,2023-01-23,Female dorm,Hostel A
+3154,16.9,2023-01-23,Twin room,Hotel C
+3155,23.0,2023-01-23,Large dorm,Hostel B
+3156,30.0,2023-01-23,Male dorm,Hostel A
+3157,263.0,2023-01-23,Family room,Hotel B
+3158,27.6,2023-01-23,,
+3159,25.4,2023-01-23,Twin room,
+3160,21.3,2023-01-22,Single room,Hotel C
+3161,27.6,2023-01-22,,
+3162,283.0,2023-01-22,Luxury suite,Hotel B
+3163,18.4,2023-01-22,,Hotel C
+3164,25.4,2023-01-22,Twin room,
+3165,263.0,2023-01-22,Family room,Hotel B
+3166,23.0,2023-01-22,Large dorm,Hostel B
+3167,30.0,2023-01-22,Male dorm,Hostel A
+3168,32.5,2023-01-22,Female dorm,Hostel A
+3169,32.0,2023-01-22,Single room,
+3170,16.9,2023-01-22,Twin room,Hotel C
+3171,130.0,2023-01-22,Studio,Hotel D
+3172,160.0,2023-01-21,Studio,Hotel D
+3173,276.0,2023-01-21,Family room,Hotel B
+3174,20.1,2023-01-21,Twin room,Hotel C
+3175,30.4,2023-01-21,Twin room,
+3176,50.0,2023-01-21,Female dorm,Hostel A
+3177,33.0,2023-01-21,,
+3178,25.4,2023-01-21,Single room,Hotel C
+3179,44.0,2023-01-21,Male dorm,Hostel A
+3180,34.0,2023-01-21,Large dorm,Hostel B
+3181,21.9,2023-01-21,,Hotel C
+3182,38.3,2023-01-21,Single room,
+3183,296.0,2023-01-21,Luxury suite,Hotel B
+3184,296.0,2023-01-20,Luxury suite,Hotel B
+3185,50.0,2023-01-20,Female dorm,Hostel A
+3186,34.0,2023-01-20,Large dorm,Hostel B
+3187,44.0,2023-01-20,Male dorm,Hostel A
+3188,276.0,2023-01-20,Family room,Hotel B
+3189,25.4,2023-01-20,Single room,Hotel C
+3190,29.7,2023-01-20,Twin room,
+3191,32.3,2023-01-20,,
+3192,37.5,2023-01-20,Single room,
+3193,21.9,2023-01-20,,Hotel C
+3194,20.1,2023-01-20,Twin room,Hotel C
+3195,157.0,2023-01-20,Studio,Hotel D
+3196,23.8,2023-01-19,Single room,Hotel C
+3197,18.9,2023-01-19,Twin room,Hotel C
+3198,296.0,2023-01-19,Luxury suite,Hotel B
+3199,32.5,2023-01-19,Female dorm,Hostel A
+3200,127.0,2023-01-19,Studio,Hotel D
+3201,20.5,2023-01-19,,Hotel C
+3202,34.7,2023-01-19,Single room,
+3203,276.0,2023-01-19,Family room,Hotel B
+3204,27.5,2023-01-19,Twin room,
+3205,27.0,2023-01-19,Large dorm,Hostel B
+3206,30.0,2023-01-19,Male dorm,Hostel A
+3207,29.9,2023-01-19,,
+3208,22.2,2023-01-18,Single room,Hotel C
+3209,25.0,2023-01-18,Large dorm,Hostel B
+3210,296.0,2023-01-18,Luxury suite,Hotel B
+3211,27.4,2023-01-18,,
+3212,40.0,2023-01-18,Female dorm,Hostel A
+3213,19.1,2023-01-18,,Hotel C
+3214,36.0,2023-01-18,Male dorm,Hostel A
+3215,31.8,2023-01-18,Single room,
+3216,276.0,2023-01-18,Family room,Hotel B
+3217,127.0,2023-01-18,Studio,Hotel D
+3218,25.2,2023-01-18,Twin room,
+3219,17.6,2023-01-18,Twin room,Hotel C
+3220,23.0,2023-01-17,Large dorm,Hostel B
+3221,276.0,2023-01-17,Family room,Hotel B
+3222,40.0,2023-01-17,Female dorm,Hostel A
+3223,17.6,2023-01-17,Twin room,Hotel C
+3224,27.4,2023-01-17,,
+3225,22.2,2023-01-17,Single room,Hotel C
+3226,25.2,2023-01-17,Twin room,
+3227,31.8,2023-01-17,Single room,
+3228,296.0,2023-01-17,Luxury suite,Hotel B
+3229,19.1,2023-01-17,,Hotel C
+3230,36.0,2023-01-17,Male dorm,Hostel A
+3231,127.0,2023-01-17,Studio,Hotel D
+3232,276.0,2023-01-16,Family room,Hotel B
+3233,40.0,2023-01-16,Female dorm,Hostel A
+3234,23.0,2023-01-16,Large dorm,Hostel B
+3235,28.8,2023-01-16,,
+3236,296.0,2023-01-16,Luxury suite,Hotel B
+3237,21.3,2023-01-16,Single room,Hotel C
+3238,127.0,2023-01-16,Studio,Hotel D
+3239,33.4,2023-01-16,Single room,
+3240,26.5,2023-01-16,Twin room,
+3241,16.9,2023-01-16,Twin room,Hotel C
+3242,18.4,2023-01-16,,Hotel C
+3243,36.0,2023-01-16,Male dorm,Hostel A
+3244,26.5,2023-01-15,Twin room,
+3245,40.0,2023-01-15,Female dorm,Hostel A
+3246,16.9,2023-01-15,Twin room,Hotel C
+3247,283.0,2023-01-15,Luxury suite,Hotel B
+3248,18.4,2023-01-15,,Hotel C
+3249,28.8,2023-01-15,,
+3250,127.0,2023-01-15,Studio,Hotel D
+3251,33.4,2023-01-15,Single room,
+3252,263.0,2023-01-15,Family room,Hotel B
+3253,23.0,2023-01-15,Large dorm,Hostel B
+3254,21.3,2023-01-15,Single room,Hotel C
+3255,36.0,2023-01-15,Male dorm,Hostel A
+3256,33.0,2023-01-14,,
+3257,20.1,2023-01-14,Twin room,Hotel C
+3258,34.0,2023-01-14,Large dorm,Hostel B
+3259,25.4,2023-01-14,Single room,Hotel C
+3260,283.0,2023-01-14,Luxury suite,Hotel B
+3261,50.0,2023-01-14,Female dorm,Hostel A
+3262,156.0,2023-01-14,Studio,Hotel D
+3263,263.0,2023-01-14,Family room,Hotel B
+3264,21.9,2023-01-14,,Hotel C
+3265,44.0,2023-01-14,Male dorm,Hostel A
+3266,30.4,2023-01-14,Twin room,
+3267,38.3,2023-01-14,Single room,
+3268,21.9,2023-01-13,,Hotel C
+3269,263.0,2023-01-13,Family room,Hotel B
+3270,25.4,2023-01-13,Single room,Hotel C
+3271,34.0,2023-01-13,Large dorm,Hostel B
+3272,44.0,2023-01-13,Male dorm,Hostel A
+3273,20.1,2023-01-13,Twin room,Hotel C
+3274,32.3,2023-01-13,,
+3275,283.0,2023-01-13,Luxury suite,Hotel B
+3276,29.7,2023-01-13,Twin room,
+3277,37.5,2023-01-13,Single room,
+3278,162.0,2023-01-13,Studio,Hotel D
+3279,50.0,2023-01-13,Female dorm,Hostel A
+3280,30.0,2023-01-12,Male dorm,Hostel A
+3281,34.7,2023-01-12,Single room,
+3282,283.0,2023-01-12,Luxury suite,Hotel B
+3283,132.0,2023-01-12,Studio,Hotel D
+3284,27.0,2023-01-12,Large dorm,Hostel B
+3285,32.5,2023-01-12,Female dorm,Hostel A
+3286,29.9,2023-01-12,,
+3287,20.5,2023-01-12,,Hotel C
+3288,27.5,2023-01-12,Twin room,
+3289,18.9,2023-01-12,Twin room,Hotel C
+3290,23.8,2023-01-12,Single room,Hotel C
+3291,263.0,2023-01-12,Family room,Hotel B
+3292,31.8,2023-01-11,Single room,
+3293,32.5,2023-01-11,Female dorm,Hostel A
+3294,19.1,2023-01-11,,Hotel C
+3295,27.4,2023-01-11,,
+3296,17.6,2023-01-11,Twin room,Hotel C
+3297,290.0,2023-01-11,Family room,Hotel B
+3298,25.2,2023-01-11,Twin room,
+3299,310.0,2023-01-11,Luxury suite,Hotel B
+3300,134.0,2023-01-11,Studio,Hotel D
+3301,30.0,2023-01-11,Male dorm,Hostel A
+3302,25.0,2023-01-11,Large dorm,Hostel B
+3303,22.2,2023-01-11,Single room,Hotel C
+3304,290.0,2023-01-10,Family room,Hotel B
+3305,31.8,2023-01-10,Single room,
+3306,127.0,2023-01-10,Studio,Hotel D
+3307,23.0,2023-01-10,Large dorm,Hostel B
+3308,310.0,2023-01-10,Luxury suite,Hotel B
+3309,17.6,2023-01-10,Twin room,Hotel C
+3310,19.1,2023-01-10,,Hotel C
+3311,27.4,2023-01-10,,
+3312,25.2,2023-01-10,Twin room,
+3313,30.0,2023-01-10,Male dorm,Hostel A
+3314,22.2,2023-01-10,Single room,Hotel C
+3315,32.5,2023-01-10,Female dorm,Hostel A
+3316,32.7,2023-01-09,Single room,
+3317,126.0,2023-01-09,Studio,Hotel D
+3318,18.4,2023-01-09,,Hotel C
+3319,25.9,2023-01-09,Twin room,
+3320,32.5,2023-01-09,Female dorm,Hostel A
+3321,21.3,2023-01-09,Single room,Hotel C
+3322,16.9,2023-01-09,Twin room,Hotel C
+3323,250.0,2023-01-09,Family room,Hotel B
+3324,270.0,2023-01-09,Luxury suite,Hotel B
+3325,28.2,2023-01-09,,
+3326,30.0,2023-01-09,Male dorm,Hostel A
+3327,23.0,2023-01-09,Large dorm,Hostel B
+3328,223.0,2023-01-08,Family room,Hotel B
+3329,30.0,2023-01-08,Male dorm,Hostel A
+3330,16.9,2023-01-08,Twin room,Hotel C
+3331,243.0,2023-01-08,Luxury suite,Hotel B
+3332,32.5,2023-01-08,Female dorm,Hostel A
+3333,32.7,2023-01-08,Single room,
+3334,25.9,2023-01-08,Twin room,
+3335,28.2,2023-01-08,,
+3336,21.3,2023-01-08,Single room,Hotel C
+3337,18.4,2023-01-08,,Hotel C
+3338,23.0,2023-01-08,Large dorm,Hostel B
+3339,126.0,2023-01-08,Studio,Hotel D
+3340,34.0,2023-01-07,Large dorm,Hostel B
+3341,20.1,2023-01-07,Twin room,Hotel C
+3342,310.0,2023-01-07,Luxury suite,Hotel B
+3343,35.9,2023-01-07,,
+3344,21.9,2023-01-07,,Hotel C
+3345,41.6,2023-01-07,Single room,
+3346,156.0,2023-01-07,Studio,Hotel D
+3347,49.0,2023-01-07,Male dorm,Hostel A
+3348,25.4,2023-01-07,Single room,Hotel C
+3349,56.25,2023-01-07,Female dorm,Hostel A
+3350,33.0,2023-01-07,Twin room,
+3351,290.0,2023-01-07,Family room,Hotel B
+3352,296.0,2023-01-06,Luxury suite,Hotel B
+3353,43.0,2023-01-06,Male dorm,Hostel A
+3354,21.9,2023-01-06,,Hotel C
+3355,20.1,2023-01-06,Twin room,Hotel C
+3356,48.75,2023-01-06,Female dorm,Hostel A
+3357,155.0,2023-01-06,Studio,Hotel D
+3358,35.5,2023-01-06,,
+3359,32.7,2023-01-06,Twin room,
+3360,41.2,2023-01-06,Single room,
+3361,25.4,2023-01-06,Single room,Hotel C
+3362,276.0,2023-01-06,Family room,Hotel B
+3363,34.0,2023-01-06,Large dorm,Hostel B
+3364,30.0,2023-01-05,Male dorm,Hostel A
+3365,290.0,2023-01-05,Family room,Hotel B
+3366,32.5,2023-01-05,Female dorm,Hostel A
+3367,23.8,2023-01-05,Single room,Hotel C
+3368,20.5,2023-01-05,,Hotel C
+3369,27.0,2023-01-05,Large dorm,Hostel B
+3370,38.0,2023-01-05,Single room,
+3371,18.9,2023-01-05,Twin room,Hotel C
+3372,310.0,2023-01-05,Luxury suite,Hotel B
+3373,30.2,2023-01-05,Twin room,
+3374,32.8,2023-01-05,,
+3375,127.0,2023-01-05,Studio,Hotel D
+3376,322.0,2023-01-04,Luxury suite,Hotel B
+3377,30.0,2023-01-04,Male dorm,Hostel A
+3378,25.0,2023-01-04,Large dorm,Hostel B
+3379,35.4,2023-01-04,Single room,
+3380,28.1,2023-01-04,Twin room,
+3381,17.6,2023-01-04,Twin room,Hotel C
+3382,30.5,2023-01-04,,
+3383,22.2,2023-01-04,Single room,Hotel C
+3384,32.5,2023-01-04,Female dorm,Hostel A
+3385,125.0,2023-01-04,Studio,Hotel D
+3386,19.1,2023-01-04,,Hotel C
+3387,302.0,2023-01-04,Family room,Hotel B
+3388,32.5,2023-01-03,Female dorm,Hostel A
+3389,35.5,2023-01-03,Single room,
+3390,28.2,2023-01-03,Twin room,
+3391,19.1,2023-01-03,,Hotel C
+3392,23.0,2023-01-03,Large dorm,Hostel B
+3393,126.0,2023-01-03,Studio,Hotel D
+3394,310.0,2023-01-03,Luxury suite,Hotel B
+3395,30.0,2023-01-03,Male dorm,Hostel A
+3396,17.6,2023-01-03,Twin room,Hotel C
+3397,22.2,2023-01-03,Single room,Hotel C
+3398,290.0,2023-01-03,Family room,Hotel B
+3399,30.6,2023-01-03,,
+3400,23.2,2023-01-02,Twin room,Hotel C
+3401,25.2,2023-01-02,,Hotel C
+3402,40.0,2023-01-02,Large dorm,Hostel B
+3403,283.0,2023-01-02,Luxury suite,Hotel B
+3404,30.0,2023-01-02,Male dorm,Hostel A
+3405,263.0,2023-01-02,Family room,Hotel B
+3406,57.1,2023-01-02,Single room,
+3407,45.3,2023-01-02,Twin room,
+3408,49.2,2023-01-02,,
+3409,32.5,2023-01-02,Female dorm,Hostel A
+3410,29.2,2023-01-02,Single room,Hotel C
+3411,127.0,2023-01-02,Studio,Hotel D
+3412,300.0,2023-01-01,Studio,Hotel D
+3413,63.0,2023-01-01,Male dorm,Hostel A
+3414,111.25,2023-01-01,Female dorm,Hostel A
+3415,243.0,2023-01-01,Luxury suite,Hotel B
+3416,223.0,2023-01-01,Family room,Hotel B
+3417,42.0,2023-01-01,Single room,Hotel C
+3418,63.5,2023-01-01,Single room,
+3419,54.7,2023-01-01,,
+3420,50.3,2023-01-01,Twin room,
+3421,40.0,2023-01-01,Large dorm,Hostel B
+3422,36.2,2023-01-01,,Hotel C
+3423,33.3,2023-01-01,Twin room,Hotel C
+3424,127.71,2022-12-31,Male dorm,Hostel A
+3425,154.64,2022-12-31,Female dorm,Hostel A
+3426,77.5,2022-12-31,Single room,Hotel C
+3427,476.0,2022-12-31,Family room,Hotel B
+3428,119.4,2022-12-31,Single room,
+3429,61.5,2022-12-31,Twin room,Hotel C
+3430,94.7,2022-12-31,Twin room,
+3431,44.0,2022-12-31,Large dorm,Hostel B
+3432,66.8,2022-12-31,,Hotel C
+3433,102.9,2022-12-31,,
+3434,496.0,2022-12-31,Luxury suite,Hotel B
+3435,300.0,2022-12-31,Studio,Hotel D
+3436,79.8,2022-12-30,Twin room,
+3437,154.79,2022-12-30,Female dorm,Hostel A
+3438,86.7,2022-12-30,,
+3439,71.5,2022-12-30,Single room,Hotel C
+3440,300.0,2022-12-30,Studio,Hotel D
+3441,451.0,2022-12-30,Family room,Hotel B
+3442,44.0,2022-12-30,Large dorm,Hostel B
+3443,61.6,2022-12-30,,Hotel C
+3444,143.0,2022-12-30,Male dorm,Hostel A
+3445,100.6,2022-12-30,Single room,
+3446,471.0,2022-12-30,Luxury suite,Hotel B
+3447,56.7,2022-12-30,Twin room,Hotel C
+3448,394.0,2022-12-29,Family room,Hotel B
+3449,414.0,2022-12-29,Luxury suite,Hotel B
+3450,137.5,2022-12-29,Female dorm,Hostel A
+3451,40.0,2022-12-29,Large dorm,Hostel B
+3452,66.9,2022-12-29,Twin room,
+3453,38.6,2022-12-29,,Hotel C
+3454,44.8,2022-12-29,Single room,Hotel C
+3455,124.0,2022-12-29,Male dorm,Hostel A
+3456,153.0,2022-12-29,Studio,Hotel D
+3457,84.3,2022-12-29,Single room,
+3458,35.5,2022-12-29,Twin room,Hotel C
+3459,72.7,2022-12-29,,
+3460,20.1,2022-12-28,Twin room,Hotel C
+3461,104.0,2022-12-28,Male dorm,Hostel A
+3462,66.8,2022-12-28,Twin room,
+3463,84.2,2022-12-28,Single room,
+3464,25.3,2022-12-28,Single room,Hotel C
+3465,429.0,2022-12-28,Luxury suite,Hotel B
+3466,72.6,2022-12-28,,
+3467,21.8,2022-12-28,,Hotel C
+3468,106.25,2022-12-28,Female dorm,Hostel A
+3469,141.0,2022-12-28,Studio,Hotel D
+3470,24.0,2022-12-28,Large dorm,Hostel B
+3471,409.0,2022-12-28,Family room,Hotel B
+3472,147.0,2022-12-27,Studio,Hotel D
+3473,40.0,2022-12-27,Large dorm,Hostel B
+3474,71.27,2022-12-27,Male dorm,Hostel A
+3475,25.3,2022-12-27,Single room,Hotel C
+3476,45.9,2022-12-27,,
+3477,42.2,2022-12-27,Twin room,
+3478,20.1,2022-12-27,Twin room,Hotel C
+3479,349.0,2022-12-27,Luxury suite,Hotel B
+3480,21.8,2022-12-27,,Hotel C
+3481,84.09,2022-12-27,Female dorm,Hostel A
+3482,53.2,2022-12-27,Single room,
+3483,329.0,2022-12-27,Family room,Hotel B
+3484,137.0,2022-12-26,Studio,Hotel D
+3485,381.0,2022-12-26,Luxury suite,Hotel B
+3486,361.0,2022-12-26,Family room,Hotel B
+3487,24.2,2022-12-26,Single room,Hotel C
+3488,48.52,2022-12-26,Male dorm,Hostel A
+3489,19.2,2022-12-26,Twin room,Hotel C
+3490,55.65,2022-12-26,Female dorm,Hostel A
+3491,44.3,2022-12-26,,
+3492,20.9,2022-12-26,,Hotel C
+3493,40.0,2022-12-26,Large dorm,Hostel B
+3494,40.8,2022-12-26,Twin room,
+3495,51.4,2022-12-26,Single room,
+3496,315.0,2022-12-25,Family room,Hotel B
+3497,39.0,2022-12-25,Male dorm,Hostel A
+3498,39.2,2022-12-25,,
+3499,19.5,2022-12-25,Twin room,Hotel C
+3500,45.5,2022-12-25,Single room,
+3501,24.6,2022-12-25,Single room,Hotel C
+3502,36.1,2022-12-25,Twin room,
+3503,124.0,2022-12-25,Studio,Hotel D
+3504,40.0,2022-12-25,Large dorm,Hostel B
+3505,335.0,2022-12-25,Luxury suite,Hotel B
+3506,43.75,2022-12-25,Female dorm,Hostel A
+3507,21.2,2022-12-25,,Hotel C
+3508,52.7,2022-12-24,Single room,
+3509,26.8,2022-12-24,,Hotel C
+3510,24.7,2022-12-24,Twin room,Hotel C
+3511,356.0,2022-12-24,Family room,Hotel B
+3512,45.0,2022-12-24,Large dorm,Hostel B
+3513,59.0,2022-12-24,Male dorm,Hostel A
+3514,41.8,2022-12-24,Twin room,
+3515,31.1,2022-12-24,Single room,Hotel C
+3516,376.0,2022-12-24,Luxury suite,Hotel B
+3517,68.75,2022-12-24,Female dorm,Hostel A
+3518,148.0,2022-12-24,Studio,Hotel D
+3519,45.4,2022-12-24,,
+3520,22.4,2022-12-23,Twin room,Hotel C
+3521,45.8,2022-12-23,,
+3522,53.1,2022-12-23,Single room,
+3523,38.0,2022-12-23,Large dorm,Hostel B
+3524,42.1,2022-12-23,Twin room,
+3525,46.57,2022-12-23,Male dorm,Hostel A
+3526,148.0,2022-12-23,Studio,Hotel D
+3527,28.3,2022-12-23,Single room,Hotel C
+3528,372.0,2022-12-23,Luxury suite,Hotel B
+3529,352.0,2022-12-23,Family room,Hotel B
+3530,53.21,2022-12-23,Female dorm,Hostel A
+3531,24.4,2022-12-23,,Hotel C
+3532,335.0,2022-12-22,Luxury suite,Hotel B
+3533,18.9,2022-12-22,Twin room,Hotel C
+3534,26.0,2022-12-22,Large dorm,Hostel B
+3535,23.8,2022-12-22,Single room,Hotel C
+3536,36.49,2022-12-22,Male dorm,Hostel A
+3537,20.5,2022-12-22,,Hotel C
+3538,315.0,2022-12-22,Family room,Hotel B
+3539,48.0,2022-12-22,,
+3540,122.0,2022-12-22,Studio,Hotel D
+3541,40.61,2022-12-22,Female dorm,Hostel A
+3542,44.2,2022-12-22,Twin room,
+3543,55.7,2022-12-22,Single room,
+3544,19.1,2022-12-21,,Hotel C
+3545,48.7,2022-12-21,Single room,
+3546,38.6,2022-12-21,Twin room,
+3547,17.6,2022-12-21,Twin room,Hotel C
+3548,22.2,2022-12-21,Single room,Hotel C
+3549,33.03,2022-12-21,Male dorm,Hostel A
+3550,36.29,2022-12-21,Female dorm,Hostel A
+3551,42.0,2022-12-21,,
+3552,309.0,2022-12-21,Family room,Hotel B
+3553,24.0,2022-12-21,Large dorm,Hostel B
+3554,124.0,2022-12-21,Studio,Hotel D
+3555,329.0,2022-12-21,Luxury suite,Hotel B
+3556,48.7,2022-12-20,Single room,
+3557,24.0,2022-12-20,Large dorm,Hostel B
+3558,329.0,2022-12-20,Luxury suite,Hotel B
+3559,17.9,2022-12-20,Twin room,Hotel C
+3560,22.6,2022-12-20,Single room,Hotel C
+3561,30.97,2022-12-20,Male dorm,Hostel A
+3562,42.0,2022-12-20,,
+3563,19.5,2022-12-20,,Hotel C
+3564,309.0,2022-12-20,Family room,Hotel B
+3565,38.6,2022-12-20,Twin room,
+3566,126.0,2022-12-20,Studio,Hotel D
+3567,33.71,2022-12-20,Female dorm,Hostel A
+3568,48.7,2022-12-19,Single room,
+3569,21.3,2022-12-19,Single room,Hotel C
+3570,24.0,2022-12-19,Large dorm,Hostel B
+3571,42.0,2022-12-19,,
+3572,18.4,2022-12-19,,Hotel C
+3573,127.0,2022-12-19,Studio,Hotel D
+3574,32.1,2022-12-19,Male dorm,Hostel A
+3575,35.13,2022-12-19,Female dorm,Hostel A
+3576,309.0,2022-12-19,Family room,Hotel B
+3577,16.9,2022-12-19,Twin room,Hotel C
+3578,38.6,2022-12-19,Twin room,
+3579,329.0,2022-12-19,Luxury suite,Hotel B
+3580,16.9,2022-12-18,Twin room,Hotel C
+3581,33.74,2022-12-18,Male dorm,Hostel A
+3582,18.4,2022-12-18,,Hotel C
+3583,22.0,2022-12-18,Large dorm,Hostel B
+3584,121.0,2022-12-18,Studio,Hotel D
+3585,330.0,2022-12-18,Luxury suite,Hotel B
+3586,21.3,2022-12-18,Single room,Hotel C
+3587,40.9,2022-12-18,Single room,
+3588,310.0,2022-12-18,Family room,Hotel B
+3589,32.5,2022-12-18,Twin room,
+3590,37.18,2022-12-18,Female dorm,Hostel A
+3591,35.3,2022-12-18,,
+3592,38.0,2022-12-17,Large dorm,Hostel B
+3593,26.3,2022-12-17,,Hotel C
+3594,24.2,2022-12-17,Twin room,Hotel C
+3595,398.0,2022-12-17,Family room,Hotel B
+3596,53.0,2022-12-17,Male dorm,Hostel A
+3597,145.0,2022-12-17,Studio,Hotel D
+3598,71.6,2022-12-17,Single room,
+3599,56.8,2022-12-17,Twin room,
+3600,61.7,2022-12-17,,
+3601,30.5,2022-12-17,Single room,Hotel C
+3602,55.0,2022-12-17,Female dorm,Hostel A
+3603,418.0,2022-12-17,Luxury suite,Hotel B
+3604,143.0,2022-12-16,Studio,Hotel D
+3605,74.0,2022-12-16,Single room,
+3606,63.8,2022-12-16,,
+3607,58.7,2022-12-16,Twin room,
+3608,393.0,2022-12-16,Luxury suite,Hotel B
+3609,44.0,2022-12-16,Male dorm,Hostel A
+3610,373.0,2022-12-16,Family room,Hotel B
+3611,24.2,2022-12-16,Twin room,Hotel C
+3612,30.5,2022-12-16,Single room,Hotel C
+3613,50.0,2022-12-16,Female dorm,Hostel A
+3614,26.3,2022-12-16,,Hotel C
+3615,38.0,2022-12-16,Large dorm,Hostel B
+3616,351.0,2022-12-15,Luxury suite,Hotel B
+3617,120.0,2022-12-15,Studio,Hotel D
+3618,51.4,2022-12-15,Single room,
+3619,23.8,2022-12-15,Single room,Hotel C
+3620,34.0,2022-12-15,Male dorm,Hostel A
+3621,30.0,2022-12-15,Female dorm,Hostel A
+3622,331.0,2022-12-15,Family room,Hotel B
+3623,44.3,2022-12-15,,
+3624,18.9,2022-12-15,Twin room,Hotel C
+3625,26.0,2022-12-15,Large dorm,Hostel B
+3626,20.5,2022-12-15,,Hotel C
+3627,40.8,2022-12-15,Twin room,
+3628,17.6,2022-12-14,Twin room,Hotel C
+3629,341.0,2022-12-14,Family room,Hotel B
+3630,120.0,2022-12-14,Studio,Hotel D
+3631,34.0,2022-12-14,Male dorm,Hostel A
+3632,48.7,2022-12-14,Single room,
+3633,361.0,2022-12-14,Luxury suite,Hotel B
+3634,24.0,2022-12-14,Large dorm,Hostel B
+3635,38.6,2022-12-14,Twin room,
+3636,22.2,2022-12-14,Single room,Hotel C
+3637,42.0,2022-12-14,,
+3638,28.75,2022-12-14,Female dorm,Hostel A
+3639,19.1,2022-12-14,,Hotel C
+3640,17.6,2022-12-13,Twin room,Hotel C
+3641,48.7,2022-12-13,Single room,
+3642,27.0,2022-12-13,Male dorm,Hostel A
+3643,19.1,2022-12-13,,Hotel C
+3644,28.75,2022-12-13,Female dorm,Hostel A
+3645,38.6,2022-12-13,Twin room,
+3646,23.5,2022-12-13,Large dorm,Hostel B
+3647,22.2,2022-12-13,Single room,Hotel C
+3648,120.0,2022-12-13,Studio,Hotel D
+3649,349.0,2022-12-13,Luxury suite,Hotel B
+3650,329.0,2022-12-13,Family room,Hotel B
+3651,42.0,2022-12-13,,
+3652,30.0,2022-12-12,Female dorm,Hostel A
+3653,16.9,2022-12-12,Twin room,Hotel C
+3654,42.0,2022-12-12,,
+3655,38.6,2022-12-12,Twin room,
+3656,331.0,2022-12-12,Luxury suite,Hotel B
+3657,311.0,2022-12-12,Family room,Hotel B
+3658,18.4,2022-12-12,,Hotel C
+3659,28.0,2022-12-12,Male dorm,Hostel A
+3660,120.0,2022-12-12,Studio,Hotel D
+3661,24.0,2022-12-12,Large dorm,Hostel B
+3662,48.7,2022-12-12,Single room,
+3663,21.3,2022-12-12,Single room,Hotel C
+3664,306.0,2022-12-11,Family room,Hotel B
+3665,326.0,2022-12-11,Luxury suite,Hotel B
+3666,22.0,2022-12-11,Large dorm,Hostel B
+3667,34.6,2022-12-11,,
+3668,16.9,2022-12-11,Twin room,Hotel C
+3669,120.0,2022-12-11,Studio,Hotel D
+3670,32.5,2022-12-11,Female dorm,Hostel A
+3671,21.3,2022-12-11,Single room,Hotel C
+3672,31.8,2022-12-11,Twin room,
+3673,40.1,2022-12-11,Single room,
+3674,18.4,2022-12-11,,Hotel C
+3675,30.0,2022-12-11,Male dorm,Hostel A
+3676,61.5,2022-12-10,Twin room,
+3677,370.0,2022-12-10,Family room,Hotel B
+3678,83.0,2022-12-10,Male dorm,Hostel A
+3679,77.5,2022-12-10,Single room,
+3680,86.56,2022-12-10,Female dorm,Hostel A
+3681,31.1,2022-12-10,Single room,Hotel C
+3682,390.0,2022-12-10,Luxury suite,Hotel B
+3683,66.8,2022-12-10,,
+3684,26.8,2022-12-10,,Hotel C
+3685,24.7,2022-12-10,Twin room,Hotel C
+3686,44.0,2022-12-10,Large dorm,Hostel B
+3687,181.0,2022-12-10,Studio,Hotel D
+3688,60.0,2022-12-09,Twin room,
+3689,30.5,2022-12-09,Single room,Hotel C
+3690,24.2,2022-12-09,Twin room,Hotel C
+3691,348.0,2022-12-09,Luxury suite,Hotel B
+3692,65.58,2022-12-09,Female dorm,Hostel A
+3693,156.0,2022-12-09,Studio,Hotel D
+3694,44.0,2022-12-09,Large dorm,Hostel B
+3695,65.2,2022-12-09,,
+3696,75.6,2022-12-09,Single room,
+3697,56.46,2022-12-09,Male dorm,Hostel A
+3698,328.0,2022-12-09,Family room,Hotel B
+3699,26.3,2022-12-09,,Hotel C
+3700,33.3,2022-12-08,Large dorm,Hostel B
+3701,45.0,2022-12-08,,
+3702,122.0,2022-12-08,Studio,Hotel D
+3703,20.5,2022-12-08,,Hotel C
+3704,356.0,2022-12-08,Family room,Hotel B
+3705,23.8,2022-12-08,Single room,Hotel C
+3706,40.0,2022-12-08,Female dorm,Hostel A
+3707,52.2,2022-12-08,Single room,
+3708,18.9,2022-12-08,Twin room,Hotel C
+3709,41.4,2022-12-08,Twin room,
+3710,376.0,2022-12-08,Luxury suite,Hotel B
+3711,38.0,2022-12-08,Male dorm,Hostel A
+3712,120.0,2022-12-07,Studio,Hotel D
+3713,22.2,2022-12-07,Single room,Hotel C
+3714,35.31,2022-12-07,Female dorm,Hostel A
+3715,38.6,2022-12-07,Twin room,
+3716,42.0,2022-12-07,,
+3717,376.0,2022-12-07,Luxury suite,Hotel B
+3718,19.1,2022-12-07,,Hotel C
+3719,17.6,2022-12-07,Twin room,Hotel C
+3720,21.0,2022-12-07,Large dorm,Hostel B
+3721,32.25,2022-12-07,Male dorm,Hostel A
+3722,48.7,2022-12-07,Single room,
+3723,356.0,2022-12-07,Family room,Hotel B
+3724,389.0,2022-12-06,Luxury suite,Hotel B
+3725,47.8,2022-12-06,Single room,
+3726,17.6,2022-12-06,Twin room,Hotel C
+3727,21.0,2022-12-06,Large dorm,Hostel B
+3728,369.0,2022-12-06,Family room,Hotel B
+3729,31.49,2022-12-06,Female dorm,Hostel A
+3730,19.1,2022-12-06,,Hotel C
+3731,22.2,2022-12-06,Single room,Hotel C
+3732,41.2,2022-12-06,,
+3733,29.19,2022-12-06,Male dorm,Hostel A
+3734,37.9,2022-12-06,Twin room,
+3735,120.0,2022-12-06,Studio,Hotel D
+3736,122.0,2022-12-05,Studio,Hotel D
+3737,31.79,2022-12-05,Female dorm,Hostel A
+3738,329.0,2022-12-05,Luxury suite,Hotel B
+3739,18.4,2022-12-05,,Hotel C
+3740,309.0,2022-12-05,Family room,Hotel B
+3741,48.7,2022-12-05,Single room,
+3742,38.6,2022-12-05,Twin room,
+3743,16.9,2022-12-05,Twin room,Hotel C
+3744,42.0,2022-12-05,,
+3745,29.43,2022-12-05,Male dorm,Hostel A
+3746,24.0,2022-12-05,Large dorm,Hostel B
+3747,21.3,2022-12-05,Single room,Hotel C
+3748,30.0,2022-12-04,Male dorm,Hostel A
+3749,306.0,2022-12-04,Family room,Hotel B
+3750,18.4,2022-12-04,,Hotel C
+3751,326.0,2022-12-04,Luxury suite,Hotel B
+3752,21.3,2022-12-04,Single room,Hotel C
+3753,16.9,2022-12-04,Twin room,Hotel C
+3754,120.0,2022-12-04,Studio,Hotel D
+3755,22.0,2022-12-04,Large dorm,Hostel B
+3756,40.8,2022-12-04,Single room,
+3757,32.5,2022-12-04,Female dorm,Hostel A
+3758,35.2,2022-12-04,,
+3759,32.4,2022-12-04,Twin room,
+3760,165.0,2022-12-03,Studio,Hotel D
+3761,89.0,2022-12-03,Male dorm,Hostel A
+3762,63.8,2022-12-03,Twin room,
+3763,69.4,2022-12-03,,
+3764,29.7,2022-12-03,Twin room,Hotel C
+3765,38.0,2022-12-03,Large dorm,Hostel B
+3766,32.3,2022-12-03,,Hotel C
+3767,411.0,2022-12-03,Luxury suite,Hotel B
+3768,391.0,2022-12-03,Family room,Hotel B
+3769,37.5,2022-12-03,Single room,Hotel C
+3770,106.25,2022-12-03,Female dorm,Hostel A
+3771,80.5,2022-12-03,Single room,
+3772,30.5,2022-12-02,Single room,Hotel C
+3773,327.0,2022-12-02,Family room,Hotel B
+3774,50.28,2022-12-02,Male dorm,Hostel A
+3775,65.5,2022-12-02,Single room,
+3776,38.0,2022-12-02,Large dorm,Hostel B
+3777,177.0,2022-12-02,Studio,Hotel D
+3778,347.0,2022-12-02,Luxury suite,Hotel B
+3779,57.85,2022-12-02,Female dorm,Hostel A
+3780,56.5,2022-12-02,,
+3781,24.2,2022-12-02,Twin room,Hotel C
+3782,26.3,2022-12-02,,Hotel C
+3783,52.0,2022-12-02,Twin room,
+3784,18.9,2022-12-01,Twin room,Hotel C
+3785,49.9,2022-12-01,Single room,
+3786,39.6,2022-12-01,Twin room,
+3787,20.5,2022-12-01,,Hotel C
+3788,26.0,2022-12-01,Large dorm,Hostel B
+3789,133.0,2022-12-01,Studio,Hotel D
+3790,23.8,2022-12-01,Single room,Hotel C
+3791,319.0,2022-12-01,Family room,Hotel B
+3792,43.0,2022-12-01,,
+3793,29.0,2022-12-01,Male dorm,Hostel A
+3794,339.0,2022-12-01,Luxury suite,Hotel B
+3795,31.25,2022-12-01,Female dorm,Hostel A
+3796,21.0,2022-11-30,Large dorm,Hostel B
+3797,48.7,2022-11-30,Single room,
+3798,38.6,2022-11-30,Twin room,
+3799,28.75,2022-11-30,Female dorm,Hostel A
+3800,19.2,2022-11-30,,Hotel C
+3801,27.0,2022-11-30,Male dorm,Hostel A
+3802,298.0,2022-11-30,Family room,Hotel B
+3803,22.3,2022-11-30,Single room,Hotel C
+3804,42.0,2022-11-30,,
+3805,17.7,2022-11-30,Twin room,Hotel C
+3806,118.0,2022-11-30,Studio,Hotel D
+3807,318.0,2022-11-30,Luxury suite,Hotel B
+3808,37.8,2022-11-29,Twin room,
+3809,47.7,2022-11-29,Single room,
+3810,17.7,2022-11-29,Twin room,Hotel C
+3811,334.0,2022-11-29,Family room,Hotel B
+3812,41.1,2022-11-29,,
+3813,22.3,2022-11-29,Single room,Hotel C
+3814,21.0,2022-11-29,Large dorm,Hostel B
+3815,27.26,2022-11-29,Female dorm,Hostel A
+3816,354.0,2022-11-29,Luxury suite,Hotel B
+3817,19.2,2022-11-29,,Hotel C
+3818,118.0,2022-11-29,Studio,Hotel D
+3819,25.81,2022-11-29,Male dorm,Hostel A
+3820,16.9,2022-11-28,Twin room,Hotel C
+3821,26.95,2022-11-28,Female dorm,Hostel A
+3822,21.3,2022-11-28,Single room,Hotel C
+3823,41.2,2022-11-28,,
+3824,18.4,2022-11-28,,Hotel C
+3825,294.0,2022-11-28,Family room,Hotel B
+3826,47.8,2022-11-28,Single room,
+3827,21.0,2022-11-28,Large dorm,Hostel B
+3828,314.0,2022-11-28,Luxury suite,Hotel B
+3829,25.56,2022-11-28,Male dorm,Hostel A
+3830,118.0,2022-11-28,Studio,Hotel D
+3831,37.9,2022-11-28,Twin room,
+3832,313.0,2022-11-27,Luxury suite,Hotel B
+3833,25.0,2022-11-27,Male dorm,Hostel A
+3834,23.0,2022-11-27,Large dorm,Hostel B
+3835,123.0,2022-11-27,Studio,Hotel D
+3836,16.9,2022-11-27,Twin room,Hotel C
+3837,31.8,2022-11-27,Twin room,
+3838,293.0,2022-11-27,Family room,Hotel B
+3839,21.3,2022-11-27,Single room,Hotel C
+3840,26.25,2022-11-27,Female dorm,Hostel A
+3841,40.1,2022-11-27,Single room,
+3842,18.4,2022-11-27,,Hotel C
+3843,34.6,2022-11-27,,
+3844,158.0,2022-11-26,Studio,Hotel D
+3845,26.3,2022-11-26,,Hotel C
+3846,58.7,2022-11-26,Twin room,
+3847,339.0,2022-11-26,Luxury suite,Hotel B
+3848,30.5,2022-11-26,Single room,Hotel C
+3849,24.2,2022-11-26,Twin room,Hotel C
+3850,74.0,2022-11-26,Single room,
+3851,99.17,2022-11-26,Male dorm,Hostel A
+3852,319.0,2022-11-26,Family room,Hotel B
+3853,39.0,2022-11-26,Large dorm,Hostel B
+3854,63.8,2022-11-26,,
+3855,118.96,2022-11-26,Female dorm,Hostel A
+3856,156.0,2022-11-25,Studio,Hotel D
+3857,25.8,2022-11-25,,Hotel C
+3858,370.0,2022-11-25,Luxury suite,Hotel B
+3859,64.4,2022-11-25,,
+3860,51.87,2022-11-25,Male dorm,Hostel A
+3861,23.7,2022-11-25,Twin room,Hotel C
+3862,74.7,2022-11-25,Single room,
+3863,29.9,2022-11-25,Single room,Hotel C
+3864,350.0,2022-11-25,Family room,Hotel B
+3865,39.0,2022-11-25,Large dorm,Hostel B
+3866,59.84,2022-11-25,Female dorm,Hostel A
+3867,59.2,2022-11-25,Twin room,
+3868,364.0,2022-11-24,Luxury suite,Hotel B
+3869,18.9,2022-11-24,Twin room,Hotel C
+3870,344.0,2022-11-24,Family room,Hotel B
+3871,28.0,2022-11-24,Male dorm,Hostel A
+3872,23.8,2022-11-24,Single room,Hotel C
+3873,27.0,2022-11-24,Large dorm,Hostel B
+3874,30.0,2022-11-24,Female dorm,Hostel A
+3875,41.4,2022-11-24,Twin room,
+3876,118.0,2022-11-24,Studio,Hotel D
+3877,45.0,2022-11-24,,
+3878,20.5,2022-11-24,,Hotel C
+3879,52.2,2022-11-24,Single room,
+3880,306.0,2022-11-23,Luxury suite,Hotel B
+3881,286.0,2022-11-23,Family room,Hotel B
+3882,38.6,2022-11-23,Twin room,
+3883,21.0,2022-11-23,Large dorm,Hostel B
+3884,26.0,2022-11-23,Male dorm,Hostel A
+3885,17.6,2022-11-23,Twin room,Hotel C
+3886,19.1,2022-11-23,,Hotel C
+3887,22.2,2022-11-23,Single room,Hotel C
+3888,48.7,2022-11-23,Single room,
+3889,27.5,2022-11-23,Female dorm,Hostel A
+3890,42.0,2022-11-23,,
+3891,118.0,2022-11-23,Studio,Hotel D
+3892,27.5,2022-11-22,Female dorm,Hostel A
+3893,48.7,2022-11-22,Single room,
+3894,285.0,2022-11-22,Family room,Hotel B
+3895,21.0,2022-11-22,Large dorm,Hostel B
+3896,42.0,2022-11-22,,
+3897,26.0,2022-11-22,Male dorm,Hostel A
+3898,17.6,2022-11-22,Twin room,Hotel C
+3899,305.0,2022-11-22,Luxury suite,Hotel B
+3900,22.2,2022-11-22,Single room,Hotel C
+3901,118.0,2022-11-22,Studio,Hotel D
+3902,19.1,2022-11-22,,Hotel C
+3903,38.6,2022-11-22,Twin room,
+3904,31.25,2022-11-21,Female dorm,Hostel A
+3905,18.0,2022-11-21,,Hotel C
+3906,280.0,2022-11-21,Family room,Hotel B
+3907,42.0,2022-11-21,,
+3908,120.0,2022-11-21,Studio,Hotel D
+3909,21.0,2022-11-21,Large dorm,Hostel B
+3910,48.7,2022-11-21,Single room,
+3911,300.0,2022-11-21,Luxury suite,Hotel B
+3912,29.0,2022-11-21,Male dorm,Hostel A
+3913,20.9,2022-11-21,Single room,Hotel C
+3914,16.6,2022-11-21,Twin room,Hotel C
+3915,38.6,2022-11-21,Twin room,
+3916,16.6,2022-11-20,Twin room,Hotel C
+3917,280.0,2022-11-20,Family room,Hotel B
+3918,34.5,2022-11-20,,
+3919,18.0,2022-11-20,,Hotel C
+3920,23.0,2022-11-20,Large dorm,Hostel B
+3921,31.25,2022-11-20,Female dorm,Hostel A
+3922,29.0,2022-11-20,Male dorm,Hostel A
+3923,300.0,2022-11-20,Luxury suite,Hotel B
+3924,20.9,2022-11-20,Single room,Hotel C
+3925,40.0,2022-11-20,Single room,
+3926,31.7,2022-11-20,Twin room,
+3927,132.0,2022-11-20,Studio,Hotel D
+3928,39.0,2022-11-19,Large dorm,Hostel B
+3929,62.8,2022-11-19,,
+3930,389.0,2022-11-19,Family room,Hotel B
+3931,93.0,2022-11-19,Male dorm,Hostel A
+3932,57.8,2022-11-19,Twin room,
+3933,21.0,2022-11-19,Twin room,Hotel C
+3934,72.8,2022-11-19,Single room,
+3935,26.4,2022-11-19,Single room,Hotel C
+3936,111.25,2022-11-19,Female dorm,Hostel A
+3937,22.8,2022-11-19,,Hotel C
+3938,203.0,2022-11-19,Studio,Hotel D
+3939,409.0,2022-11-19,Luxury suite,Hotel B
+3940,39.0,2022-11-18,Large dorm,Hostel B
+3941,48.0,2022-11-18,Male dorm,Hostel A
+3942,214.0,2022-11-18,Studio,Hotel D
+3943,332.0,2022-11-18,Luxury suite,Hotel B
+3944,21.6,2022-11-18,Twin room,Hotel C
+3945,57.0,2022-11-18,,
+3946,66.1,2022-11-18,Single room,
+3947,312.0,2022-11-18,Family room,Hotel B
+3948,55.0,2022-11-18,Female dorm,Hostel A
+3949,27.3,2022-11-18,Single room,Hotel C
+3950,52.4,2022-11-18,Twin room,
+3951,23.5,2022-11-18,,Hotel C
+3952,30.33,2022-11-17,Male dorm,Hostel A
+3953,42.6,2022-11-17,Twin room,
+3954,53.7,2022-11-17,Single room,
+3955,342.0,2022-11-17,Luxury suite,Hotel B
+3956,22.9,2022-11-17,Single room,Hotel C
+3957,156.0,2022-11-17,Studio,Hotel D
+3958,322.0,2022-11-17,Family room,Hotel B
+3959,29.0,2022-11-17,Large dorm,Hostel B
+3960,18.1,2022-11-17,Twin room,Hotel C
+3961,32.91,2022-11-17,Female dorm,Hostel A
+3962,46.3,2022-11-17,,
+3963,19.7,2022-11-17,,Hotel C
+3964,18.7,2022-11-16,,Hotel C
+3965,17.2,2022-11-16,Twin room,Hotel C
+3966,48.7,2022-11-16,Single room,
+3967,21.7,2022-11-16,Single room,Hotel C
+3968,143.0,2022-11-16,Studio,Hotel D
+3969,325.0,2022-11-16,Luxury suite,Hotel B
+3970,305.0,2022-11-16,Family room,Hotel B
+3971,42.0,2022-11-16,Male dorm,Hostel A
+3972,47.5,2022-11-16,Female dorm,Hostel A
+3973,38.6,2022-11-16,Twin room,
+3974,24.0,2022-11-16,Large dorm,Hostel B
+3975,42.0,2022-11-16,,
+3976,304.0,2022-11-15,Luxury suite,Hotel B
+3977,40.0,2022-11-15,Male dorm,Hostel A
+3978,284.0,2022-11-15,Family room,Hotel B
+3979,45.0,2022-11-15,Female dorm,Hostel A
+3980,42.0,2022-11-15,,
+3981,24.0,2022-11-15,Large dorm,Hostel B
+3982,17.2,2022-11-15,Twin room,Hotel C
+3983,18.7,2022-11-15,,Hotel C
+3984,48.7,2022-11-15,Single room,
+3985,142.0,2022-11-15,Studio,Hotel D
+3986,38.6,2022-11-15,Twin room,
+3987,21.7,2022-11-15,Single room,Hotel C
+3988,20.9,2022-11-14,Single room,Hotel C
+3989,16.6,2022-11-14,Twin room,Hotel C
+3990,24.0,2022-11-14,Large dorm,Hostel B
+3991,38.6,2022-11-14,Twin room,
+3992,126.0,2022-11-14,Studio,Hotel D
+3993,298.0,2022-11-14,Luxury suite,Hotel B
+3994,42.0,2022-11-14,,
+3995,48.7,2022-11-14,Single room,
+3996,25.0,2022-11-14,Female dorm,Hostel A
+3997,18.0,2022-11-14,,Hotel C
+3998,278.0,2022-11-14,Family room,Hotel B
+3999,25.0,2022-11-14,Male dorm,Hostel A
+4000,20.4,2022-11-13,Single room,Hotel C
+4001,17.6,2022-11-13,,Hotel C
+4002,276.0,2022-11-13,Family room,Hotel B
+4003,38.0,2022-11-13,Single room,
+4004,171.0,2022-11-13,Studio,Hotel D
+4005,23.75,2022-11-13,Female dorm,Hostel A
+4006,30.2,2022-11-13,Twin room,
+4007,23.0,2022-11-13,Male dorm,Hostel A
+4008,296.0,2022-11-13,Luxury suite,Hotel B
+4009,21.0,2022-11-13,Large dorm,Hostel B
+4010,32.8,2022-11-13,,
+4011,16.2,2022-11-13,Twin room,Hotel C
+4012,21.6,2022-11-12,,Hotel C
+4013,92.1,2022-11-12,Single room,
+4014,25.1,2022-11-12,Single room,Hotel C
+4015,315.0,2022-11-12,Family room,Hotel B
+4016,73.0,2022-11-12,Twin room,
+4017,39.0,2022-11-12,Large dorm,Hostel B
+4018,19.9,2022-11-12,Twin room,Hotel C
+4019,111.25,2022-11-12,Female dorm,Hostel A
+4020,93.0,2022-11-12,Male dorm,Hostel A
+4021,230.0,2022-11-12,Studio,Hotel D
+4022,335.0,2022-11-12,Luxury suite,Hotel B
+4023,79.4,2022-11-12,,
+4024,39.0,2022-11-11,Large dorm,Hostel B
+4025,22.0,2022-11-11,,Hotel C
+4026,57.2,2022-11-11,,
+4027,217.0,2022-11-11,Studio,Hotel D
+4028,66.4,2022-11-11,Single room,
+4029,20.2,2022-11-11,Twin room,Hotel C
+4030,73.0,2022-11-11,Male dorm,Hostel A
+4031,92.5,2022-11-11,Female dorm,Hostel A
+4032,291.0,2022-11-11,Family room,Hotel B
+4033,52.6,2022-11-11,Twin room,
+4034,311.0,2022-11-11,Luxury suite,Hotel B
+4035,25.5,2022-11-11,Single room,Hotel C
+4036,26.25,2022-11-10,Female dorm,Hostel A
+4037,23.5,2022-11-10,Single room,Hotel C
+4038,285.0,2022-11-10,Family room,Hotel B
+4039,53.5,2022-11-10,Single room,
+4040,42.4,2022-11-10,Twin room,
+4041,150.0,2022-11-10,Studio,Hotel D
+4042,29.0,2022-11-10,Large dorm,Hostel B
+4043,18.7,2022-11-10,Twin room,Hotel C
+4044,25.0,2022-11-10,Male dorm,Hostel A
+4045,305.0,2022-11-10,Luxury suite,Hotel B
+4046,20.3,2022-11-10,,Hotel C
+4047,46.1,2022-11-10,,
+4048,37.8,2022-11-09,Twin room,
+4049,26.25,2022-11-09,Female dorm,Hostel A
+4050,29.0,2022-11-09,Male dorm,Hostel A
+4051,22.4,2022-11-09,Single room,Hotel C
+4052,119.0,2022-11-09,Studio,Hotel D
+4053,47.7,2022-11-09,Single room,
+4054,19.3,2022-11-09,,Hotel C
+4055,17.8,2022-11-09,Twin room,Hotel C
+4056,41.1,2022-11-09,,
+4057,370.0,2022-11-09,Family room,Hotel B
+4058,390.0,2022-11-09,Luxury suite,Hotel B
+4059,24.0,2022-11-09,Large dorm,Hostel B
+4060,22.3,2022-11-08,Single room,Hotel C
+4061,41.0,2022-11-08,,
+4062,17.7,2022-11-08,Twin room,Hotel C
+4063,365.0,2022-11-08,Luxury suite,Hotel B
+4064,21.0,2022-11-08,Large dorm,Hostel B
+4065,19.2,2022-11-08,,Hotel C
+4066,118.0,2022-11-08,Studio,Hotel D
+4067,29.0,2022-11-08,Male dorm,Hostel A
+4068,47.6,2022-11-08,Single room,
+4069,37.7,2022-11-08,Twin room,
+4070,345.0,2022-11-08,Family room,Hotel B
+4071,28.75,2022-11-08,Female dorm,Hostel A
+4072,16.7,2022-11-07,Twin room,Hotel C
+4073,21.0,2022-11-07,Large dorm,Hostel B
+4074,118.0,2022-11-07,Studio,Hotel D
+4075,46.9,2022-11-07,Single room,
+4076,40.4,2022-11-07,,
+4077,324.0,2022-11-07,Luxury suite,Hotel B
+4078,304.0,2022-11-07,Family room,Hotel B
+4079,28.75,2022-11-07,Female dorm,Hostel A
+4080,18.1,2022-11-07,,Hotel C
+4081,21.0,2022-11-07,Single room,Hotel C
+4082,37.2,2022-11-07,Twin room,
+4083,27.0,2022-11-07,Male dorm,Hostel A
+4084,33.7,2022-11-06,,
+4085,27.5,2022-11-06,Female dorm,Hostel A
+4086,26.0,2022-11-06,Male dorm,Hostel A
+4087,16.4,2022-11-06,Twin room,Hotel C
+4088,17.8,2022-11-06,,Hotel C
+4089,31.0,2022-11-06,Twin room,
+4090,118.0,2022-11-06,Studio,Hotel D
+4091,293.0,2022-11-06,Family room,Hotel B
+4092,39.1,2022-11-06,Single room,
+4093,313.0,2022-11-06,Luxury suite,Hotel B
+4094,20.6,2022-11-06,Single room,Hotel C
+4095,23.0,2022-11-06,Large dorm,Hostel B
+4096,39.0,2022-11-05,Large dorm,Hostel B
+4097,19.6,2022-11-05,Twin room,Hotel C
+4098,84.0,2022-11-05,Male dorm,Hostel A
+4099,24.7,2022-11-05,Single room,Hotel C
+4100,57.2,2022-11-05,Twin room,
+4101,179.0,2022-11-05,Studio,Hotel D
+4102,21.3,2022-11-05,,Hotel C
+4103,345.0,2022-11-05,Family room,Hotel B
+4104,100.0,2022-11-05,Female dorm,Hostel A
+4105,365.0,2022-11-05,Luxury suite,Hotel B
+4106,72.2,2022-11-05,Single room,
+4107,62.2,2022-11-05,,
+4108,39.0,2022-11-04,Large dorm,Hostel B
+4109,81.25,2022-11-04,Female dorm,Hostel A
+4110,341.0,2022-11-04,Family room,Hotel B
+4111,21.4,2022-11-04,,Hotel C
+4112,361.0,2022-11-04,Luxury suite,Hotel B
+4113,58.0,2022-11-04,Twin room,
+4114,89.0,2022-11-04,Male dorm,Hostel A
+4115,63.0,2022-11-04,,
+4116,19.7,2022-11-04,Twin room,Hotel C
+4117,73.1,2022-11-04,Single room,
+4118,24.8,2022-11-04,Single room,Hotel C
+4119,172.0,2022-11-04,Studio,Hotel D
+4120,16.6,2022-11-03,Twin room,Hotel C
+4121,18.0,2022-11-03,,Hotel C
+4122,29.0,2022-11-03,Large dorm,Hostel B
+4123,118.0,2022-11-03,Studio,Hotel D
+4124,72.5,2022-11-03,Female dorm,Hostel A
+4125,43.2,2022-11-03,Twin room,
+4126,47.0,2022-11-03,,
+4127,54.5,2022-11-03,Single room,
+4128,20.9,2022-11-03,Single room,Hotel C
+4129,83.0,2022-11-03,Male dorm,Hostel A
+4130,319.0,2022-11-03,Family room,Hotel B
+4131,339.0,2022-11-03,Luxury suite,Hotel B
+4132,52.0,2022-11-02,Male dorm,Hostel A
+4133,49.8,2022-11-02,Single room,
+4134,118.0,2022-11-02,Studio,Hotel D
+4135,19.8,2022-11-02,Single room,Hotel C
+4136,15.7,2022-11-02,Twin room,Hotel C
+4137,17.1,2022-11-02,,Hotel C
+4138,60.0,2022-11-02,Female dorm,Hostel A
+4139,340.0,2022-11-02,Luxury suite,Hotel B
+4140,320.0,2022-11-02,Family room,Hotel B
+4141,39.5,2022-11-02,Twin room,
+4142,42.9,2022-11-02,,
+4143,27.0,2022-11-02,Large dorm,Hostel B
+4144,34.36,2022-11-01,Female dorm,Hostel A
+4145,31.49,2022-11-01,Male dorm,Hostel A
+4146,17.1,2022-11-01,,Hotel C
+4147,319.0,2022-11-01,Family room,Hotel B
+4148,19.8,2022-11-01,Single room,Hotel C
+4149,41.1,2022-11-01,,
+4150,47.7,2022-11-01,Single room,
+4151,37.8,2022-11-01,Twin room,
+4152,15.7,2022-11-01,Twin room,Hotel C
+4153,27.0,2022-11-01,Large dorm,Hostel B
+4154,118.0,2022-11-01,Studio,Hotel D
+4155,339.0,2022-11-01,Luxury suite,Hotel B
+4156,32.5,2022-10-31,Female dorm,Hostel A
+4157,30.0,2022-10-31,Male dorm,Hostel A
+4158,289.0,2022-10-31,Family room,Hotel B
+4159,21.7,2022-10-31,Large dorm,Hostel B
+4160,20.4,2022-10-31,Single room,Hotel C
+4161,47.6,2022-10-31,Single room,
+4162,129.0,2022-10-31,Studio,Hotel D
+4163,41.0,2022-10-31,,
+4164,16.2,2022-10-31,Twin room,Hotel C
+4165,17.6,2022-10-31,,Hotel C
+4166,37.7,2022-10-31,Twin room,
+4167,309.0,2022-10-31,Luxury suite,Hotel B
+4168,37.0,2022-10-30,Male dorm,Hostel A
+4169,25.0,2022-10-30,Large dorm,Hostel B
+4170,41.25,2022-10-30,Female dorm,Hostel A
+4171,21.5,2022-10-30,Single room,Hotel C
+4172,33.2,2022-10-30,,
+4173,300.0,2022-10-30,Luxury suite,Hotel B
+4174,18.5,2022-10-30,,Hotel C
+4175,132.0,2022-10-30,Studio,Hotel D
+4176,280.0,2022-10-30,Family room,Hotel B
+4177,38.5,2022-10-30,Single room,
+4178,30.5,2022-10-30,Twin room,
+4179,17.0,2022-10-30,Twin room,Hotel C
+4180,29.3,2022-10-29,Twin room,Hotel C
+4181,31.9,2022-10-29,,Hotel C
+4182,84.1,2022-10-29,Single room,
+4183,324.0,2022-10-29,Family room,Hotel B
+4184,72.5,2022-10-29,,
+4185,66.7,2022-10-29,Twin room,
+4186,37.0,2022-10-29,Single room,Hotel C
+4187,111.25,2022-10-29,Female dorm,Hostel A
+4188,202.0,2022-10-29,Studio,Hotel D
+4189,93.0,2022-10-29,Male dorm,Hostel A
+4190,344.0,2022-10-29,Luxury suite,Hotel B
+4191,42.0,2022-10-29,Large dorm,Hostel B
+4192,28.1,2022-10-28,,Hotel C
+4193,32.6,2022-10-28,Single room,Hotel C
+4194,65.0,2022-10-28,Female dorm,Hostel A
+4195,211.0,2022-10-28,Studio,Hotel D
+4196,345.0,2022-10-28,Luxury suite,Hotel B
+4197,25.9,2022-10-28,Twin room,Hotel C
+4198,42.0,2022-10-28,Large dorm,Hostel B
+4199,64.8,2022-10-28,Twin room,
+4200,56.0,2022-10-28,Male dorm,Hostel A
+4201,70.4,2022-10-28,,
+4202,81.7,2022-10-28,Single room,
+4203,325.0,2022-10-28,Family room,Hotel B
+4204,18.6,2022-10-27,Twin room,Hotel C
+4205,27.0,2022-10-27,Large dorm,Hostel B
+4206,35.0,2022-10-27,Female dorm,Hostel A
+4207,32.0,2022-10-27,Male dorm,Hostel A
+4208,20.2,2022-10-27,,Hotel C
+4209,46.4,2022-10-27,Single room,
+4210,36.8,2022-10-27,Twin room,
+4211,145.0,2022-10-27,Studio,Hotel D
+4212,40.0,2022-10-27,,
+4213,23.4,2022-10-27,Single room,Hotel C
+4214,293.0,2022-10-27,Family room,Hotel B
+4215,313.0,2022-10-27,Luxury suite,Hotel B
+4216,311.0,2022-10-26,Luxury suite,Hotel B
+4217,52.5,2022-10-26,Female dorm,Hostel A
+4218,45.8,2022-10-26,,
+4219,42.1,2022-10-26,Twin room,
+4220,25.0,2022-10-26,Large dorm,Hostel B
+4221,21.9,2022-10-26,Single room,Hotel C
+4222,145.0,2022-10-26,Studio,Hotel D
+4223,17.4,2022-10-26,Twin room,Hotel C
+4224,43.0,2022-10-26,Male dorm,Hostel A
+4225,53.1,2022-10-26,Single room,
+4226,18.9,2022-10-26,,Hotel C
+4227,291.0,2022-10-26,Family room,Hotel B
+4228,50.8,2022-10-25,Single room,
+4229,21.5,2022-10-25,Single room,Hotel C
+4230,43.8,2022-10-25,,
+4231,40.3,2022-10-25,Twin room,
+4232,17.0,2022-10-25,Twin room,Hotel C
+4233,65.0,2022-10-25,Female dorm,Hostel A
+4234,56.0,2022-10-25,Male dorm,Hostel A
+4235,18.5,2022-10-25,,Hotel C
+4236,306.0,2022-10-25,Luxury suite,Hotel B
+4237,25.0,2022-10-25,Large dorm,Hostel B
+4238,128.0,2022-10-25,Studio,Hotel D
+4239,286.0,2022-10-25,Family room,Hotel B
+4240,50.0,2022-10-24,Female dorm,Hostel A
+4241,40.4,2022-10-24,Twin room,
+4242,16.0,2022-10-24,Twin room,Hotel C
+4243,126.0,2022-10-24,Studio,Hotel D
+4244,290.0,2022-10-24,Family room,Hotel B
+4245,310.0,2022-10-24,Luxury suite,Hotel B
+4246,44.0,2022-10-24,Male dorm,Hostel A
+4247,50.9,2022-10-24,Single room,
+4248,43.9,2022-10-24,,
+4249,17.4,2022-10-24,,Hotel C
+4250,20.2,2022-10-24,Single room,Hotel C
+4251,25.0,2022-10-24,Large dorm,Hostel B
+4252,44.0,2022-10-23,Male dorm,Hostel A
+4253,27.0,2022-10-23,Large dorm,Hostel B
+4254,253.0,2022-10-23,Studio,Hotel D
+4255,40.8,2022-10-23,Single room,
+4256,289.0,2022-10-23,Family room,Hotel B
+4257,35.2,2022-10-23,,
+4258,20.1,2022-10-23,Single room,Hotel C
+4259,15.9,2022-10-23,Twin room,Hotel C
+4260,309.0,2022-10-23,Luxury suite,Hotel B
+4261,50.0,2022-10-23,Female dorm,Hostel A
+4262,32.4,2022-10-23,Twin room,
+4263,17.3,2022-10-23,,Hotel C
+4264,391.0,2022-10-22,Luxury suite,Hotel B
+4265,24.7,2022-10-22,Twin room,Hotel C
+4266,93.0,2022-10-22,Male dorm,Hostel A
+4267,26.8,2022-10-22,,Hotel C
+4268,42.0,2022-10-22,Large dorm,Hostel B
+4269,78.1,2022-10-22,Single room,
+4270,67.3,2022-10-22,,
+4271,61.9,2022-10-22,Twin room,
+4272,300.0,2022-10-22,Studio,Hotel D
+4273,31.1,2022-10-22,Single room,Hotel C
+4274,371.0,2022-10-22,Family room,Hotel B
+4275,115.0,2022-10-22,Female dorm,Hostel A
+4276,30.6,2022-10-21,Single room,Hotel C
+4277,270.0,2022-10-21,Studio,Hotel D
+4278,66.0,2022-10-21,Male dorm,Hostel A
+4279,66.4,2022-10-21,Single room,
+4280,42.0,2022-10-21,Large dorm,Hostel B
+4281,52.6,2022-10-21,Twin room,
+4282,26.4,2022-10-21,,Hotel C
+4283,57.2,2022-10-21,,
+4284,318.0,2022-10-21,Family room,Hotel B
+4285,24.3,2022-10-21,Twin room,Hotel C
+4286,87.5,2022-10-21,Female dorm,Hostel A
+4287,338.0,2022-10-21,Luxury suite,Hotel B
+4288,68.75,2022-10-20,Female dorm,Hostel A
+4289,51.9,2022-10-20,Single room,
+4290,340.0,2022-10-20,Luxury suite,Hotel B
+4291,16.9,2022-10-20,Twin room,Hotel C
+4292,27.0,2022-10-20,Large dorm,Hostel B
+4293,44.7,2022-10-20,,
+4294,21.3,2022-10-20,Single room,Hotel C
+4295,320.0,2022-10-20,Family room,Hotel B
+4296,41.1,2022-10-20,Twin room,
+4297,155.0,2022-10-20,Studio,Hotel D
+4298,53.0,2022-10-20,Male dorm,Hostel A
+4299,18.4,2022-10-20,,Hotel C
